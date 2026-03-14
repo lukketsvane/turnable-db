@@ -303,7 +303,12 @@ function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
       
       <div className="flex flex-col items-center justify-center h-full p-2 relative">
         <div className="flex-1 flex items-center justify-center w-full overflow-hidden relative">
-          {showVideo ? (
+          <img 
+            src={item.thumb} 
+            alt={item.name} 
+            className={`absolute inset-0 w-full h-full object-contain transition-opacity duration-300 ${showVideo ? 'opacity-0' : 'opacity-100'}`} 
+          />
+          {item.thumbVideo && (
             <video 
               ref={videoRef}
               src={item.thumbVideo} 
@@ -311,10 +316,8 @@ function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
               loop 
               muted 
               playsInline 
-              className="max-w-full max-h-full object-contain mix-blend-multiply" 
+              className={`absolute inset-0 w-full h-full object-contain mix-blend-multiply transition-opacity duration-300 ${showVideo ? 'opacity-100' : 'opacity-0'}`} 
             />
-          ) : (
-            <img src={item.thumb} alt={item.name} className="max-w-full max-h-full object-contain" />
           )}
         </div>
         <div className="text-black font-sans font-bold text-[9px] mt-1 truncate w-full text-center uppercase tracking-tighter">
