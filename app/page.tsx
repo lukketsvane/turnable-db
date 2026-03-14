@@ -183,9 +183,10 @@ function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
   const videoRef = useRef<HTMLVideoElement>(null)
   const [isActive, setIsActive] = useState(false)
   const [isDirectHover, setIsDirectHover] = useState(false)
+  const [isRandomActive, setIsRandomActive] = useState(false)
 
+  // Radial proximity effect
   useEffect(() => {
-    // Only apply radial effect on devices with a mouse
     if (!window.matchMedia("(pointer: fine)").matches) return
 
     let isTicking = false
@@ -201,14 +202,14 @@ function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
           const centerY = rect.top + rect.height / 2
           const dist = Math.hypot(e.clientX - centerX, e.clientY - centerY)
           
-          // Radial dropoff distance (px)
-          const threshold = window.innerWidth > 1024 ? 400 : 250
+          // More subtle radial dropoff distance
+          const threshold = window.innerWidth > 1024 ? 300 : 200
           
           if (dist < threshold) {
             setIsActive(true)
             if (videoRef.current) {
-              // Speed maps from 1.5x (at center) to 0.2x (at edge of threshold)
-              const speed = Math.max(0.2, 1.5 - (dist / threshold) * 1.3)
+              // Speed maps from 1.0x (at center) to 0.1x (at edge of threshold)
+              const speed = Math.max(0.1, 1.0 - (dist / threshold) * 0.9)
               videoRef.current.playbackRate = speed
             }
           } else {
@@ -223,7 +224,50 @@ function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
     return () => window.removeEventListener("mousemove", handleMouseMove)
   }, [])
 
-  const showVideo = (isActive || isDirectHover) && !!item.thumbVideo
+  // Random ambient movement
+  useEffect(() => {
+    // Initial random offset so they don't all trigger at once
+    const initialDelay = Math.random() * 5000
+    
+    let spinTimeout: NodeJS.Timeout
+    let stopSpinTimeout: NodeJS.Timeout
+
+    const startRandomSpin = () => {
+      // 10% chance to spin every interval
+      if (Math.random() < 0.10) {
+        setIsRandomActive(true)
+        if (videoRef.current) {
+          videoRef.current.playbackRate = 0.3 + Math.random() * 0.4 // Slow, gentle random speed between 0.3x and 0.7x
+        }
+        
+        // Spin for a random duration between 2s and 6s
+        const spinDuration = 2000 + Math.random() * 4000
+        stopSpinTimeout = setTimeout(() => {
+          setIsRandomActive(false)
+        }, spinDuration)
+      }
+      
+      // Schedule next check between 3s and 10s
+      const nextCheck = 3000 + Math.random() * 7000
+      spinTimeout = setTimeout(startRandomSpin, nextCheck)
+    }
+
+    spinTimeout = setTimeout(startRandomSpin, initialDelay)
+
+    return () => {
+      clearTimeout(spinTimeout)
+      clearTimeout(stopSpinTimeout)
+    }
+  }, [])
+
+  // Direct hover overrides ambient random logic
+  useEffect(() => {
+    if (isDirectHover && videoRef.current) {
+      videoRef.current.playbackRate = 1.0
+    }
+  }, [isDirectHover])
+
+  const showVideo = (isActive || isDirectHover || isRandomActive) && !!item.thumbVideo
 
   return (
     <div 
