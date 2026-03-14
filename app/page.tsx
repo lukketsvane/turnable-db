@@ -170,7 +170,7 @@ export default function Home() {
   const turntableRef = useRef<Turntable | null>(null)
 
   useEffect(() => {
-    fetch("/data/chairs.json", { cache: "no-store" })
+    fetch(`/data/chairs.json?t=${Date.now()}`, { cache: "no-store" })
       .then(res => res.json())
       .then(setGalleryData)
       .catch(err => console.error("Feil ved lasting av stolar:", err))
@@ -196,7 +196,12 @@ export default function Home() {
         const handleReady = () => {
           turntableRef.current = new Turntable(container, video)
         }
-        video.addEventListener("loadeddata", handleReady, { once: true })
+        
+        if (video.readyState >= 2) {
+          handleReady()
+        } else {
+          video.addEventListener("loadeddata", handleReady, { once: true })
+        }
       }
     }
     return () => turntableRef.current?.destroy()
@@ -354,13 +359,14 @@ export default function Home() {
           >
             {currentItem.video ? (
               <video 
+                key={currentItem.id}
                 id="detail-video" 
                 src={currentItem.video} 
                 className="w-full h-full object-contain pointer-events-none" 
                 muted playsInline 
               />
             ) : (
-              <img src={currentItem.fullImage || currentItem.thumb} className="w-full h-full object-contain" />
+              <img key={currentItem.id} src={currentItem.fullImage || currentItem.thumb} className="w-full h-full object-contain" />
             )}
           </div>
         </div>
