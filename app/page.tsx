@@ -405,19 +405,19 @@ export default function Home() {
         </div>
 
         {/* Metadata Sidebar */}
-        <div className="lg:w-[450px] border-l border-gray-100 bg-gray-50/50 p-8 lg:p-16 overflow-y-auto h-screen">
-          <div className="space-y-12 py-20 lg:py-0">
+        <div className="lg:w-[450px] border-l border-gray-100 bg-gray-50/50 p-8 lg:p-12 overflow-y-auto h-screen">
+          <div className="space-y-8 py-20 lg:py-0">
             <section>
-              <h1 className="text-4xl font-sans font-black tracking-tighter uppercase leading-none mb-4">{formatName(currentItem.name)}</h1>
-              <p className="font-mono text-gray-400 text-xs font-bold uppercase tracking-widest">{currentItem.year}</p>
+              <h1 className="text-4xl font-sans font-black tracking-tighter uppercase leading-none mb-2">{formatName(currentItem.name)}</h1>
+              <p className="font-mono text-gray-500 text-xs font-bold uppercase tracking-widest">{currentItem.year}</p>
             </section>
 
-            <section className="space-y-4">
-              <h2 className="font-mono font-black text-[10px] uppercase tracking-[0.3em] text-gray-300">Skildring</h2>
+            <section className="space-y-2">
+              <h2 className="font-mono font-black text-[10px] uppercase tracking-[0.3em] text-gray-500">Skildring</h2>
               <p className="text-lg font-serif leading-relaxed text-gray-800">{currentItem.text || "Skildring kjem snart..."}</p>
             </section>
 
-            <div className="grid grid-cols-1 gap-y-8 border-t border-gray-100 pt-12">
+            <div className="grid grid-cols-1 gap-y-6 border-t border-gray-100 pt-8">
               {[
                 { label: "Mål", val: currentItem.specs, mono: true },
                 { label: "Materialar", val: currentItem.materials },
@@ -427,14 +427,14 @@ export default function Home() {
                 { label: "Produsent", val: currentItem.producer }
               ].map(f => f.val && (
                 <div key={f.label}>
-                  <h3 className="font-mono font-black text-[9px] uppercase tracking-[0.2em] text-gray-300 mb-2">{f.label}</h3>
+                  <h3 className="font-mono font-black text-[9px] uppercase tracking-[0.2em] text-gray-500 mb-1">{f.label}</h3>
                   <p className={`text-sm font-bold ${f.mono ? 'font-mono' : 'font-sans'} text-black`}>{f.val}</p>
                 </div>
               ))}
             </div>
 
             {currentItem.source && (
-              <a href={currentItem.source} target="_blank" className="block pt-12 font-mono font-black text-[10px] uppercase tracking-widest hover:line-through">
+              <a href={currentItem.source} target="_blank" className="block pt-8 font-mono font-black text-[10px] uppercase tracking-widest hover:line-through">
                 Sjå hos Nasjonalmuseet ↗
               </a>
             )}
