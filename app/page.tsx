@@ -179,12 +179,57 @@ const formatName = (s: string) => {
 }
 
 function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
-  const [isHovered, setIsHovered] = useState(false)
+  const containerRef = useRef<HTMLDivElement>(null)
+  const videoRef = useRef<HTMLVideoElement>(null)
+  const [isActive, setIsActive] = useState(false)
+  const [isDirectHover, setIsDirectHover] = useState(false)
+
+  useEffect(() => {
+    // Only apply radial effect on devices with a mouse
+    if (!window.matchMedia("(pointer: fine)").matches) return
+
+    let isTicking = false
+
+    const handleMouseMove = (e: MouseEvent) => {
+      if (isTicking) return
+      isTicking = true
+      
+      requestAnimationFrame(() => {
+        if (containerRef.current) {
+          const rect = containerRef.current.getBoundingClientRect()
+          const centerX = rect.left + rect.width / 2
+          const centerY = rect.top + rect.height / 2
+          const dist = Math.hypot(e.clientX - centerX, e.clientY - centerY)
+          
+          // Radial dropoff distance (px)
+          const threshold = window.innerWidth > 1024 ? 400 : 250
+          
+          if (dist < threshold) {
+            setIsActive(true)
+            if (videoRef.current) {
+              // Speed maps from 1.5x (at center) to 0.2x (at edge of threshold)
+              const speed = Math.max(0.2, 1.5 - (dist / threshold) * 1.3)
+              videoRef.current.playbackRate = speed
+            }
+          } else {
+            setIsActive(false)
+          }
+        }
+        isTicking = false
+      })
+    }
+
+    window.addEventListener("mousemove", handleMouseMove)
+    return () => window.removeEventListener("mousemove", handleMouseMove)
+  }, [])
+
+  const showVideo = (isActive || isDirectHover) && !!item.thumbVideo
 
   return (
     <div 
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
+      ref={containerRef}
+      onMouseEnter={() => setIsDirectHover(true)}
+      onMouseLeave={() => setIsDirectHover(false)}
       onClick={onClick}
       onTouchStart={(e) => {
         if (e.touches.length === 2) {
@@ -214,8 +259,9 @@ function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
       
       <div className="flex flex-col items-center justify-center h-full p-2 relative">
         <div className="flex-1 flex items-center justify-center w-full overflow-hidden relative">
-          {(isHovered && item.thumbVideo) ? (
+          {showVideo ? (
             <video 
+              ref={videoRef}
               src={item.thumbVideo} 
               autoPlay 
               loop 
