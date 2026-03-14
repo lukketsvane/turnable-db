@@ -646,7 +646,7 @@ export default function Home() {
           </div>
 
           {/* Spacer — pushes content card below turntable */}
-          <div style={{ height: "33dvh" }} />
+          <div style={{ height: "48dvh" }} />
 
           {/* Content card — scrolls up over the fading turntable */}
           <div
