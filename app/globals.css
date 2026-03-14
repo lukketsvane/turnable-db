@@ -113,11 +113,25 @@
   --color-sidebar-ring: var(--sidebar-ring);
 }
 
+* {
+  -webkit-touch-callout: none !important; /* iOS Safari */
+  -webkit-user-select: none !important; /* Safari */
+  -khtml-user-select: none !important; /* Konqueror HTML */
+  -moz-user-select: none !important; /* Old versions of Firefox */
+  -ms-user-select: none !important; /* Internet Explorer/Edge */
+  user-select: none !important; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+::selection {
+  background: transparent !important;
+}
+::-moz-selection {
+  background: transparent !important;
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
-    user-select: none;
-    -webkit-user-select: none;
   }
   body {
     @apply bg-background text-foreground;
