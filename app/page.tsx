@@ -520,8 +520,8 @@ export default function Home() {
                 { label: "Produsent", val: currentItem.producer }
               ].map(f => f.val && (
                 <div key={f.label}>
-                  <h3 className="font-mono font-black text-[9px] uppercase tracking-[0.2em] text-gray-500 mb-1">{f.label}</h3>
-                  <p className={`text-sm font-bold ${f.mono ? 'font-mono' : 'font-sans'} text-black`}>{f.val}</p>
+                  <h3 className="font-mono font-black text-[12px] uppercase tracking-[0.2em] text-gray-500 mb-1">{f.label}</h3>
+                  <p className={`text-base font-bold ${f.mono ? 'font-mono' : 'font-sans'} text-black`}>{f.val}</p>
                 </div>
               ))}
             </div>
