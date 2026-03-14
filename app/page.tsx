@@ -25,6 +25,13 @@ interface ChairItem {
   acquisition: string
   photo: string
   location: string
+  betegnelse?: string
+  stilperiode?: string
+  dekorteknikk?: string
+  emneord?: string
+  eier?: string
+  estimatedWeight?: string
+  primaryMaterial?: string
 }
 
 // --- Turntable class with proper cleanup ---
@@ -192,7 +199,7 @@ function useIsMobile() {
 
 // --- Grid Item (no autoPlay videos on mobile) ---
 
-function GridItem({ item, onClick, isMobile }: { item: ChairItem; onClick: () => void; isMobile: boolean }) {
+function GridItem({ item, onClick, isMobile, scrollVelocity }: { item: ChairItem; onClick: () => void; isMobile: boolean; scrollVelocity: number }) {
   const containerRef = useRef<HTMLDivElement>(null)
   const videoRef = useRef<HTMLVideoElement>(null)
   const [isActive, setIsActive] = useState(false)
@@ -202,6 +209,9 @@ function GridItem({ item, onClick, isMobile }: { item: ChairItem; onClick: () =>
   const [pinchScale, setPinchScale] = useState(1)
   const [isPinching, setIsPinching] = useState(false)
   const pinchStartDist = useRef(0)
+
+  // Scroll-driven tile movement on mobile (subtle Y shift based on scroll velocity)
+  const tileOffset = isMobile ? Math.max(-6, Math.min(6, scrollVelocity * 0.3)) : 0
 
   // Lazy-load via IntersectionObserver
   useEffect(() => {
@@ -327,9 +337,11 @@ function GridItem({ item, onClick, isMobile }: { item: ChairItem; onClick: () =>
       className="relative aspect-square border-black/40 cursor-pointer bg-white group transition-all duration-300"
       style={{
         borderWidth: "0.5px",
-        transform: isPinching ? `scale(${pinchScale})` : "scale(1)",
+        transform: isPinching
+          ? `scale(${pinchScale})`
+          : `translateY(${tileOffset}px)`,
         zIndex: isPinching ? 50 : "auto",
-        transition: isPinching ? "none" : "transform 0.3s ease-out",
+        transition: isPinching ? "none" : "transform 0.15s ease-out",
       } as React.CSSProperties}
     >
       <div className="absolute top-1 left-1 font-mono font-bold text-[9px] text-black/80 z-10">{item.symbol}</div>
@@ -369,35 +381,40 @@ function GridItem({ item, onClick, isMobile }: { item: ChairItem; onClick: () =>
 
 // --- Metadata section (shared between mobile and desktop) ---
 
-function MetadataContent({ item }: { item: ChairItem }) {
+function MetadataContent({ item, compact }: { item: ChairItem; compact?: boolean }) {
   return (
-    <div className="space-y-8">
-      <section className="space-y-2">
-        <h2 className="font-mono font-black text-[10px] uppercase tracking-[0.3em] text-gray-500">Skildring</h2>
-        <p className="text-lg font-serif leading-relaxed text-gray-800">{item.text || "Skildring kjem snart..."}</p>
+    <div className={compact ? "space-y-4" : "space-y-8"}>
+      <section className="space-y-1">
+        <h2 className={`font-mono font-black uppercase tracking-[0.2em] text-gray-400 ${compact ? "text-[9px]" : "text-[10px] tracking-[0.3em]"}`}>Skildring</h2>
+        <p className={`font-serif leading-relaxed text-gray-800 ${compact ? "text-[15px]" : "text-lg"}`}>{item.text || "Skildring kjem snart..."}</p>
       </section>
 
-      <div className="grid grid-cols-1 gap-y-6 border-t border-gray-100 pt-8">
+      <div className={`grid grid-cols-2 border-t border-gray-100 ${compact ? "gap-x-4 gap-y-3 pt-4" : "grid-cols-1 gap-y-6 pt-8"}`}>
         {[
+          { label: "Type", val: item.betegnelse },
+          { label: "Stil", val: item.stilperiode },
           { label: "Mål", val: item.specs, mono: true },
+          { label: "Vekt", val: item.estimatedWeight, mono: true },
           { label: "Materialar", val: item.materials },
           { label: "Teknikkar", val: item.techniques },
+          { label: "Dekor", val: item.dekorteknikk },
           { label: "Stad", val: item.location },
+          { label: "Eigar", val: item.eier },
           { label: "Inventarnr", val: item.inventoryNr, mono: true },
           { label: "Produsent", val: item.producer },
         ].map(
           (f) =>
             f.val && (
               <div key={f.label}>
-                <h3 className="font-mono font-black text-[12px] uppercase tracking-[0.2em] text-gray-500 mb-1">{f.label}</h3>
-                <p className={`text-base font-bold ${f.mono ? "font-mono" : "font-sans"} text-black`}>{f.val}</p>
+                <h3 className={`font-mono font-black uppercase text-gray-400 ${compact ? "text-[9px] tracking-[0.15em] mb-0.5" : "text-[12px] tracking-[0.2em] text-gray-500 mb-1"}`}>{f.label}</h3>
+                <p className={`font-bold ${f.mono ? "font-mono" : "font-sans"} text-black ${compact ? "text-[13px] leading-snug" : "text-base"}`}>{f.val}</p>
               </div>
             )
         )}
       </div>
 
       {item.source && (
-        <a href={item.source} target="_blank" className="block pt-8 font-mono font-black text-[10px] uppercase tracking-widest hover:line-through">
+        <a href={item.source} target="_blank" className={`block font-mono font-black uppercase tracking-widest hover:line-through ${compact ? "pt-4 text-[9px]" : "pt-8 text-[10px]"}`}>
           Sjå hos Nasjonalmuseet ↗
         </a>
       )}
@@ -434,9 +451,11 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(true)
   const [videoReady, setVideoReady] = useState(false)
   const [turntableOpacity, setTurntableOpacity] = useState(1)
+  const [scrollVelocity, setScrollVelocity] = useState(0)
   const turntableRef = useRef<Turntable | null>(null)
   const isDraggingTurntable = useRef(false)
   const scrollRef = useRef<HTMLDivElement>(null)
+  const gridScrollRef = useRef<{ lastY: number; lastTime: number; rafId: number | null }>({ lastY: 0, lastTime: 0, rafId: null })
   const isMobile = useIsMobile()
 
   // Load gallery data
@@ -446,6 +465,41 @@ export default function Home() {
       .then((data) => { setGalleryData(data); setIsLoading(false) })
       .catch((err) => { console.error("Feil ved lasting av stolar:", err); setIsLoading(false) })
   }, [])
+
+  // Scroll velocity tracking for mobile tile movement
+  useEffect(() => {
+    if (!isMobile) return
+    const state = gridScrollRef.current
+    let decayId: number
+    const handleScroll = () => {
+      const now = performance.now()
+      const y = window.scrollY
+      if (state.lastTime > 0) {
+        const dt = now - state.lastTime
+        if (dt > 0) {
+          const vel = (y - state.lastY) / dt * 16 // normalize to ~per-frame
+          setScrollVelocity(vel)
+        }
+      }
+      state.lastY = y
+      state.lastTime = now
+      cancelAnimationFrame(decayId)
+      decayId = requestAnimationFrame(() => {
+        // Decay velocity to 0
+        const decay = () => {
+          setScrollVelocity(v => {
+            if (Math.abs(v) < 0.1) return 0
+            const next = v * 0.85
+            decayId = requestAnimationFrame(decay)
+            return next
+          })
+        }
+        setTimeout(decay, 50)
+      })
+    }
+    window.addEventListener("scroll", handleScroll, { passive: true })
+    return () => { window.removeEventListener("scroll", handleScroll); cancelAnimationFrame(decayId) }
+  }, [isMobile])
 
   // URL → item sync
   useEffect(() => {
@@ -592,7 +646,7 @@ export default function Home() {
           {/* Back button */}
           <button
             onClick={() => router.push("/")}
-            className="fixed z-50 font-mono font-black uppercase text-xs bg-white/90"
+            className="fixed z-50 font-mono font-black uppercase text-xs"
             style={{ top: "calc(env(safe-area-inset-top, 0px) + 1rem)", left: "1rem", padding: "0.25rem 0" }}
           >
             ← Tilbake
@@ -650,7 +704,7 @@ export default function Home() {
 
           {/* Content card — scrolls up over the fading turntable */}
           <div
-            className="relative z-10 bg-white min-h-[55dvh] px-6 pt-5 shadow-[0_-2px_16px_rgba(0,0,0,0.06)]"
+            className="relative z-10 bg-white min-h-[55dvh] px-5 pt-4 shadow-[0_-2px_16px_rgba(0,0,0,0.06)]"
             style={{
               borderTopLeftRadius: "1.25rem",
               borderTopRightRadius: "1.25rem",
@@ -658,15 +712,15 @@ export default function Home() {
             }}
           >
             {/* Drag handle */}
-            <div className="mx-auto w-10 h-1 bg-gray-200 rounded-full mb-4" />
+            <div className="mx-auto w-8 h-1 bg-gray-300 rounded-full mb-3" />
 
-            {/* Title — tight to the handle */}
-            <h1 className="text-3xl font-sans font-black tracking-tighter uppercase leading-none mb-1">
+            {/* Title */}
+            <h1 className="text-2xl font-sans font-black tracking-tight uppercase leading-none">
               {formatName(currentItem.name)}
             </h1>
-            <p className="font-mono text-gray-500 text-xs font-bold uppercase tracking-widest mb-6">{currentItem.year}</p>
+            <p className="font-mono text-gray-400 text-[11px] font-bold uppercase tracking-widest mt-0.5 mb-4">{currentItem.year}</p>
 
-            <MetadataContent item={currentItem} />
+            <MetadataContent item={currentItem} compact />
           </div>
         </div>
       )
@@ -752,7 +806,7 @@ export default function Home() {
 
         <div className="grid grid-cols-3 sm:grid-cols-6 md:grid-cols-8 lg:grid-cols-9 border-t border-l border-black/10">
           {galleryData.map((item) => (
-            <GridItem key={item.id} item={item} isMobile={isMobile} onClick={() => router.push(`/?item=${item.id}`)} />
+            <GridItem key={item.id} item={item} isMobile={isMobile} scrollVelocity={scrollVelocity} onClick={() => router.push(`/?item=${item.id}`)} />
           ))}
           {Array.from({ length: 18 }).map((_, i) => (
             <div key={`empty-${i}`} className="aspect-square border-black/5" style={{ borderWidth: "0.5px" }} />
