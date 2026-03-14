@@ -178,6 +178,63 @@ const formatName = (s: string) => {
   return s.split(/\s+/).map(w => w ? w[0].toUpperCase() + w.slice(1).toLowerCase() : w).join(" ")
 }
 
+function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
+  const [isHovered, setIsHovered] = useState(false)
+
+  return (
+    <div 
+      onMouseEnter={() => setIsHovered(true)}
+      onMouseLeave={() => setIsHovered(false)}
+      onClick={onClick}
+      onTouchStart={(e) => {
+        if (e.touches.length === 2) {
+          const target = e.currentTarget as HTMLElement
+          const dist = Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY)
+          target.dataset.pinchStart = dist.toString()
+        }
+      }}
+      onTouchMove={(e) => {
+        if (e.touches.length === 2) {
+          const target = e.currentTarget as HTMLElement
+          const startDist = parseFloat(target.dataset.pinchStart || "0")
+          if (startDist > 0) {
+            const currentDist = Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY)
+            if (currentDist - startDist > 40) { // Pinch out threshold
+              target.dataset.pinchStart = "0"
+              onClick()
+            }
+          }
+        }
+      }}
+      className="relative aspect-square border-black/40 cursor-pointer bg-white group transition-all duration-300"
+      style={{ borderWidth: "0.5px" }}
+    >
+      <div className="absolute top-1 left-1 font-mono font-bold text-[9px] text-black/80 z-10">{item.symbol}</div>
+      <div className="absolute top-1 right-1 font-mono font-bold text-[9px] text-black/80 z-10">{item.number}</div>
+      
+      <div className="flex flex-col items-center justify-center h-full p-2 relative">
+        <div className="flex-1 flex items-center justify-center w-full overflow-hidden relative">
+          {(isHovered && item.thumbVideo) ? (
+            <video 
+              src={item.thumbVideo} 
+              autoPlay 
+              loop 
+              muted 
+              playsInline 
+              className="max-w-full max-h-full object-contain mix-blend-multiply" 
+            />
+          ) : (
+            <img src={item.thumb} alt={item.name} className="max-w-full max-h-full object-contain" />
+          )}
+        </div>
+        <div className="text-black font-sans font-bold text-[9px] mt-1 truncate w-full text-center uppercase tracking-tighter">
+          {formatName(item.name)}
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default function Home() {
   const router = useRouter()
   const searchParams = useSearchParams()
@@ -300,50 +357,7 @@ export default function Home() {
     }
   }, [currentItem, galleryData, router])
 
-  const renderGridItem = (item: ChairItem | null, i: number) => {
-    if (!item) return <div key={`empty-${i}`} className="aspect-square border-black/5" style={{ borderWidth: "0.5px" }} />
 
-    return (
-      <div 
-        key={item.id}
-        onClick={() => router.push(`/?item=${item.id}`)}
-        onTouchStart={(e) => {
-          if (e.touches.length === 2) {
-            const target = e.currentTarget as HTMLElement
-            const dist = Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY)
-            target.dataset.pinchStart = dist.toString()
-          }
-        }}
-        onTouchMove={(e) => {
-          if (e.touches.length === 2) {
-            const target = e.currentTarget as HTMLElement
-            const startDist = parseFloat(target.dataset.pinchStart || "0")
-            if (startDist > 0) {
-              const currentDist = Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY)
-              if (currentDist - startDist > 40) { // Pinch out threshold
-                target.dataset.pinchStart = "0"
-                router.push(`/?item=${item.id}`)
-              }
-            }
-          }
-        }}
-        className="relative aspect-square border-black/40 cursor-pointer bg-white group hover:opacity-70 transition-all duration-300"
-        style={{ borderWidth: "0.5px" }}
-      >
-        <div className="absolute top-1 left-1 font-mono font-bold text-[9px] text-black/80">{item.symbol}</div>
-        <div className="absolute top-1 right-1 font-mono font-bold text-[9px] text-black/80">{item.number}</div>
-        
-        <div className="flex flex-col items-center justify-center h-full p-2">
-          <div className="flex-1 flex items-center justify-center w-full overflow-hidden">
-            <img src={item.thumb} alt={item.name} className="max-w-full max-h-full object-contain" />
-          </div>
-          <div className="text-black font-sans font-bold text-[9px] mt-1 truncate w-full text-center uppercase tracking-tighter">
-            {formatName(item.name)}
-          </div>
-        </div>
-      </div>
-    )
-  }
 
   if (currentItem) {
     return (
@@ -438,8 +452,12 @@ export default function Home() {
         </h1>
         
         <div className="grid grid-cols-3 sm:grid-cols-6 md:grid-cols-8 lg:grid-cols-9 border-t border-l border-black/10">
-          {galleryData.map((item, i) => renderGridItem(item, i))}
-          {Array.from({ length: 18 }).map((_, i) => renderGridItem(null, i))}
+          {galleryData.map(item => (
+            <GridItem key={item.id} item={item} onClick={() => router.push(`/?item=${item.id}`)} />
+          ))}
+          {Array.from({ length: 18 }).map((_, i) => (
+             <div key={`empty-${i}`} className="aspect-square border-black/5" style={{ borderWidth: "0.5px" }} />
+          ))}
         </div>
       </div>
     </div>
