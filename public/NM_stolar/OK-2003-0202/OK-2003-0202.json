@@ -1,0 +1,35 @@
+{
+  "objectId": "OK-2003-0202",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2003-0202",
+  "title": "LCP produsents tittel",
+  "Datering": "2002",
+  "Andre titler": "LCP (ITA)",
+  "Betegnelse": "Stol",
+  "Teknikk": "Formbøying",
+  "Materiale": "Plast",
+  "Mål": "H 64 x B 48,5 x D 95 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": [
+    "Roma",
+    "Italia"
+  ],
+  "Inventarnr.": "OK-2003-0202",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2003",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111643.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111643.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111643.tif/full/full/0/default.jpg",
+      "filename": "OK-2003-0202_111643.jpg",
+      "glb": "OK-2003-0202_111643.glb"
+    }
+  ],
+  "model3d": "OK-2003-0202_111643.glb"
+}

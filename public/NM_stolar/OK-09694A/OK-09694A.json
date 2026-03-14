@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-09694A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09694A",
+  "title": "Stol",
+  "Datering": "Første halvdel av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol konstruert i bøk, med polert rotfiner og marketeriteknikk, løst sete med plysjtrekk.",
+  "Teknikk": [
+    "Tapping",
+    "Polstring",
+    "Bladskjøting",
+    "Grading"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering",
+    "Profilering",
+    "Marketeri",
+    "Intarsia"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Nøttetre",
+    "Buksbom",
+    "Tekstil, plysj"
+  ],
+  "Mål": "H 108 x B 51 x D 50,5 cm Høyde: 47 cm Dybde: 36 cm Bredde: 45,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Régence",
+  "Produksjonssted": "Europa",
+  "Inventarnr.": "OK-09694A",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1923",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37742.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37742.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37742.tif/full/full/0/default.jpg",
+      "filename": "OK-09694A_37742.jpg",
+      "glb": "OK-09694A_37742.glb"
+    }
+  ],
+  "model3d": "OK-09694A_37742.glb"
+}

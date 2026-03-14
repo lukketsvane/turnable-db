@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-09694B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09694B",
+  "title": "Stol",
+  "Datering": "Første halvdel av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol av nøttetre og bøk med proifileringer og diverse innlagte tresorter. Sete trukket i plysj.",
+  "Teknikk": [
+    "Tapping",
+    "Polstring",
+    "Bladskjøting",
+    "Grading"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering",
+    "Profilering",
+    "Marketeri",
+    "Intarsia"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Bøk",
+    "Tekstil, plysj",
+    "Buksbom"
+  ],
+  "Mål": "H 107,3 x B 50 x D 52 cm Høyde: 47 cm Dybde: 36,5 cm Bredde: 45 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Queen Anne",
+  "Produksjonssted": "Holland",
+  "Inventarnr.": "OK-09694B",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1923",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37743.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37743.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37743.tif/full/full/0/default.jpg",
+      "filename": "OK-09694B_37743.jpg",
+      "glb": "OK-09694B_37743.glb"
+    }
+  ],
+  "model3d": "OK-09694B_37743.glb"
+}

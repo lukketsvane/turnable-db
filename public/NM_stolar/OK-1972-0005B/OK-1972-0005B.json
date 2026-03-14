@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-1972-0005B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1972-0005B",
+  "title": "Stol",
+  "Datering": "Ca. 1710",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Bøk med dreid og skåret dekor og tekstiltrekk.",
+  "Teknikk": [
+    "Innfelling",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Figurskjæring",
+    "Ornamentskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Tekstil",
+    "Bøk"
+  ],
+  "Mål": "H 116,5 x B 46 x D 39 cm Høyde: 48 cm Dybde: 39 cm Bredde: 46 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Skandinavia",
+  "Inventarnr.": "OK-1972-0005B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1965",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07215.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07215.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07215.tif/full/full/0/default.jpg",
+      "filename": "OK-1972-0005B_07215.jpg",
+      "glb": "OK-1972-0005B_07215.glb"
+    }
+  ],
+  "model3d": "OK-1972-0005B_07215.glb"
+}

@@ -1,0 +1,39 @@
+{
+  "objectId": "NMK.2007.0006",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2007.0006",
+  "title": "Maleri",
+  "Datering": "(1998)",
+  "Andre titler": "Painting (ENG)",
+  "Betegnelse": "Installasjon",
+  "Materiale og teknikk": "maling på vegg, stol, klær",
+  "Teknikk": "Blandet teknikk",
+  "Materiale": [
+    "Tekstil",
+    "Maling",
+    "Tre",
+    "Metall"
+  ],
+  "Mål": "Ca 180 x 150 x 65 cm",
+  "Emneord": "Bildende kunst",
+  "Klassifikasjon": "532 - Bildende kunst",
+  "Inventarnr.": "NMK.2007.0006",
+  "Registreringsnivå": "Komplekst objekt",
+  "Del av utstilling": [
+    "Fattig kunst - rik arv. Arte Povera og parallelle praksiser 1968 - 2015, 2015 - 2016",
+    "Kunst 4. Verk fra samlingen 1950-2007, 2007 - 2009"
+  ],
+  "Ervervelse": "Kjøpt 2007",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Billedkunstsamlingene",
+  "Foto": "Børre Høstland",
+  "Opphavsrett": "BONO",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/32202.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/32202.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/32202.tif/full/full/0/default.jpg",
+      "filename": "NMK.2007.0006_32202.jpg",
+      "glb": "NMK.2007.0006_32202.glb"
+    }
+  ],
+  "model3d": "NMK.2007.0006_32202.glb"
+}

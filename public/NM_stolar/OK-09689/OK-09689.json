@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-09689",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09689",
+  "title": "Stol",
+  "Datering": "1600-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert og beiset nøttetre, skåret og dreid dekor, preget lær, messing nagler",
+  "Teknikk": "Tapping",
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Dreiing",
+    "Pregetrykk",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Lær",
+    "Messing",
+    "Furu"
+  ],
+  "Mål": "H 124 x B 51 x D 43,5 cm Høyde: 124 cm Dybde: 43,5 cm Bredde: 51 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Portugal",
+  "Inventarnr.": "OK-09689",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1923",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08286.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08286.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08286.tif/full/full/0/default.jpg",
+      "filename": "OK-09689_08286.jpg",
+      "glb": "OK-09689_08286.glb"
+    }
+  ],
+  "model3d": "OK-09689_08286.glb"
+}

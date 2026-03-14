@@ -1,0 +1,33 @@
+{
+  "objectId": "OK-1999-0054",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1999-0054",
+  "title": "Toledo produsents tittelToledo produsents tittel",
+  "Datering": "1988",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Støpt aluminium",
+  "Teknikk": "Støp",
+  "Materiale": "Aluminium",
+  "Mål": "Bredde: 55,5 cm Høyde: 77,5 cm Dybde: 46,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Spania",
+  "Inventarnr.": "OK-1999-0054",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Ervervet 1999",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-1999-0054_111626.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111626.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111626.tif/full/512,/0/default.jpg",
+      "glb": "OK-1999-0054_111626.glb"
+    }
+  ],
+  "model3d": "OK-1999-0054_111626.glb"
+}

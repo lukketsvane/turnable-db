@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-11531C",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-11531C",
+  "title": "Stol",
+  "Datering": "1875-1899",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Skåret og beiset løvtre, sete og rygg av lær med presset dekor, dels forgylt",
+  "Dekorteknikk": [
+    "Pregetrykk",
+    "Figurskjæring",
+    "Beising",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Løvtre",
+    "Bøk",
+    "Lær"
+  ],
+  "Mål": "H 90 cm x B 74,5 cm x D 53 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322.4 - Møbelfagene"
+  ],
+  "Produksjonssted": [
+    "Roma",
+    "Italia"
+  ],
+  "Inventarnr.": "OK-11531C",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave innkommet 1946",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-11531C_02.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-11531C_02.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-11531C_02.tif/full/full/0/default.jpg",
+      "filename": "OK-11531C_OK-11531C_02.jpg",
+      "glb": "OK-11531C_OK-11531C_02.glb"
+    }
+  ],
+  "model3d": "OK-11531C_OK-11531C_02.glb"
+}

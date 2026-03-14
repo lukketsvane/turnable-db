@@ -1,0 +1,37 @@
+{
+  "objectId": "OK-1981-0026A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1981-0026A",
+  "title": "Stol",
+  "Datering": "1981",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd og lakkert kryssfiner av bøk, sete av linoleum",
+  "Teknikk": [
+    "Formbøying",
+    "Laminering",
+    "Tapping"
+  ],
+  "Dekorteknikk": "Lakkering",
+  "Materiale": [
+    "Bøk",
+    "Annet, linoleum",
+    "Kryssfiner"
+  ],
+  "Mål": "H 70 x, B 53,5 x D 46,5 cm Diameter: 40 cm Høyde: 44 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "OK-1981-0026A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1981",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92668.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92668.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92668.tif/full/full/0/default.jpg",
+      "filename": "OK-1981-0026A_92668.jpg",
+      "glb": "OK-1981-0026A_92668.glb"
+    }
+  ],
+  "model3d": "OK-1981-0026A_92668.glb"
+}

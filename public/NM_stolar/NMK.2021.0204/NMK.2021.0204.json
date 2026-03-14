@@ -1,0 +1,40 @@
+{
+  "objectId": "NMK.2021.0204",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2021.0204",
+  "title": "Balans Femini produsents tittelBalans Femini produsents tittel",
+  "Datering": "1983",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Polstert ullstoff, dreid tre og støpt stål",
+  "Teknikk": [
+    "Polstring",
+    "Skruing"
+  ],
+  "Materiale": [
+    "Ull",
+    "Stålrør",
+    "Tre",
+    "Skumplast"
+  ],
+  "Mål": "H 95 x B 63 x D 70 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Postmodernisme",
+  "Inventarnr.": "NMK.2021.0204",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2021",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2021.0204.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2021.0204.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2021.0204.tif/full/full/0/default.jpg",
+      "filename": "NMK.2021.0204_NMK.2021.0204.jpg",
+      "glb": "NMK.2021.0204_NMK.2021.0204.glb"
+    }
+  ],
+  "model3d": "NMK.2021.0204_NMK.2021.0204.glb"
+}

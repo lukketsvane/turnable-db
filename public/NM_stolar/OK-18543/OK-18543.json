@@ -1,0 +1,38 @@
+{
+  "objectId": "OK-18543",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-18543",
+  "title": "Stol",
+  "Datering": "Antagelig 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Støpt og loddet sølv",
+  "Teknikk": [
+    "Støping",
+    "Lodding"
+  ],
+  "Materiale": "Sølv",
+  "Mål": "H 4,8 cm Bredde: 2,7 cm",
+  "Emneord": [
+    "Modell",
+    "Møbel",
+    "Spill og lek"
+  ],
+  "Klassifikasjon": [
+    "524 - Lek og spill",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Nyrokokko",
+  "Produksjonssted": "Europa",
+  "Inventarnr.": "OK-18543",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1961",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-18543_134450.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/134450.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/134450.tif/full/512,/0/default.jpg",
+      "glb": "OK-18543_134450.glb"
+    }
+  ],
+  "model3d": "OK-18543_134450.glb"
+}

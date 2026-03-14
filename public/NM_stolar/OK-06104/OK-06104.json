@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-06104",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06104",
+  "title": "Stol",
+  "Datering": "1690-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre med gjennombrutt skåret og dreid dekor, plysjtrekk.",
+  "Teknikk": [
+    "Plugging",
+    "Tapping",
+    "Falsing",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Fernissering",
+    "Dreiing",
+    "Gjennombrutt utskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Tekstil, plysj"
+  ],
+  "Mål": "H 117,5 x B 55 x D 60 cm Bredde: 52 cm Høyde: 48 cm Dybde: 46,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Régence",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-06104",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1899",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/38137.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/38137.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/38137.tif/full/full/0/default.jpg",
+      "filename": "OK-06104_38137.jpg",
+      "glb": "OK-06104_38137.glb"
+    }
+  ],
+  "model3d": "OK-06104_38137.glb"
+}

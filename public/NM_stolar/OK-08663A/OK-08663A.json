@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-08663A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-08663A",
+  "title": "Stol",
+  "Datering": "1780-1799",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Pæretre med skåret dekor, hestehårstrekk.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Gjennombrutt utskjæring",
+    "Lavt relieff",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Pæretre",
+    "Hestetagl",
+    "Messing"
+  ],
+  "Mål": "H 95 x B 53 x D 51 cm Rygglengde: 50 cm Dybde: 42 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Hepplewhite",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-08663A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1912",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07164.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07164.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07164.tif/full/full/0/default.jpg",
+      "filename": "OK-08663A_07164.jpg",
+      "glb": "OK-08663A_07164.glb"
+    }
+  ],
+  "model3d": "OK-08663A_07164.glb"
+}

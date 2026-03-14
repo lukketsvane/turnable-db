@@ -1,0 +1,39 @@
+{
+  "objectId": "NMK.2018.0110",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2018.0110",
+  "title": "T.t.s / 2003",
+  "Datering": "2003",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Oljet eik med innfelt palisander og polstret skinn",
+  "Teknikk": [
+    "Innfelling",
+    "Polstring"
+  ],
+  "Dekorteknikk": "Oljing",
+  "Materiale": [
+    "Eik",
+    "Hud",
+    "Palisander"
+  ],
+  "Mål": "H 78,5 x B 58 x D 53 cm Bredde: 44 cm Dybde: 36 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2018.0110",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøp 2018",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157056.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157056.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157056.tif/full/full/0/default.jpg",
+      "filename": "NMK.2018.0110_157056.jpg",
+      "glb": "NMK.2018.0110_157056.glb"
+    }
+  ],
+  "model3d": "NMK.2018.0110_157056.glb"
+}

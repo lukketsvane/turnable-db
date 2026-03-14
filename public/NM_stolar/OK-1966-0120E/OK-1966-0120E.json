@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-1966-0120E",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1966-0120E",
+  "title": "Stol",
+  "Datering": "Mellom 1750 og 1770",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert bøk med skåret dekor og hestehårstrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Ornamentskjæring",
+    "Treskjæring",
+    "Beising",
+    "Fernissering",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Hestetagl"
+  ],
+  "Mål": "H 100 x B 47 x D 49,5 cm Dybde: 38 cm Høyde: 42,5 cm Bredde: 43 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Rokokko",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-1966-0120E",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1966",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/61893.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/61893.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/61893.tif/full/full/0/default.jpg",
+      "filename": "OK-1966-0120E_61893.jpg",
+      "glb": "OK-1966-0120E_61893.glb"
+    }
+  ],
+  "model3d": "OK-1966-0120E_61893.glb"
+}

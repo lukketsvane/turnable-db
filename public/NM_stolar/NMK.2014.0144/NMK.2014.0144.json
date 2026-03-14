@@ -1,0 +1,46 @@
+{
+  "objectId": "NMK.2014.0144",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2014.0144",
+  "title": "Stol",
+  "Datering": "1867",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fargelakkert støpejern og eik",
+  "Teknikk": [
+    "Støping",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Fargelakkering",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Jern",
+    "Eik"
+  ],
+  "Mål": "H 94 x B 62 x D 73,5 cm Dybde: 42 cm Vekt: 72 kg",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "351 - Tomt og hage",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "England",
+  "Inventarnr.": "NMK.2014.0144",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2014",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/99454.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/99454.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/99454.tif/full/full/0/default.jpg",
+      "filename": "NMK.2014.0144_99454.jpg",
+      "glb": "NMK.2014.0144_99454.glb"
+    }
+  ],
+  "model3d": "NMK.2014.0144_99454.glb"
+}

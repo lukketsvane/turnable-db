@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-07062",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07062",
+  "title": "Stol",
+  "Datering": "første halvdel av 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dekorbemalt bjørk og furu, skåret dekor.",
+  "Teknikk": "Tapping",
+  "Dekorteknikk": [
+    "Bemaling",
+    "Rosemaling",
+    "Gjennombrutt utskjæring",
+    "Treskjæring"
+  ],
+  "Materiale": [
+    "Furu",
+    "Bjørk"
+  ],
+  "Mål": "H 98 x B 47,3 x D 34 cm Bredde: 47,3 cm Rygglengde: 55 cm Høyde: 98 cm Dybde: 34 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Produksjonssted": [
+    "Tudal",
+    "Telemark"
+  ],
+  "Inventarnr.": "OK-07062",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1903",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07258.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07258.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07258.tif/full/full/0/default.jpg",
+      "filename": "OK-07062_07258.jpg",
+      "glb": "OK-07062_07258.glb"
+    }
+  ],
+  "model3d": "OK-07062_07258.glb"
+}

@@ -1,0 +1,50 @@
+{
+  "objectId": "OK-09415D",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09415D",
+  "title": "Stol",
+  "Datering": "Ca. 1800",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Profilert, relieffskåret og brunbeiset bjerk, polstret sete trukket med silkestoff",
+  "Teknikk": [
+    "Tapping",
+    "Polstring",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering",
+    "Profilering",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring"
+  ],
+  "Materiale": [
+    "Bomull",
+    "Silke",
+    "Bjørk",
+    "Furu"
+  ],
+  "Mål": "H 85,5 x B 45,5 x D 45,5 cm Høyde: 7,5 cm Bredde: 45,5 cm Dybde: 45 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322.4 - Møbelfagene",
+    "322.48 - Møbeldesign"
+  ],
+  "Produksjonssted": "Norge",
+  "Inventarnr.": "OK-09415D",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1919",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-09415D_93076.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93076.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93076.tif/full/512,/0/default.jpg",
+      "glb": "OK-09415D_93076.glb"
+    }
+  ],
+  "model3d": "OK-09415D_93076.glb"
+}

@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-03890",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-03890",
+  "title": "Stol",
+  "Datering": "1685-1690",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre med skåret dekor, plysjtrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Dreiing",
+    "Gjennombrutt utskjæring",
+    "Høyt relieff",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Tekstil"
+  ],
+  "Mål": "H 129,5 x B 50 x D 55 cm Høyde: 46 cm Dybde: 45 cm Bredde: 49 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-03890",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt på auksjon 1892",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07145.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07145.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07145.tif/full/full/0/default.jpg",
+      "filename": "OK-03890_07145.jpg",
+      "glb": "OK-03890_07145.glb"
+    }
+  ],
+  "model3d": "OK-03890_07145.glb"
+}

@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-15059B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-15059B",
+  "title": "No. 14 produsents tittelNo. 14 produsents tittel",
+  "Datering": "1870-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert og beiset bøk og bjørk, formbøyd, kryssfiner",
+  "Teknikk": [
+    "Laminering",
+    "Skruing",
+    "Formbøying",
+    "Liming"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Finering",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Kryssfiner",
+    "Bjørk"
+  ],
+  "Mål": "H 89,8 x B 42 x D 56,5 Høyde: 47 cm Diameter: 42,2 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Østerrike",
+  "Inventarnr.": "OK-15059B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1958",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94842.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94842.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94842.tif/full/full/0/default.jpg",
+      "filename": "OK-15059B_94842.jpg",
+      "glb": "OK-15059B_94842.glb"
+    }
+  ],
+  "model3d": "OK-15059B_94842.glb"
+}

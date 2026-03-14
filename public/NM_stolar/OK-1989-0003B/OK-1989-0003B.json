@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-1989-0003B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0003B",
+  "title": "Stol",
+  "Datering": "1860-1870",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert mahogni med skåret dekor, brodert trekk.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Lakkering",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Petit point"
+  ],
+  "Materiale": [
+    "Tekstil",
+    "Mahogni"
+  ],
+  "Mål": "H 103 x B 47 x D 43,5 cm Bredde: 47 cm Dybde: 43,5 cm Høyde: 46 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Nyrokokko",
+  "Produksjonssted": [
+    "Hamburg",
+    "Tyskland"
+  ],
+  "Inventarnr.": "OK-1989-0003B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1989",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07616.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07616.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07616.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0003B_07616.jpg",
+      "glb": "OK-1989-0003B_07616.glb"
+    }
+  ],
+  "model3d": "OK-1989-0003B_07616.glb"
+}

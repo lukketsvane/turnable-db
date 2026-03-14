@@ -1,0 +1,38 @@
+{
+  "objectId": "NMK.2012.0277",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2012.0277",
+  "title": "Tripp Trapp skalamodell originaltittel",
+  "Datering": "1999 (design 1972)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert og formbøyd bøk",
+  "Teknikk": [
+    "Bøyet",
+    "Skruing"
+  ],
+  "Dekorteknikk": "Lakkering",
+  "Materiale": [
+    "Bøk",
+    "Metall"
+  ],
+  "Mål": "H 26,5 x B 15 x D 16,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "855 - Barndom"
+  ],
+  "Inventarnr.": "NMK.2012.0277",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2012",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Frode Larsen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2012.0277.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2012.0277.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2012.0277.tif/full/full/0/default.jpg",
+      "filename": "NMK.2012.0277_NMK.2012.0277.jpg",
+      "glb": "NMK.2012.0277_NMK.2012.0277.glb"
+    }
+  ],
+  "model3d": "NMK.2012.0277_NMK.2012.0277.glb"
+}

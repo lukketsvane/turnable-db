@@ -1,0 +1,30 @@
+{
+  "objectId": "OK-16037",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-16037",
+  "title": "Figur",
+  "Datering": "1368-1644",
+  "Betegnelse": "Figur",
+  "Materiale og teknikk": "Figur i støpt bronse med gravyr, stol av utskåret tre",
+  "Materiale": [
+    "Tre",
+    "Bronse"
+  ],
+  "Mål": "H 29,3 cm (A), H 27 cm (B) Høyde: 29,3 cm Bredde: 24,5 cm Dybde: 10 cm",
+  "Emneord": "Dekorativ gjenstand",
+  "Produksjonssted": "Kina",
+  "Inventarnr.": "OK-16037",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 1960",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Frode Larsen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-16037AB.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-16037AB.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-16037AB.tif/full/full/0/default.jpg",
+      "filename": "OK-16037_OK-16037AB.jpg",
+      "glb": "OK-16037_OK-16037AB.glb"
+    }
+  ],
+  "model3d": "OK-16037_OK-16037AB.glb"
+}

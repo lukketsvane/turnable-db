@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-1966-0117B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1966-0117B",
+  "title": "Stol",
+  "Datering": "1710-1730",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert bøk med skåret, dreid og innlagt dekor og flettet rotting.",
+  "Teknikk": "Fletting",
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Intarsia",
+    "Gjennombrutt utskjæring",
+    "Lavt relieff",
+    "Dreiing",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Palme"
+  ],
+  "Mål": "H 118,5 x B 44 x D 36,5 cm Bredde: 44 cm Høyde: 46,5 cm Dybde: 36,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Régence",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-1966-0117B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1966",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07209.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07209.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07209.tif/full/full/0/default.jpg",
+      "filename": "OK-1966-0117B_07209.jpg",
+      "glb": "OK-1966-0117B_07209.glb"
+    }
+  ],
+  "model3d": "OK-1966-0117B_07209.glb"
+}

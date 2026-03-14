@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-08608A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-08608A",
+  "title": "Stol",
+  "Datering": "midten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset mahogni med skåret dekor, fløyelstrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring",
+    "Figurskjæring",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Tekstil, fløyel"
+  ],
+  "Mål": "H 96 x B 56,5 x D 46 cm Bredde: 49,5 cm Høyde: 48,5 cm Dybde: 40 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Chippendale",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-08608A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1912",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07163.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07163.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07163.tif/full/full/0/default.jpg",
+      "filename": "OK-08608A_07163.jpg",
+      "glb": "OK-08608A_07163.glb"
+    }
+  ],
+  "model3d": "OK-08608A_07163.glb"
+}

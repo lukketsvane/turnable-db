@@ -1,0 +1,37 @@
+{
+  "objectId": "OK-1995-0114",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1995-0114",
+  "title": "Stol",
+  "Datering": "Ca. 1960",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert formbøyd bambus, fletting",
+  "Teknikk": [
+    "Fletting",
+    "Formbøying"
+  ],
+  "Dekorteknikk": "Lakkering",
+  "Materiale": "Bambus",
+  "Mål": "H 73,5 x B 55 x D 61 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Scandinavian Design",
+  "Produksjonssted": "Fredrikstad",
+  "Inventarnr.": "OK-1995-0114",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1995",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Børre Høstland",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07098.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07098.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07098.tif/full/full/0/default.jpg",
+      "filename": "OK-1995-0114_07098.jpg",
+      "glb": "OK-1995-0114_07098.glb"
+    }
+  ],
+  "model3d": "OK-1995-0114_07098.glb"
+}

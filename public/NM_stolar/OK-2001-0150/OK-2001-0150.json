@@ -1,0 +1,40 @@
+{
+  "objectId": "OK-2001-0150",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2001-0150",
+  "title": "No. 1 produsents tittel",
+  "Andre titler": "no. 1 (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol formet av bøyd bøk, med rottingsete.",
+  "Teknikk": [
+    "Dampbøying",
+    "Fletting",
+    "Skruing"
+  ],
+  "Dekorteknikk": "Fernissering",
+  "Materiale": [
+    "Rotting",
+    "Bøk"
+  ],
+  "Mål": "H 89 x B 43 x D 54 cm Dybde: 42 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Inventarnr.": "OK-2001-0150",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2001",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-2001-0150_104384.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104384.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104384.tif/full/512,/0/default.jpg",
+      "glb": "OK-2001-0150_104384.glb"
+    }
+  ],
+  "model3d": "OK-2001-0150_104384.glb"
+}

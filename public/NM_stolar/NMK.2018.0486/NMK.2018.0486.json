@@ -1,0 +1,42 @@
+{
+  "objectId": "NMK.2018.0486",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2018.0486",
+  "title": "Playwood",
+  "Datering": "2016 (design 2005)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sammensatt kryssfiner",
+  "Teknikk": [
+    "Skruing",
+    "Tapping"
+  ],
+  "Materiale": [
+    "Kryssfiner",
+    "Bøk",
+    "Syntetfiber"
+  ],
+  "Mål": "H 92 x B 52 x D 50 cm Dybde: 41 cm",
+  "Emneord": [
+    "Prototyp",
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "531.46 - Møbelkunst",
+    "352.1 - Sittemøbler"
+  ],
+  "Inventarnr.": "NMK.2018.0486",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "2018-2018, Gave",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Frode Larsen/Nasjonalmuseet",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0486.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0486.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0486.tif/full/full/0/default.jpg",
+      "filename": "NMK.2018.0486_NMK.2018.0486.jpg",
+      "glb": "NMK.2018.0486_NMK.2018.0486.glb"
+    }
+  ],
+  "model3d": "NMK.2018.0486_NMK.2018.0486.glb"
+}

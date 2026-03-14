@@ -1,0 +1,51 @@
+{
+  "objectId": "OK-08920A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-08920A",
+  "title": "Stol",
+  "Datering": "Mellom 1810 og 1820",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Cubamahogni finér med marketteri i buksbom/lønn, sete trukket med kunstsilke",
+  "Teknikk": [
+    "Polstring",
+    "Formbøying",
+    "Noting",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Finering",
+    "Beising",
+    "Lakkering",
+    "Intarsia",
+    "Marketeri",
+    "Innrissing",
+    "Skjellakkpolering",
+    "Ibenholtimitasjon"
+  ],
+  "Materiale": [
+    "Kunstsilke",
+    "Mahogni",
+    "Lønn",
+    "Buksbom",
+    "Bøk",
+    "Furu"
+  ],
+  "Mål": "H 78,5 x B 45 x D 55 cm Dybde: 41,5 cm Bredde: 45 cm Høyde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-08920A",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1915",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93133.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93133.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93133.tif/full/full/0/default.jpg",
+      "filename": "OK-08920A_93133.jpg",
+      "glb": "OK-08920A_93133.glb"
+    }
+  ],
+  "model3d": "OK-08920A_93133.glb"
+}

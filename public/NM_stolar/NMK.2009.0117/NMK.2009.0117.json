@@ -1,0 +1,50 @@
+{
+  "objectId": "NMK.2009.0117",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2009.0117",
+  "title": "Dock High (prototype) originaltittel",
+  "Datering": "1999-2000",
+  "Andre titler": "Dock High (prototype) (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd fernissert teak og kryssfiner, stål",
+  "Teknikk": [
+    "Formbøying",
+    "Laminering"
+  ],
+  "Dekorteknikk": [
+    "Finering",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Teak",
+    "Kryssfiner",
+    "Stål"
+  ],
+  "Mål": "H 78,5 x B 55,5 x D 52 cm",
+  "Emneord": [
+    "Prototyp",
+    "Møbel",
+    "Design",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Modernisme",
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "NMK.2009.0117",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøp 2009",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09015.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09015.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09015.tif/full/full/0/default.jpg",
+      "filename": "NMK.2009.0117_09015.jpg",
+      "glb": "NMK.2009.0117_09015.glb"
+    }
+  ],
+  "model3d": "NMK.2009.0117_09015.glb"
+}

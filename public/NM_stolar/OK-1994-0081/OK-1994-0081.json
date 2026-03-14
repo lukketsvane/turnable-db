@@ -1,0 +1,36 @@
+{
+  "objectId": "OK-1994-0081",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1994-0081",
+  "title": "A-Line 290 produsents tittel",
+  "Datering": "1966; 1970 (prod)",
+  "Andre titler": "A-Line 290 (ENG)",
+  "Betegnelse": "Stol",
+  "Teknikk": "Sprøytestøp",
+  "Materiale": [
+    "Gummi/plast",
+    "Ull"
+  ],
+  "Mål": "H 75 x B 53,5 x D 42 cm Høyde: 75 cm Dybde: 42 cm Bredde: 53,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-1994-0081",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1994",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-1994-0081_32455.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/32455.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/32455.tif/full/512,/0/default.jpg",
+      "glb": "OK-1994-0081_32455.glb"
+    }
+  ],
+  "model3d": "OK-1994-0081_32455.glb"
+}

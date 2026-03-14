@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-1997-0127",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1997-0127",
+  "title": "Miss Trip produsents tittel",
+  "Datering": "1996",
+  "Andre titler": "Miss Trip (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Støpt polyurethan, fernissert formbøyd og laminert bøk",
+  "Teknikk": [
+    "Laminering",
+    "Formbøying",
+    "Støp",
+    "Skruing"
+  ],
+  "Dekorteknikk": "Fernissering",
+  "Materiale": [
+    "Polyuretan",
+    "Bøk"
+  ],
+  "Mål": "H 86 x B 40 x D 52 cm Dybde: 38,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Inventarnr.": "OK-1997-0127",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1997",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-1997-0127_93089.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93089.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93089.tif/full/512,/0/default.jpg",
+      "glb": "OK-1997-0127_93089.glb"
+    }
+  ],
+  "model3d": "OK-1997-0127_93089.glb"
+}

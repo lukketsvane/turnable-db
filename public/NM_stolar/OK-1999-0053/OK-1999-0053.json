@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-1999-0053",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1999-0053",
+  "title": "Consumers Rest produsents tittel",
+  "Datering": "1990",
+  "Andre titler": "Consumers Rest (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sveiset og formbøyd galvanisert stål",
+  "Teknikk": [
+    "Sveising",
+    "Formbøying"
+  ],
+  "Materiale": [
+    "Stål",
+    "Gummi/plast"
+  ],
+  "Mål": "H 102,5 x B 71 x D 67 cm Bredde: 48 cm Dybde: 50 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Tyskland",
+  "Inventarnr.": "OK-1999-0053",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Overført 1999",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157110.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157110.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157110.tif/full/full/0/default.jpg",
+      "filename": "OK-1999-0053_157110.jpg",
+      "glb": "OK-1999-0053_157110.glb"
+    }
+  ],
+  "model3d": "OK-1999-0053_157110.glb"
+}

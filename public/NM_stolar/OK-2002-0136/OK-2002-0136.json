@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-2002-0136",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2002-0136",
+  "title": "Fantastic Plastic Elastic produsents tittel",
+  "Datering": "1998",
+  "Andre titler": "Fantastic Plastic Elastic (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Støpt polypropylen, fargelakkert formbøyd aluminium",
+  "Teknikk": [
+    "Støp",
+    "Noting"
+  ],
+  "Dekorteknikk": [
+    "Formbøying",
+    "Fargelakkering"
+  ],
+  "Materiale": [
+    "Polypropylen",
+    "Aluminium"
+  ],
+  "Mål": "H 79 x B 44 x D 58 cm Bredde: 38,5 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "OK-2002-0136",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2002",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93089.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93089.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93089.tif/full/full/0/default.jpg",
+      "filename": "OK-2002-0136_93089.jpg",
+      "glb": "OK-2002-0136_93089.glb"
+    }
+  ],
+  "model3d": "OK-2002-0136_93089.glb"
+}

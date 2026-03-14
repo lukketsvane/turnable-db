@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-2001-0151",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2001-0151",
+  "title": "Fanett produsents tittelFanett produsents tittel",
+  "Datering": "1955",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fargelakkert bøk, lakkert teak laminert på kryssfiner",
+  "Teknikk": [
+    "Laminering",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Fargelakkering",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Kryssfiner",
+    "Teak"
+  ],
+  "Mål": "H 77 x B 45,5 x D 48 cm Dybde: 42 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Sverige",
+  "Inventarnr.": "OK-2001-0151",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2001",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92590.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92590.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92590.tif/full/full/0/default.jpg",
+      "filename": "OK-2001-0151_92590.jpg",
+      "glb": "OK-2001-0151_92590.glb"
+    }
+  ],
+  "model3d": "OK-2001-0151_92590.glb"
+}

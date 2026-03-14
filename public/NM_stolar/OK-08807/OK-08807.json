@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-08807",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-08807",
+  "title": "Stol",
+  "Datering": "1400-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert og beiset nøttetre, skåret og profilert dekor, jernhengsler.",
+  "Teknikk": [
+    "Plugging",
+    "Tapping",
+    "Noting",
+    "Hengsling"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Voksboning",
+    "Treskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Furu",
+    "Jern"
+  ],
+  "Mål": "H 112 x B 143,5 x D 55 cm Dybde: 35,6 cm Høyde: 58,5 cm Bredde: 64,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Renessanse",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-08807",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1914",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09092.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09092.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09092.tif/full/full/0/default.jpg",
+      "filename": "OK-08807_09092.jpg",
+      "glb": "OK-08807_09092.glb"
+    }
+  ],
+  "model3d": "OK-08807_09092.glb"
+}

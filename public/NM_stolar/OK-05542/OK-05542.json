@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-05542",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05542",
+  "title": "Stol",
+  "Datering": "Slutten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre med skåret dekor, silketrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Liming",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Profilering",
+    "Fernissering",
+    "Beising"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Silke"
+  ],
+  "Mål": "H 93,7 x B 48,5 x D 54,5 cm Høyde: 48,5 cm Dybde: 44,5 cm Bredde: 48,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Rokokko",
+  "Produksjonssted": "Sverige",
+  "Inventarnr.": "OK-05542",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "ervervet 1897",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07151.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07151.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07151.tif/full/full/0/default.jpg",
+      "filename": "OK-05542_07151.jpg",
+      "glb": "OK-05542_07151.glb"
+    }
+  ],
+  "model3d": "OK-05542_07151.glb"
+}

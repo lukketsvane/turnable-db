@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-08662",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-08662",
+  "title": "Stol",
+  "Datering": "Slutten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mattpolert mahogny, gjennombrutt ryggstykke med skåret dekor, setetrekk av sort hestehår.",
+  "Teknikk": [
+    "Tapping",
+    "Polstring",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Lakkering",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Messing",
+    "Hestetagl"
+  ],
+  "Mål": "H 96 x B 57 X D 54 cm Høyde: 46,5 cm Dybde: 42 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-08662",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1912",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37676.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37676.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37676.tif/full/full/0/default.jpg",
+      "filename": "OK-08662_37676.jpg",
+      "glb": "OK-08662_37676.glb"
+    }
+  ],
+  "model3d": "OK-08662_37676.glb"
+}

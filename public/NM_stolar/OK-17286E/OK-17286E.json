@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-17286E",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-17286E",
+  "title": "F 17 (første utgave)",
+  "Datering": "1929 (design)",
+  "Betegnelse": "Stol",
+  "Teknikk": [
+    "Polstring",
+    "Sveising"
+  ],
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Stål",
+    "Tekstil, fløyel",
+    "Vegetabilske fibre, lerret"
+  ],
+  "Mål": "H 76 x B 55 x D 62 cm Høyde: 46 cm Tykkelse: 7 cm Dybde: 52 cm Bredde: 51 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "326 - Metallhåndverk",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": [
+    "Modernisme",
+    "Funksjonalisme"
+  ],
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "OK-17286E",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1930",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "Opphavsrett": "© Munthe-Kaas, Herman/Munthe-Kaas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/107399.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/107399.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/107399.tif/full/full/0/default.jpg",
+      "filename": "OK-17286E_107399.jpg",
+      "glb": "OK-17286E_107399.glb"
+    }
+  ],
+  "model3d": "OK-17286E_107399.glb"
+}

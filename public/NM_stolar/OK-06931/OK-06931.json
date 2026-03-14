@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-06931",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06931",
+  "title": "Stol",
+  "Datering": "1700-1750",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Skåret og dreid ask, gjennombrutt dekor, polstret sete trukket med fløyelsstoff (sekundært)",
+  "Teknikk": [
+    "Tapping",
+    "Polstring",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Voksboning",
+    "Dreiing",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Tekstil",
+    "Ask"
+  ],
+  "Mål": "H 136,5 x B 53,5 x D 64 cm Høyde: 49 cm Bredde: 50 cm Dybde: 40 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322 - Trearbeid",
+    "531.41 - Treskjæring"
+  ],
+  "Produksjonssted": "Europa",
+  "Inventarnr.": "OK-06931",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1902",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/115035.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/115035.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/115035.tif/full/full/0/default.jpg",
+      "filename": "OK-06931_115035.jpg",
+      "glb": "OK-06931_115035.glb"
+    }
+  ],
+  "model3d": "OK-06931_115035.glb"
+}

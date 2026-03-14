@@ -1,0 +1,32 @@
+{
+  "objectId": "NMK.2018.0221",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2018.0221",
+  "title": "Louis Ghost produsents tittel",
+  "Datering": "2002",
+  "Andre titler": "Louis Ghost (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Støpt stol i transparent rosa farget polykarbonat",
+  "Teknikk": "Støping",
+  "Materiale": "Polykarbonat",
+  "Mål": "H 93 cm x B 52,5 x D 57 cm Vekt: 4,8 kg",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2018.0221",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2018",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0221.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0221.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0221.tif/full/full/0/default.jpg",
+      "filename": "NMK.2018.0221_NMK.2018.0221.jpg",
+      "glb": "NMK.2018.0221_NMK.2018.0221.glb"
+    }
+  ],
+  "model3d": "NMK.2018.0221_NMK.2018.0221.glb"
+}

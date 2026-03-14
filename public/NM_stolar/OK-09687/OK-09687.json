@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-09687",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09687",
+  "title": "Stol",
+  "Datering": "Ca. 1650",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert nøttetre med intarsia og skåret dekor.",
+  "Teknikk": "Tapping",
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Intarsia",
+    "Beising",
+    "Fernissering",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Whitewood"
+  ],
+  "Mål": "H 114,5 x B 44,5 x D 44,5 cm Høyde: 49,5 cm Bredde: 44,5 cm Dybde: 38,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Produksjonssted": [
+    "Lombardia",
+    "Italia"
+  ],
+  "Inventarnr.": "OK-09687",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1923",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07174.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07174.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07174.tif/full/full/0/default.jpg",
+      "filename": "OK-09687_07174.jpg",
+      "glb": "OK-09687_07174.glb"
+    }
+  ],
+  "model3d": "OK-09687_07174.glb"
+}

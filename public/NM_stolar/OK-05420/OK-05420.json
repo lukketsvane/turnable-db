@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-05420",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05420",
+  "title": "Stol",
+  "Datering": "Siste halvdel av 1770-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Bøk med skåret og dreid dekor, rygg av flettet rotting, stoppet sete med silketrekk",
+  "Teknikk": [
+    "Fletting",
+    "Polstring",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Profilering",
+    "Ornamentskjæring",
+    "Kannelyre",
+    "Dreiing"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Palme",
+    "Silke"
+  ],
+  "Mål": "H 90,5 x B 47,5 x D 43 cm Høyde: 46 cm Dybde: 40 cm Bredde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Klassisisme",
+  "Produksjonssted": "Tyskland",
+  "Inventarnr.": "OK-05420",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1895",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07149.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07149.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07149.tif/full/full/0/default.jpg",
+      "filename": "OK-05420_07149.jpg",
+      "glb": "OK-05420_07149.glb"
+    }
+  ],
+  "model3d": "OK-05420_07149.glb"
+}

@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-07363",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07363",
+  "title": "Armstol",
+  "Datering": "Siste halvdel av 1600-tallet",
+  "Betegnelse": "Armstol",
+  "Materiale og teknikk": "Rund stol i jakkaranda, med dreiede og utskårede ben og akterstaver, samt rottingpaneler i rygg og sete.",
+  "Teknikk": [
+    "Fletting",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Profilering",
+    "Fernissering",
+    "Dreiing",
+    "Beising"
+  ],
+  "Materiale": [
+    "Jakaranda",
+    "Palme",
+    "Mahogni"
+  ],
+  "Mål": "H 81 x B 68 x D 62 cm Rygglengde: 40 cm Diameter: 57 cm Høyde: 43 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Holland",
+  "Inventarnr.": "OK-07363",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1905",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35737.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35737.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35737.tif/full/full/0/default.jpg",
+      "filename": "OK-07363_35737.jpg",
+      "glb": "OK-07363_35737.glb"
+    }
+  ],
+  "model3d": "OK-07363_35737.glb"
+}

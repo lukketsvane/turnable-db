@@ -1,0 +1,41 @@
+{
+  "objectId": "OK-07063",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07063",
+  "title": "Stol",
+  "Datering": "Midten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mahogni med skåret dekor, hestehårstrekk.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Profilering",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Hestetagl"
+  ],
+  "Mål": "H 94,2 x B 54 x D 44 cm Tverrmål: 50 cm Bredde: 54 cm Høyde: 94,2 cm Rygglengde: 52,5 cm Dybde: 44 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Chippendale",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-07063",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1903",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07259.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07259.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07259.tif/full/full/0/default.jpg",
+      "filename": "OK-07063_07259.jpg",
+      "glb": "OK-07063_07259.glb"
+    }
+  ],
+  "model3d": "OK-07063_07259.glb"
+}

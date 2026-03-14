@@ -1,0 +1,30 @@
+{
+  "objectId": "NMK.DEP.2018.0030.046",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.DEP.2018.0030.046",
+  "title": "Studie av stol",
+  "Datering": "Mellom 1877 og 1893",
+  "Andre titler": "Study of a Chair (ENG)",
+  "Betegnelse": "Tegning",
+  "Materiale og teknikk": "Blyant på papir",
+  "Teknikk": "Blyant",
+  "Materiale": "Papir",
+  "Mål": "198 x 351 mm",
+  "Emneord": "Bildende kunst",
+  "Klassifikasjon": "532 - Bildende kunst",
+  "Motivtype": "Interiør",
+  "Inventarnr.": "NMK.DEP.2018.0030.046",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Depositum 1951",
+  "Eier og samling": "Privat eier, Billedkunstsamlingene",
+  "Foto": "Ina Wesenberg",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.DEP.2018.0030.046.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.DEP.2018.0030.046.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.DEP.2018.0030.046.tif/full/full/0/default.jpg",
+      "filename": "NMK.DEP.2018.0030.046_NMK.DEP.2018.0030.046.jpg",
+      "glb": "NMK.DEP.2018.0030.046_NMK.DEP.2018.0030.046.glb"
+    }
+  ],
+  "model3d": "NMK.DEP.2018.0030.046_NMK.DEP.2018.0030.046.glb"
+}

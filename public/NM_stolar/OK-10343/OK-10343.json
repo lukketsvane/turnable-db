@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-10343",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-10343",
+  "title": "Stol",
+  "Datering": "1500-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol i nøttetre med trekantet ryggbrett og ben bestående av to planker, rikt utskåret og delvis forgylt",
+  "Teknikk": "Plugging",
+  "Dekorteknikk": [
+    "Flatskurd",
+    "Forgylling",
+    "Gjennombrutt utskjæring",
+    "Voksboning",
+    "Dreiing",
+    "Profilering"
+  ],
+  "Materiale": "Nøttetre",
+  "Mål": "H 95,7 x B 48 x D 46 cm Dybde: 32,5 cm Bredde: 34 cm Høyde: 51 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322 - Trearbeid",
+    "322.4 - Møbelfagene",
+    "352.1 - Sittemøbler",
+    "353 - Innredning og interiørdekorasjon",
+    "531.41 - Treskjæring"
+  ],
+  "Stilperiode": "Renessanse",
+  "Produksjonssted": [
+    "Firenze",
+    "Italia"
+  ],
+  "Inventarnr.": "OK-10343",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1930",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35863.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35863.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35863.tif/full/full/0/default.jpg",
+      "filename": "OK-10343_35863.jpg",
+      "glb": "OK-10343_35863.glb"
+    }
+  ],
+  "model3d": "OK-10343_35863.glb"
+}

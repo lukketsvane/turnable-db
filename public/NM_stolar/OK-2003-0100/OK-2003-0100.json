@@ -1,0 +1,32 @@
+{
+  "objectId": "OK-2003-0100",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2003-0100",
+  "title": "Stol",
+  "Datering": "2002 (design 1968)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Tre og herdet papp",
+  "Materiale": "Tre",
+  "Mål": "H 75,5 x D 51 cm Høyde: 75,5 cm Diameter: 51 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Etterkrigsmodernisme",
+  "Produksjonssted": "Vestby",
+  "Inventarnr.": "OK-2003-0100",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2003",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140130.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140130.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140130.tif/full/full/0/default.jpg",
+      "filename": "OK-2003-0100_140130.jpg",
+      "glb": "OK-2003-0100_140130.glb"
+    }
+  ],
+  "model3d": "OK-2003-0100_140130.glb"
+}

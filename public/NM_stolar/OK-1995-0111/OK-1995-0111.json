@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-1995-0111",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1995-0111",
+  "title": "B.K.F.-stolenB.K.F.-stolen",
+  "Datering": "1938",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Maskinsydd, semsket skinn, fargelakkert og formbøyd stål",
+  "Teknikk": [
+    "Formbøying",
+    "Maskinsøm"
+  ],
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Skinn",
+    "Stål"
+  ],
+  "Mål": "H 95,5 x B 90,5 x D 96 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler",
+    "353 - Innredning og interiørdekorasjon"
+  ],
+  "Produksjonssted": "Ukjent",
+  "Inventarnr.": "OK-1995-0111",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1995",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92687.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92687.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92687.tif/full/full/0/default.jpg",
+      "filename": "OK-1995-0111_92687.jpg",
+      "glb": "OK-1995-0111_92687.glb"
+    }
+  ],
+  "model3d": "OK-1995-0111_92687.glb"
+}

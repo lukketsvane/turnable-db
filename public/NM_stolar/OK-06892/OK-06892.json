@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-06892",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06892",
+  "title": "Stol",
+  "Datering": "Første halvdel av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert nøttetre finert på bøk, skåret dekor, marketeri, plysjtrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Veving"
+  ],
+  "Dekorteknikk": [
+    "Marketeri",
+    "Finering",
+    "Treskjæring",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Bøk",
+    "Tekstil, plysj",
+    "Buksbom"
+  ],
+  "Mål": "H 108 x B 52 x D 52 cm Høyde: 64,5 cm Dybde: 36,5 cm Bredde: 45,4 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Queen Anne",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-06892",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1904",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07257.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07257.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07257.tif/full/full/0/default.jpg",
+      "filename": "OK-06892_07257.jpg",
+      "glb": "OK-06892_07257.glb"
+    }
+  ],
+  "model3d": "OK-06892_07257.glb"
+}

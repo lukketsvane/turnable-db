@@ -1,0 +1,47 @@
+{
+  "objectId": "NMK.2009.0087",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2009.0087",
+  "title": "D-stol produsents tittel",
+  "Datering": "Ca. 1950",
+  "Betegnelse": "Armstol",
+  "Materiale og teknikk": "Eik med detaljer i messing, puter polstret og trukket i ullstoff",
+  "Materiale": [
+    "Eik",
+    "Ull",
+    "Messing"
+  ],
+  "Mål": "H 78 x B 56 x D 54 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": [
+    "Modernisme",
+    "Etterkrigsmodernisme",
+    "Scandinavian Design"
+  ],
+  "Produksjonssted": [
+    "Os",
+    "Bergen"
+  ],
+  "Inventarnr.": "NMK.2009.0087",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2009",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "Opphavsrett": "© Engø, Bjørn, Zernichow, Henning von",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23010.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23010.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23010.tif/full/full/0/default.jpg",
+      "filename": "NMK.2009.0087_23010.jpg",
+      "glb": "NMK.2009.0087_23010.glb"
+    }
+  ],
+  "model3d": "NMK.2009.0087_23010.glb"
+}

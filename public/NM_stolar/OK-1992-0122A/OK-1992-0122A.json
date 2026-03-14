@@ -1,0 +1,38 @@
+{
+  "objectId": "OK-1992-0122A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1992-0122A",
+  "title": "Schablon produsents tittelSchablon produsents tittel",
+  "Datering": "1987",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fargelakkert bøk med hjortebåndsflettet sete",
+  "Teknikk": [
+    "Fletting",
+    "Innfelling"
+  ],
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Bøk",
+    "Vegetabilske fibre"
+  ],
+  "Mål": "H 80,3 x B 38,5 x D 42,2 cm Høyde: 45,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "OK-1992-0122A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1992",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94893.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94893.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94893.tif/full/full/0/default.jpg",
+      "filename": "OK-1992-0122A_94893.jpg",
+      "glb": "OK-1992-0122A_94893.glb"
+    }
+  ],
+  "model3d": "OK-1992-0122A_94893.glb"
+}

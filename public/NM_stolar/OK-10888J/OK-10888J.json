@@ -1,0 +1,52 @@
+{
+  "objectId": "OK-10888J",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-10888J",
+  "title": "Stol",
+  "Datering": "Ca. 1820",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert cubamahogni finert på bøk og eik med marketeridekor i buksbom, hestehårstrekk",
+  "Teknikk": [
+    "Tapping",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Lakkering",
+    "Finering",
+    "Marketeri"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Furu",
+    "Buksbom",
+    "Eik",
+    "Hestetagl",
+    "Bøk"
+  ],
+  "Mål": "H 80,5 x B 46,5 x D 51,5 cm Høyde: 48 cm Dybde: 41 cm Bredde: 46,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.42 - Møbelsnekkerfaget",
+    "352.1 - Sittemøbler",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Empire",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-10888J",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 1938",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/70817.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/70817.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/70817.tif/full/full/0/default.jpg",
+      "filename": "OK-10888J_70817.jpg",
+      "glb": "OK-10888J_70817.glb"
+    }
+  ],
+  "model3d": "OK-10888J_70817.glb"
+}

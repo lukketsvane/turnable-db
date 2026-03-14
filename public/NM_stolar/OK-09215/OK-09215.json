@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-09215",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09215",
+  "title": "Stol",
+  "Datering": "første halvdel av 1600-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre med skåret og dreid dekor, fløyelstrekk.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Dreiing",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Tekstil"
+  ],
+  "Mål": "H 119 x B 53 x D 51 cm Dybde: 51 cm Høyde: 55 cm Bredde: 53 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Renessanse",
+  "Produksjonssted": "Nederland",
+  "Inventarnr.": "OK-09215",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1916",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07381.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07381.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07381.tif/full/full/0/default.jpg",
+      "filename": "OK-09215_07381.jpg",
+      "glb": "OK-09215_07381.glb"
+    }
+  ],
+  "model3d": "OK-09215_07381.glb"
+}

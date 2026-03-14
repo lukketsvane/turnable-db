@@ -1,0 +1,41 @@
+{
+  "objectId": "NMK.2017.0169",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2017.0169",
+  "title": "Frontal II",
+  "Datering": "1983",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Tekstilkledt formbøyet laminert bøk",
+  "Teknikk": [
+    "Laminering",
+    "Polstring",
+    "Skruing"
+  ],
+  "Dekorteknikk": "Formbøying",
+  "Materiale": [
+    "Tekstil",
+    "Bøk",
+    "Kryssfiner"
+  ],
+  "Mål": "H 46 x L 150 x B 60 cm Vekt: 3,9 kg",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Postmodernisme",
+  "Inventarnr.": "NMK.2017.0169",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 2017",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/163950.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/163950.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/163950.tif/full/full/0/default.jpg",
+      "filename": "NMK.2017.0169_163950.jpg",
+      "glb": "NMK.2017.0169_163950.glb"
+    }
+  ],
+  "model3d": "NMK.2017.0169_163950.glb"
+}

@@ -1,0 +1,56 @@
+{
+  "objectId": "OK-18458",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-18458",
+  "title": "Stol",
+  "Datering": "Etter 1918",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dampbøyde deler i bøk, sete og rygg i kryssfinèr.",
+  "Teknikk": [
+    "Tapping",
+    "Skruing",
+    "Plugging",
+    "Formbøying",
+    "Laminering"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering",
+    "Pregetrykk",
+    "Formbøying"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Kryssfiner",
+    "Emalje"
+  ],
+  "Mål": "H 94,5 x B 61,3 x D 59,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322 - Trearbeid",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": [
+    "Modernisme",
+    "Art Nouveau",
+    "Jugend"
+  ],
+  "Produksjonssted": "Tsjekkoslovakia",
+  "Inventarnr.": "OK-18458",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Tidligere innkommet, ervervelsesår ukjent",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Nasjonalmuseet",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/100103.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/100103.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/100103.tif/full/full/0/default.jpg",
+      "filename": "OK-18458_100103.jpg",
+      "glb": "OK-18458_100103.glb"
+    }
+  ],
+  "model3d": "OK-18458_100103.glb"
+}

@@ -1,0 +1,50 @@
+{
+  "objectId": "OK-15680",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-15680",
+  "title": "Stol",
+  "Datering": "ca. 1700",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Bøk med skåret dekor og flettet rotting.",
+  "Teknikk": [
+    "Fletting",
+    "Polstring",
+    "Spikring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Relieffskjæring",
+    "Figurskjæring",
+    "Gjennombrutt utskjæring",
+    "Korssting"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Sadelgjord",
+    "Bomull",
+    "Palme",
+    "Gran"
+  ],
+  "Mål": "H 124 x B 47,5 x D 38 cm Høyde: 124 cm Bredde: 47,5 cm Dybde: 38 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Inventarnr.": "OK-15680",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 1961",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Nasjonalmuseet",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07200.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07200.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07200.tif/full/full/0/default.jpg",
+      "filename": "OK-15680_07200.jpg",
+      "glb": "OK-15680_07200.glb"
+    }
+  ],
+  "model3d": "OK-15680_07200.glb"
+}

@@ -1,0 +1,36 @@
+{
+  "objectId": "NMK.2011.0140",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2011.0140",
+  "title": "Move produsents tittel",
+  "Datering": "1985",
+  "Andre titler": "Move (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formpresset plast, fargelakkert stål og ulltrekk.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Ull",
+    "Syntetiske fibre",
+    "Kryssfiner",
+    "Gummi/plast",
+    "Stål"
+  ],
+  "Mål": "H 59,5 cm Diameter: 40 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2011.0140",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2011",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/36001.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/36001.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/36001.tif/full/full/0/default.jpg",
+      "filename": "NMK.2011.0140_36001.jpg",
+      "glb": "NMK.2011.0140_36001.glb"
+    }
+  ],
+  "model3d": "NMK.2011.0140_36001.glb"
+}

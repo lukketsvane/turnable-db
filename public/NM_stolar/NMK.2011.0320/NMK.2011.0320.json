@@ -1,0 +1,44 @@
+{
+  "objectId": "NMK.2011.0320",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2011.0320",
+  "title": "Modell F 17 (andre utgave) produsents tittel",
+  "Datering": "Prod. ca. 1930 (design 1929)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd stål trukket med kordfløyel",
+  "Teknikk": [
+    "Sveising",
+    "Polstring",
+    "Søm",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Formbøying",
+    "Fargelakkering",
+    "Fargelakkering"
+  ],
+  "Materiale": [
+    "Stål",
+    "Tekstil, fløyel",
+    "Tre"
+  ],
+  "Mål": "H 77 x B 56 x D 68 cm Bredde: 56 cm Dybde: 56 cm Tykkelse: 8,5 cm Høyde: 41 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Funksjonalisme",
+  "Inventarnr.": "NMK.2011.0320",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 2011",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Husby, Therese",
+  "Opphavsrett": "© Munthe-Kaas, Herman/Munthe-Kaas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/54067.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/54067.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/54067.tif/full/full/0/default.jpg",
+      "filename": "NMK.2011.0320_54067.jpg",
+      "glb": "NMK.2011.0320_54067.glb"
+    }
+  ],
+  "model3d": "NMK.2011.0320_54067.glb"
+}

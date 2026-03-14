@@ -1,0 +1,51 @@
+{
+  "objectId": "OK-06494",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06494",
+  "title": "Stol",
+  "Datering": "1900",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Eik med skåret dekor, intarsia i japansk silkeeik og lønn, trekk i silkefløyel.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Intarsia",
+    "Relieffskjæring",
+    "Figurskjæring",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Eik",
+    "Bomull",
+    "Lønn",
+    "Silke",
+    "Eik"
+  ],
+  "Mål": "H 92 x B 45,5 x D 43 cm Høyde: 48,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": [
+    "Art Nouveau (Jugend)",
+    "Art Nouveau"
+  ],
+  "Produksjonssted": [
+    "Paris",
+    "Frankrike"
+  ],
+  "Inventarnr.": "OK-06494",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt på Verdensutstillingen i Paris 1900",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07418.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07418.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07418.tif/full/full/0/default.jpg",
+      "filename": "OK-06494_07418.jpg",
+      "glb": "OK-06494_07418.glb"
+    }
+  ],
+  "model3d": "OK-06494_07418.glb"
+}

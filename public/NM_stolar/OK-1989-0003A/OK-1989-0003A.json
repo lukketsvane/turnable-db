@@ -1,0 +1,50 @@
+{
+  "objectId": "OK-1989-0003A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0003A",
+  "title": "Stol",
+  "Datering": "1860-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mahogni, utskåret og trukket med petit point trekk.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Fernissering",
+    "Relieffskjæring",
+    "Profilering",
+    "Gjennombrutt utskjæring",
+    "Petit point"
+  ],
+  "Materiale": [
+    "Tekstil",
+    "Mahogni",
+    "Messing"
+  ],
+  "Mål": "H 92 x B 58 x D 78 cm Høyde: 53 cm Dybde: 52 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352 - Møbler og gulvbekledning",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Nyrokokko",
+  "Produksjonssted": [
+    "Hamburg",
+    "Tyskland"
+  ],
+  "Inventarnr.": "OK-1989-0003A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1989",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37631.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37631.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37631.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0003A_37631.jpg",
+      "glb": "OK-1989-0003A_37631.glb"
+    }
+  ],
+  "model3d": "OK-1989-0003A_37631.glb"
+}

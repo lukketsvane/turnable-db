@@ -1,0 +1,37 @@
+{
+  "objectId": "NMK.2008.0118",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2008.0118",
+  "title": "Panton Chair produsents tittel",
+  "Datering": "2008 (design 1959/60)",
+  "Andre titler": "Panton Chair (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Helstøpt injeksjonsformet plast.",
+  "Teknikk": "Støp",
+  "Materiale": "Plast",
+  "Mål": "H 83 x B 50 x D 60 cm Høyde: 83 cm Dybde: 60 cm Bredde: 50 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352 - Møbler og gulvbekledning",
+    "352.1 - Sittemøbler"
+  ],
+  "Inventarnr.": "NMK.2008.0118",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Scandinavian Design ved Milleniumskiftet, 2008 - 2010",
+  "Ervervelse": "Gave 2008",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/30969.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/30969.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/30969.tif/full/full/0/default.jpg",
+      "filename": "NMK.2008.0118_30969.jpg",
+      "glb": "NMK.2008.0118_30969.glb"
+    }
+  ],
+  "model3d": "NMK.2008.0118_30969.glb"
+}

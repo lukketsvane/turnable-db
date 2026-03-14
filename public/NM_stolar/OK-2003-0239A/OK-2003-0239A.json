@@ -1,0 +1,39 @@
+{
+  "objectId": "OK-2003-0239A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2003-0239A",
+  "title": "Futurum produsents tittelFuturum produsents tittel",
+  "Datering": "1965",
+  "Betegnelse": "Lenestol",
+  "Materiale og teknikk": "Stol utført i furu. Pute i sete og rygg med bomullstrekk.",
+  "Teknikk": [
+    "Tapping",
+    "Skruing",
+    "Polstring"
+  ],
+  "Materiale": [
+    "Furu",
+    "Ull",
+    "Bomull"
+  ],
+  "Mål": "H 75 x B 70 x D 62 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Etterkrigsmodernisme",
+  "Produksjonssted": "Norge",
+  "Inventarnr.": "OK-2003-0239A",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 1965",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-2003-0239A_08742.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08742.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08742.tif/full/512,/0/default.jpg",
+      "glb": "OK-2003-0239A_08742.glb"
+    }
+  ],
+  "model3d": "OK-2003-0239A_08742.glb"
+}

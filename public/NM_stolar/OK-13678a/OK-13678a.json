@@ -1,0 +1,52 @@
+{
+  "objectId": "OK-13678a",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-13678a",
+  "title": "Stol",
+  "Datering": "Mellom 1800 og 1825",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert og beiset mahogni finert på bøk, intarsia i lønn, dreid dekor, fururamme med polstet silketrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Liming",
+    "Spikring"
+  ],
+  "Dekorteknikk": [
+    "Finering",
+    "Marketeri",
+    "Lakkering",
+    "Dreiing",
+    "Intarsia",
+    "Beising"
+  ],
+  "Materiale": [
+    "Silke",
+    "Mahogni",
+    "Furu",
+    "Bøk",
+    "Lønn"
+  ],
+  "Mål": "H 81 x B 46 x D 52 cm Dybde: 42,5 cm Høyde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322.4 - Møbelfagene"
+  ],
+  "Stilperiode": "Empire",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-13678a",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1954",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Børre Høstland",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/34638.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/34638.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/34638.tif/full/full/0/default.jpg",
+      "filename": "OK-13678a_34638.jpg",
+      "glb": "OK-13678a_34638.glb"
+    }
+  ],
+  "model3d": "OK-13678a_34638.glb"
+}

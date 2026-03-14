@@ -1,0 +1,49 @@
+{
+  "objectId": "NMK.2016.0133",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2016.0133",
+  "title": "Stol",
+  "Datering": "1980- eller 1990-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Limt furutre, sete og ryggstøtte polstret med polyuretanskum og trukket med sort tekstil.",
+  "Teknikk": [
+    "Saging",
+    "Liming",
+    "Tapetsering",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Furu",
+    "Tekstil",
+    "Polyuretan",
+    "Metall"
+  ],
+  "Mål": "H 92 x B 59 x D 56 cm Bredde: 58 cm Dybde: 42 cm Høyde: 29 cm",
+  "Emneord": [
+    "Prototyp",
+    "Industridesign",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "322.82 - Modellsnekker",
+    "531.97 - Modellbygger"
+  ],
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "NMK.2016.0133",
+  "Registreringsnivå": "Komplekst objekt",
+  "Del av utstilling": "Ekstrem Ekstrøm, 2016",
+  "Ervervelse": "Gave 2016",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "Opphavsrett": "© Ekstrøm, Terje/Ekstrøm",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/144267.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/144267.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/144267.tif/full/full/0/default.jpg",
+      "filename": "NMK.2016.0133_144267.jpg",
+      "glb": "NMK.2016.0133_144267.glb"
+    }
+  ],
+  "model3d": "NMK.2016.0133_144267.glb"
+}

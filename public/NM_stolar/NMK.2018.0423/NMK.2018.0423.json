@@ -1,0 +1,46 @@
+{
+  "objectId": "NMK.2018.0423",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2018.0423",
+  "title": "Scandia Jr. produsents tittelScandia Serietittel",
+  "Datering": "Ca. 1960",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd finert kryssfiner på sveiset sttålunderstell",
+  "Teknikk": [
+    "Formbøying",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Finering",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Palisander",
+    "Stål",
+    "Bøk",
+    "Kryssfiner"
+  ],
+  "Mål": "H 76 x B 47,5 x D 56 cm",
+  "Emneord": [
+    "Design",
+    "Industridesign",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Scandinavian Design",
+  "Produksjonssted": "Stordal",
+  "Inventarnr.": "NMK.2018.0423",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2018",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0423.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0423.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0423.tif/full/full/0/default.jpg",
+      "filename": "NMK.2018.0423_NMK.2018.0423.jpg",
+      "glb": "NMK.2018.0423_NMK.2018.0423.glb"
+    }
+  ],
+  "model3d": "NMK.2018.0423_NMK.2018.0423.glb"
+}

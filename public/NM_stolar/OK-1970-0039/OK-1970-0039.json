@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-1970-0039",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1970-0039",
+  "title": "Stol",
+  "Datering": "1870-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernisser nøttetre med relieffdekor og kannelyrer, stoppet og trukket med bomullsdamask",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Fernissering",
+    "Dreiing",
+    "Kannelyre",
+    "Høyt relieff",
+    "Beising"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Bomull",
+    "Furu",
+    "Bøk"
+  ],
+  "Mål": "H 96,5 x B 45,5 x D 56 cm Dybde: 45 cm Bredde: 44,5 cm Høyde: 53 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Sverige",
+  "Inventarnr.": "OK-1970-0039",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "1970",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94851.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94851.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94851.tif/full/full/0/default.jpg",
+      "filename": "OK-1970-0039_94851.jpg",
+      "glb": "OK-1970-0039_94851.glb"
+    }
+  ],
+  "model3d": "OK-1970-0039_94851.glb"
+}

@@ -1,0 +1,52 @@
+{
+  "objectId": "OK-08920F",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-08920F",
+  "title": "Stol",
+  "Datering": "Mellom 1810 og 1819",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert finér av cubamahogny på furu med innlagte ulike tresorter. sete trukket kunstsilke.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Noting",
+    "Formbøying"
+  ],
+  "Dekorteknikk": [
+    "Finering",
+    "Beising",
+    "Lakkering",
+    "Skjellakkpolering",
+    "Ibenholtimitasjon",
+    "Innrissing",
+    "Marketeri",
+    "Intarsia"
+  ],
+  "Materiale": [
+    "Syntetiske fibre, kunstsilke",
+    "Mahogni",
+    "Furu",
+    "Lønn",
+    "Buksbom",
+    "Bøk"
+  ],
+  "Mål": "H 80 x B 45 x D 51,5 cm Dybde: 42 cm Høyde: 5,5 cm Bredde: 45 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Empire",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-08920F",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1915",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37675.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37675.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37675.tif/full/full/0/default.jpg",
+      "filename": "OK-08920F_37675.jpg",
+      "glb": "OK-08920F_37675.glb"
+    }
+  ],
+  "model3d": "OK-08920F_37675.glb"
+}

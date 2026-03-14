@@ -1,0 +1,36 @@
+{
+  "objectId": "OK-2003-0249",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2003-0249",
+  "title": "Stol",
+  "Datering": "1909",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og lakkert mahogni, delvis finert",
+  "Dekorteknikk": [
+    "Lakkering",
+    "Beising",
+    "Finering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Eik",
+    "Lind"
+  ],
+  "Mål": "H 83 x B 41,5 x D 48,5 cm Dybde: 42 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "OK-2003-0249",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Ervervelsesopplysninger under arbeid",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22197.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22197.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22197.tif/full/full/0/default.jpg",
+      "filename": "OK-2003-0249_22197.jpg",
+      "glb": "OK-2003-0249_22197.glb"
+    }
+  ],
+  "model3d": "OK-2003-0249_22197.glb"
+}

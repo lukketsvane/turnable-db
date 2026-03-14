@@ -1,0 +1,57 @@
+{
+  "objectId": "OK-05441B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05441B",
+  "title": "Stol",
+  "Datering": "1798",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol i bøk med dreid, skåret og bemalt dekor. Sete trukket med silke.",
+  "Teknikk": [
+    "Fletting",
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Bemaling",
+    "Gjennombrutt utskjæring",
+    "Profilering",
+    "Kannelyre"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Silke",
+    "Palme"
+  ],
+  "Mål": "H 86,5 x B 54 x D 57,5 cm Dybde: 43,5 cm Høyde: 5,5 cm Bredde: 53 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322.41 - Møbelsnekring"
+  ],
+  "Stilperiode": [
+    "Regency",
+    "Nyklassisisme"
+  ],
+  "Produksjonssted": [
+    "København",
+    "Danmark"
+  ],
+  "Inventarnr.": "OK-05441B",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1895",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37584.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37584.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37584.tif/full/full/0/default.jpg",
+      "filename": "OK-05441B_37584.jpg",
+      "glb": "OK-05441B_37584.glb"
+    }
+  ],
+  "model3d": "OK-05441B_37584.glb"
+}

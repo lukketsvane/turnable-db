@@ -1,0 +1,45 @@
+{
+  "objectId": "NMK.2014.0118",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2014.0118",
+  "title": "Stol",
+  "Datering": "1958",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd og fernissert kryssfiner og ullstoff",
+  "Teknikk": [
+    "Polstring",
+    "Laminering",
+    "Tapping",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Formbøying",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Kryssfiner",
+    "Ull"
+  ],
+  "Mål": "H 75 x B 68 x D 66 cm",
+  "Emneord": [
+    "Møbel",
+    "Design",
+    "Industridesign"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2014.0118",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2014",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "Opphavsrett": "© Reenskaug, Frank",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95737.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95737.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95737.tif/full/full/0/default.jpg",
+      "filename": "NMK.2014.0118_95737.jpg",
+      "glb": "NMK.2014.0118_95737.glb"
+    }
+  ],
+  "model3d": "NMK.2014.0118_95737.glb"
+}

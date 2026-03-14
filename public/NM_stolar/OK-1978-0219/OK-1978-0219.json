@@ -1,0 +1,49 @@
+{
+  "objectId": "OK-1978-0219",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1978-0219",
+  "title": "\"The Chair\"",
+  "Datering": "1949 (design) / 1976 (dette eksemplar)",
+  "Andre titler": "\"The Chair\" (ENG)JH 501 (DAN)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dreid og skåret mahogni, fernissert, flettet rottingsete",
+  "Teknikk": [
+    "Fletting",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Palme"
+  ],
+  "Mål": "H 76 x B 63 x D 53,5 cm Høyde: 43 Dybde: 47 cm Bredde: 56 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322.48 - Møbeldesign"
+  ],
+  "Produksjonssted": [
+    "København",
+    "Danmark"
+  ],
+  "Inventarnr.": "OK-1978-0219",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Scandinavian Design Beyond the Myth, 2003 - 2007",
+  "Ervervelse": "Gave 1978",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/41340.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/41340.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/41340.tif/full/full/0/default.jpg",
+      "filename": "OK-1978-0219_41340.jpg",
+      "glb": "OK-1978-0219_41340.glb"
+    }
+  ],
+  "model3d": "OK-1978-0219_41340.glb"
+}

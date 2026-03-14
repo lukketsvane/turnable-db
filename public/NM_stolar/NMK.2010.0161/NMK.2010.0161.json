@@ -1,0 +1,53 @@
+{
+  "objectId": "NMK.2010.0161",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2010.0161",
+  "title": "Stol",
+  "Datering": "Ca. 1850",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert og relieffskåret eik, polstret sete trukket i bomull, metallnagler",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Voksboning",
+    "Beising"
+  ],
+  "Materiale": [
+    "Eik",
+    "Silke",
+    "Metall",
+    "Bomull"
+  ],
+  "Mål": "H 88 x B 46 x D 45 cm Bredde: 42,5 cm Dybde: 40,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322 - Trearbeid",
+    "322.4 - Møbelfagene",
+    "322.48 - Møbeldesign",
+    "322.82 - Modellsnekker",
+    "352.1 - Sittemøbler",
+    "353 - Innredning og interiørdekorasjon"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "NMK.2010.0161",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2010",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37567.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37567.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37567.tif/full/full/0/default.jpg",
+      "filename": "NMK.2010.0161_37567.jpg",
+      "glb": "NMK.2010.0161_37567.glb"
+    }
+  ],
+  "model3d": "NMK.2010.0161_37567.glb"
+}

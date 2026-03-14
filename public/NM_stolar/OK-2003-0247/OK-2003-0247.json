@@ -1,0 +1,49 @@
+{
+  "objectId": "OK-2003-0247",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2003-0247",
+  "title": "Bella",
+  "Datering": "1995",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert kryssfiner, tekstiltrekk, stålrørsben",
+  "Teknikk": [
+    "Formbøying",
+    "Polstring",
+    "Skruing",
+    "Laminering"
+  ],
+  "Dekorteknikk": [
+    "Forkromming",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Tekstil",
+    "Kryssfiner",
+    "Plast",
+    "Stål"
+  ],
+  "Mål": "H 95,5 x B 51,5 x D 50,5 cm Høyde: 95,5 cm Dybde: 50,5 cm Bredde: 51,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Modernisme",
+  "Inventarnr.": "OK-2003-0247",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1999",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22195.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22195.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22195.tif/full/full/0/default.jpg",
+      "filename": "OK-2003-0247_22195.jpg",
+      "glb": "OK-2003-0247_22195.glb"
+    }
+  ],
+  "model3d": "OK-2003-0247_22195.glb"
+}

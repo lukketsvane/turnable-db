@@ -1,0 +1,42 @@
+{
+  "objectId": "NMK.2016.0142",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2016.0142",
+  "title": "Mini version 2 originaltittel",
+  "Datering": "2005",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd, laminert tre, sete av skumputer",
+  "Teknikk": "Formbøying",
+  "Materiale": [
+    "Finer",
+    "Skum",
+    "Metall"
+  ],
+  "Mål": "H 103,5 x B 38 x D 35 cm",
+  "Emneord": [
+    "Møbel",
+    "Industridesign",
+    "Prototyp"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "NMK.2016.0142",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Ekstrem Ekstrøm, 2016",
+  "Ervervelse": "Gave 2016",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "Opphavsrett": "© Ekstrøm, Terje/Ekstrøm",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/142184.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/142184.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/142184.tif/full/full/0/default.jpg",
+      "filename": "NMK.2016.0142_142184.jpg",
+      "glb": "NMK.2016.0142_142184.glb"
+    }
+  ],
+  "model3d": "NMK.2016.0142_142184.glb"
+}

@@ -1,0 +1,39 @@
+{
+  "objectId": "NMK.2011.0139",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2011.0139",
+  "title": "Clint produsents tittel",
+  "Datering": "2009",
+  "Andre titler": "Clint (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formpresset plast, forkrommet stål og ulltrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Skruing"
+  ],
+  "Dekorteknikk": "Forkromming",
+  "Materiale": [
+    "Ull",
+    "Plast",
+    "Stål",
+    "Skumplast"
+  ],
+  "Mål": "H 107 x B 60,5 x D 63 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2011.0139",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Vær så god, sitt. Levende norsk møbeldesign, 2009 - 2010",
+  "Ervervelse": "Gave 2011",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35977.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35977.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35977.tif/full/full/0/default.jpg",
+      "filename": "NMK.2011.0139_35977.jpg",
+      "glb": "NMK.2011.0139_35977.glb"
+    }
+  ],
+  "model3d": "NMK.2011.0139_35977.glb"
+}

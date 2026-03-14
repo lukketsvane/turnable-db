@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-05656",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05656",
+  "title": "Stol",
+  "Datering": "Siste halvdel av 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre med skåret og dreid dekor, postret sete med bomullstrekk",
+  "Teknikk": [
+    "Innfelling",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Profilering",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Bomull"
+  ],
+  "Mål": "H 96 x B 42 x D 40,5 cm Høyde: 96 cm Dybde: 40,5 cm Bredde: 42 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Europa",
+  "Inventarnr.": "OK-05656",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1896",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07154.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07154.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07154.tif/full/full/0/default.jpg",
+      "filename": "OK-05656_07154.jpg",
+      "glb": "OK-05656_07154.glb"
+    }
+  ],
+  "model3d": "OK-05656_07154.glb"
+}

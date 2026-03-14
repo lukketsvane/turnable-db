@@ -1,0 +1,39 @@
+{
+  "objectId": "OK-2003-0200",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2003-0200",
+  "title": "Soft Big Easy produsents tittel",
+  "Datering": "1991",
+  "Andre titler": "Soft Big Easy (ENG)",
+  "Betegnelse": "Lenestol",
+  "Materiale og teknikk": "Polstret stol, trukket i ull.",
+  "Teknikk": "Polstring",
+  "Materiale": "Ull",
+  "Mål": "H 98 cm x B 124 cm x D 92 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": [
+    "Roma",
+    "Italia"
+  ],
+  "Inventarnr.": "OK-2003-0200",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2003",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Nasjonalmuseet",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/29982.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/29982.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/29982.tif/full/full/0/default.jpg",
+      "filename": "OK-2003-0200_29982.jpg",
+      "glb": "OK-2003-0200_29982.glb"
+    }
+  ],
+  "model3d": "OK-2003-0200_29982.glb"
+}

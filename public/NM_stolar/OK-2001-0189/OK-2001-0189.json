@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-2001-0189",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2001-0189",
+  "title": "ERO (serietittel)",
+  "Datering": "Siste halvdel av 1950-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd fargelakkert stål, flettet plast",
+  "Teknikk": [
+    "Formbøying",
+    "Skruing",
+    "Fletting"
+  ],
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Stål",
+    "Gummi/plast"
+  ],
+  "Mål": "H 76 x B 56,5 x D 47 cm Dybde: 47 cm Bredde: 42 cm Høyde: 76 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Scandinavian Design",
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "OK-2001-0189",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2001",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Børre Høstland",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07105.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07105.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07105.tif/full/full/0/default.jpg",
+      "filename": "OK-2001-0189_07105.jpg",
+      "glb": "OK-2001-0189_07105.glb"
+    }
+  ],
+  "model3d": "OK-2001-0189_07105.glb"
+}

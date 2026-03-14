@@ -1,0 +1,41 @@
+{
+  "objectId": "OK-1994-0136",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1994-0136",
+  "title": "Rood-blauwe leunstoel",
+  "Datering": "1917 (design), 1973 (dette eksemplar)",
+  "Andre titler": "Rood-blauwe leunstoel (DUT)Red and Blue (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fargelakkert bøk",
+  "Teknikk": [
+    "Skruing",
+    "Plugging"
+  ],
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": "Bøk",
+  "Mål": "H 86,5 x B 65,8 x D 83,5 cm Bredde: 36 cm Dybde: 46 cm Høyde: 33,4 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Italia",
+  "Inventarnr.": "OK-1994-0136",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Kunstaudiens. Nasjonalmuseet i Kunststallen, 2021",
+  "Ervervelse": "Kjøpt 1994",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92658.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92658.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92658.tif/full/full/0/default.jpg",
+      "filename": "OK-1994-0136_92658.jpg",
+      "glb": "OK-1994-0136_92658.glb"
+    }
+  ],
+  "model3d": "OK-1994-0136_92658.glb"
+}

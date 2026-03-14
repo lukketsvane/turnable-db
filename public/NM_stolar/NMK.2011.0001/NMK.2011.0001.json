@@ -1,0 +1,52 @@
+{
+  "objectId": "NMK.2011.0001",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2011.0001",
+  "title": "Stol",
+  "Datering": "Ca. 1885",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre, utskåret, dreiet, marketteri, lakkert og sete av plysj",
+  "Teknikk": [
+    "Polstring",
+    "Plugging",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Marketeri",
+    "Fargelakkering",
+    "Fernissering",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Plysj",
+    "Perlemor"
+  ],
+  "Mål": "H 94,5 x B 44 x D 44 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "NMK.2011.0001",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Owen Jones og den islamske inspirasjonen, 2011",
+  "Ervervelse": "Kjøpt 2011",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37576.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37576.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37576.tif/full/full/0/default.jpg",
+      "filename": "NMK.2011.0001_37576.jpg",
+      "glb": "NMK.2011.0001_37576.glb"
+    }
+  ],
+  "model3d": "NMK.2011.0001_37576.glb"
+}

@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-10648",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-10648",
+  "title": "Stol",
+  "Datering": "Ca. 1820",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Or finert på furu, ryggbrett med intarsia i mahogni og buksbom, sete trukket med kunstsilke (sekundært)",
+  "Dekorteknikk": "Intarsia",
+  "Materiale": [
+    "Or",
+    "Mahogni",
+    "Furu",
+    "Buksbom",
+    "Silke"
+  ],
+  "Mål": "H 82 cm x B 46 cm x D 82 cm Bredde: 46 cm Dybde: 35 cm Høyde: 45 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322.4 - Møbelfagene",
+    "322.41 - Møbelsnekring"
+  ],
+  "Stilperiode": "Empire",
+  "Produksjonssted": "Bergen",
+  "Inventarnr.": "OK-10648",
+  "Registreringsnivå": "Gruppering",
+  "Ervervelse": "Gave 1935",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07183.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07183.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07183.tif/full/full/0/default.jpg",
+      "filename": "OK-10648_07183.jpg",
+      "glb": "OK-10648_07183.glb"
+    }
+  ],
+  "model3d": "OK-10648_07183.glb"
+}

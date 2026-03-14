@@ -1,0 +1,36 @@
+{
+  "objectId": "NMK.DEP.2019.0014",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.DEP.2019.0014",
+  "title": "Chaise Mirror 1",
+  "Datering": "2009",
+  "Andre titler": "Chaise Mirror 1 (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sprøytestøp, liming og fargelakkering på plast, polypropylen",
+  "Teknikk": [
+    "Sprøytestøp",
+    "Liming",
+    "Fargelakkering"
+  ],
+  "Materiale": "Polypropylen",
+  "Mål": "89 x 67,5 x 61 cm Vekt: 3,5 kg",
+  "Emneord": [
+    "Kunsthåndverk",
+    "Møbel"
+  ],
+  "Klassifikasjon": "530 - Kunst",
+  "Inventarnr.": "NMK.DEP.2019.0014",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Innlån, 2019",
+  "Eier og samling": "Galila Barzilai Hollander, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.DEP.2019.0014.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.DEP.2019.0014.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.DEP.2019.0014.tif/full/full/0/default.jpg",
+      "filename": "NMK.DEP.2019.0014_NMK.DEP.2019.0014.jpg",
+      "glb": "NMK.DEP.2019.0014_NMK.DEP.2019.0014.glb"
+    }
+  ],
+  "model3d": "NMK.DEP.2019.0014_NMK.DEP.2019.0014.glb"
+}

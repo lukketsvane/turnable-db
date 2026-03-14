@@ -1,0 +1,37 @@
+{
+  "objectId": "OK-2003-0115",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2003-0115",
+  "title": "Panton chair",
+  "Datering": "1957-1960 (design) / 1968 (produskjon)",
+  "Andre titler": "Panton chair (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fargelakkert støpt plast",
+  "Teknikk": "Støp",
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": "Plast",
+  "Mål": "H 82 cm, B 49 cm, D 60 cm Bredde: 49 cm Dybde: 60 cm Høyde: 82 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": [
+    "Basel",
+    "Sveits"
+  ],
+  "Inventarnr.": "OK-2003-0115",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2003",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-2003-0115.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-2003-0115.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-2003-0115.tif/full/full/0/default.jpg",
+      "filename": "OK-2003-0115_OK-2003-0115.jpg",
+      "glb": "OK-2003-0115_OK-2003-0115.glb"
+    }
+  ],
+  "model3d": "OK-2003-0115_OK-2003-0115.glb"
+}

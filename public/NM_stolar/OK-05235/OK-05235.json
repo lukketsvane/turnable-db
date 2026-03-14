@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-05235",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05235",
+  "title": "Stol",
+  "Datering": "1750-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Bøk med skåret dekor, trekk i sort linimitasjon.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring",
+    "Profilering",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Tekstil"
+  ],
+  "Mål": "H 98 x B 54 x D 56 cm Høyde: 48 cm Dybde: 36,5 cm Bredde: 49 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Chippendale",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-05235",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "ervervet 1896",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07236.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07236.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07236.tif/full/full/0/default.jpg",
+      "filename": "OK-05235_07236.jpg",
+      "glb": "OK-05235_07236.glb"
+    }
+  ],
+  "model3d": "OK-05235_07236.glb"
+}

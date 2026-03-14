@@ -1,0 +1,38 @@
+{
+  "objectId": "OK-18446",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-18446",
+  "title": "Stol",
+  "Datering": "1909",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og lakkert mahogni, delvis finert",
+  "Teknikk": "Innfelling",
+  "Dekorteknikk": [
+    "Lakkering",
+    "Finering",
+    "Beising"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Eik",
+    "Lind"
+  ],
+  "Mål": "H 82,5 x B 52 x D 53 cm Dybde: 46,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Nyklassisisme",
+  "Inventarnr.": "OK-18446",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Tidligere innkommet (før 2014)",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95730.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95730.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95730.tif/full/full/0/default.jpg",
+      "filename": "OK-18446_95730.jpg",
+      "glb": "OK-18446_95730.glb"
+    }
+  ],
+  "model3d": "OK-18446_95730.glb"
+}

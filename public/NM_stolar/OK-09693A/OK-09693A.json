@@ -1,0 +1,58 @@
+{
+  "objectId": "OK-09693A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09693A",
+  "title": "Stol",
+  "Datering": "1690-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre, eik og bøk som er utskåret med rotting rygg og sete av fløyel",
+  "Teknikk": [
+    "Fletting",
+    "Tapping",
+    "Polstring",
+    "Spikring",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Voksboning",
+    "Profilering",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Ull",
+    "Bøk",
+    "Palme",
+    "Messing"
+  ],
+  "Mål": "H 128,3 x B 54 x D 56 cm Dybde: 45 cm Høyde: 48 cm Bredde: 50,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "285 - Flette- og kurvarbeid",
+    "322 - Trearbeid",
+    "322.4 - Møbelfagene",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-09693A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1923",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli/Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-09693A.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-09693A.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-09693A.tif/full/full/0/default.jpg",
+      "filename": "OK-09693A_OK-09693A.jpg",
+      "glb": "OK-09693A_OK-09693A.glb"
+    }
+  ],
+  "model3d": "OK-09693A_OK-09693A.glb"
+}

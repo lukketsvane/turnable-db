@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-05413",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05413",
+  "title": "Stol",
+  "Datering": "1897",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert jakaranda og bøk med skåret dekor, silketrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering",
+    "Profilering",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Jakaranda",
+    "Bøk",
+    "Silke"
+  ],
+  "Mål": "H 86 x B 44 x D 49 cm Høyde: 46 cm Dybde: 37 cm Bredde: 42 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-05413",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "kjøpt 1897",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07147.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07147.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07147.tif/full/full/0/default.jpg",
+      "filename": "OK-05413_07147.jpg",
+      "glb": "OK-05413_07147.glb"
+    }
+  ],
+  "model3d": "OK-05413_07147.glb"
+}

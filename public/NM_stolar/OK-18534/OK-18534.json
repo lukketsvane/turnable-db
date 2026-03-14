@@ -1,0 +1,40 @@
+{
+  "objectId": "OK-18534",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-18534",
+  "title": "Concrete Chair",
+  "Datering": "1980",
+  "Andre titler": "Concrete Chair (ENG)Concrete (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Støpt betong og jern",
+  "Teknikk": [
+    "Støping",
+    "Sveising"
+  ],
+  "Mål": "H 89,5 x B 50 x D 57 cm Dybde: 45,5 cm",
+  "Emneord": [
+    "Kunstindustri",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "326 - Metallhåndverk",
+    "339.23 - Betongverk"
+  ],
+  "Stilperiode": "Postmodernisme",
+  "Produksjonssted": "Sverige",
+  "Inventarnr.": "OK-18534",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Tidligere innkommet",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140134.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140134.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140134.tif/full/full/0/default.jpg",
+      "filename": "OK-18534_140134.jpg",
+      "glb": "OK-18534_140134.glb"
+    }
+  ],
+  "model3d": "OK-18534_140134.glb"
+}

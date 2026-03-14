@@ -1,0 +1,29 @@
+{
+  "objectId": "NMK.2016.0063.046.001",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2016.0063.046.001",
+  "title": "Stol, utkast til MoMAs konkurranse om design for moderne møbler",
+  "Datering": "Mellom 1946 og 1948",
+  "Betegnelse": "Oppriss",
+  "Materiale og teknikk": "Blekk på kartong",
+  "Teknikk": "Blekk",
+  "Materiale": "Papir",
+  "Mål": "25,2 x 25,0 cm",
+  "Emneord": "Arkitektonisk tegning",
+  "Klassifikasjon": "341 - Arkitektur",
+  "Inventarnr.": "NMK.2016.0063.046.001",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2016",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Arkitektursamlingene",
+  "Foto": "Thorkildsen, Morten",
+  "Opphavsrett": "© Korsmo, Arne, Utzon, Jørn",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/146529.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/146529.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/146529.tif/full/full/0/default.jpg",
+      "filename": "NMK.2016.0063.046.001_146529.jpg",
+      "glb": "NMK.2016.0063.046.001_146529.glb"
+    }
+  ],
+  "model3d": "NMK.2016.0063.046.001_146529.glb"
+}

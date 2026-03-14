@@ -1,0 +1,51 @@
+{
+  "objectId": "OK-1994-0210",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1994-0210",
+  "title": "Stol",
+  "Datering": "ca. 1900",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fargelakkert eik med dreid og skåret dekor og preget fløyelstrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Fargelakkering",
+    "Bronsering",
+    "Dreiing",
+    "Figurskjæring",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Eik",
+    "Tekstil, lerret",
+    "Tekstil, fløyel"
+  ],
+  "Mål": "H 130 x B 55 x D 60cm Dybde: 39 cm Bredde: 50,5 cm",
+  "Emneord": [
+    "Kunstindustri",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Produksjonssted": "Ukjent",
+  "Inventarnr.": "OK-1994-0210",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1994",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07403.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07403.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07403.tif/full/full/0/default.jpg",
+      "filename": "OK-1994-0210_07403.jpg",
+      "glb": "OK-1994-0210_07403.glb"
+    }
+  ],
+  "model3d": "OK-1994-0210_07403.glb"
+}

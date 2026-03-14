@@ -1,0 +1,50 @@
+{
+  "objectId": "NMK.2015.0335",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2015.0335",
+  "title": "SA 590 produsents tittel",
+  "Datering": "1986 (design)",
+  "Andre titler": "SA 590 (SWE)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert kryssfinér og sortlakkert bøk, setetrekk i skai",
+  "Teknikk": [
+    "Formbøying",
+    "Polstring",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Lakkering",
+    "Fargelakkering"
+  ],
+  "Materiale": [
+    "Kryssfiner",
+    "Bøk",
+    "Skai"
+  ],
+  "Mål": "H 82 x B 47,5 X D 50 cm Høyde: 46 cm Diameter: 39 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Postmodernisme",
+  "Produksjonssted": "Sverige",
+  "Inventarnr.": "NMK.2015.0335",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2015",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "Opphavsrett": "© Anderson, Olle",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/114126.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/114126.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/114126.tif/full/full/0/default.jpg",
+      "filename": "NMK.2015.0335_114126.jpg",
+      "glb": "NMK.2015.0335_114126.glb"
+    }
+  ],
+  "model3d": "NMK.2015.0335_114126.glb"
+}

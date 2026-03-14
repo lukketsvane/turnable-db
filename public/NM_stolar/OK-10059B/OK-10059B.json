@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-10059B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-10059B",
+  "title": "Stol",
+  "Datering": "Antagelig 1620-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dreiet, beiset og fernissert nøttetre, lær og messing",
+  "Teknikk": [
+    "Tapping",
+    "Plugging",
+    "Spikring"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Beising",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Lær",
+    "Messing"
+  ],
+  "Mål": "H 96,3 x B 49,5 x D 46,5 cm Bredde: 49,5 cm Dybde: 42 cm Høyde: 54,7 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Holland",
+  "Inventarnr.": "OK-10059B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1925",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94795.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94795.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94795.tif/full/full/0/default.jpg",
+      "filename": "OK-10059B_94795.jpg",
+      "glb": "OK-10059B_94795.glb"
+    }
+  ],
+  "model3d": "OK-10059B_94795.glb"
+}

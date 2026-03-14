@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-11049",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-11049",
+  "title": "Stol",
+  "Datering": "1850-1890",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Palisander med skåret dekor, fernissert, polstret pute trukket med silkeatlask",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Gjennombrutt utskjæring",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Palisander",
+    "Silke"
+  ],
+  "Mål": "H 101 cm x B 67 cm x D 67 cm Bredde: 53 cm Dybde: 46 cm Høyde: 13 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "531.41 - Treskjæring"
+  ],
+  "Produksjonssted": [
+    "Shrinagar",
+    "Kashmir",
+    "India"
+  ],
+  "Inventarnr.": "OK-11049",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 1939",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "A. Harvik / H. L. Jensen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07446.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07446.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07446.tif/full/full/0/default.jpg",
+      "filename": "OK-11049_07446.jpg",
+      "glb": "OK-11049_07446.glb"
+    }
+  ],
+  "model3d": "OK-11049_07446.glb"
+}

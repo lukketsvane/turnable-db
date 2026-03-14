@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-07456",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07456",
+  "title": "Stol",
+  "Datering": "Mellom 1730 og 1769",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert nøttetre med rotting av palme, profilerte kanter og skåret dekor.",
+  "Teknikk": [
+    "Fletting",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Profilering",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Palme"
+  ],
+  "Mål": "H 84,7 x B 47 x D 53 cm Høyde: 41,5 cm Dybde: 45 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Rokokko",
+  "Produksjonssted": "Tyskland",
+  "Inventarnr.": "OK-07456",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1906",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35917.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35917.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35917.tif/full/full/0/default.jpg",
+      "filename": "OK-07456_35917.jpg",
+      "glb": "OK-07456_35917.glb"
+    }
+  ],
+  "model3d": "OK-07456_35917.glb"
+}

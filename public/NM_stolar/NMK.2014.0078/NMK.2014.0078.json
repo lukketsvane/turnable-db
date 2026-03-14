@@ -1,0 +1,45 @@
+{
+  "objectId": "NMK.2014.0078",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2014.0078",
+  "title": "Stol",
+  "Datering": "1927 (design) / 1928 (katalog)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Brunmalt furu og polstret sete trukket med ullstoff",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Spikring"
+  ],
+  "Dekorteknikk": "Maling",
+  "Materiale": [
+    "Furu",
+    "Ull",
+    "Kryssfiner"
+  ],
+  "Mål": "H 101 x B 47,5 x D 52 cm Høyde: 47,5 cm Dybde: 36 cm Bredde: 40 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Lillehammer",
+  "Inventarnr.": "NMK.2014.0078",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 2014",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95732.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95732.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/95732.tif/full/full/0/default.jpg",
+      "filename": "NMK.2014.0078_95732.jpg",
+      "glb": "NMK.2014.0078_95732.glb"
+    }
+  ],
+  "model3d": "NMK.2014.0078_95732.glb"
+}

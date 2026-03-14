@@ -1,0 +1,47 @@
+{
+  "objectId": "NMK.2015.0285",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2015.0285",
+  "title": "Stol",
+  "Datering": "Ca. 1904",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset eller vokset eik med sete av flettet strå",
+  "Teknikk": [
+    "Tapping",
+    "Fletting"
+  ],
+  "Dekorteknikk": [
+    "Fernissering",
+    "Beising"
+  ],
+  "Materiale": [
+    "Strå",
+    "Eik"
+  ],
+  "Mål": "H 100 x B 51 x D 49 cm Bredde: 47 cm Dybde: 35,7 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Art Nouveau",
+  "Produksjonssted": "England",
+  "Inventarnr.": "NMK.2015.0285",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2015",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111460.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111460.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111460.tif/full/full/0/default.jpg",
+      "filename": "NMK.2015.0285_111460.jpg",
+      "glb": "NMK.2015.0285_111460.glb"
+    }
+  ],
+  "model3d": "NMK.2015.0285_111460.glb"
+}

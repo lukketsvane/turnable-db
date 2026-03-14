@@ -1,0 +1,37 @@
+{
+  "objectId": "NMK.2008.0734.034.001",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2008.0734.034.001",
+  "title": "Stol til Den Nordiske paviljongen i Venezia. OpprissVenezia-stolen originaltittel",
+  "Datering": "9. august 1963",
+  "Betegnelse": "Oppriss",
+  "Materiale og teknikk": "Blyant og fargeblyant på transparentpapir",
+  "Teknikk": [
+    "Blyant",
+    "Fargeblyant"
+  ],
+  "Materiale": "Transparentpapir",
+  "Mål": "119,0 x 90,2 cm",
+  "Emneord": "Arkitektonisk tegning",
+  "Klassifikasjon": "341 - Arkitektur",
+  "Motiv - sted": [
+    "Venezia",
+    "Veneto",
+    "Italia"
+  ],
+  "Inventarnr.": "NMK.2008.0734.034.001",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2008 av Sverre Fehn, med støtte fra Sparebankstiftelsen DnB NOR",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Arkitektursamlingene",
+  "Foto": "Bjørgli, Annar",
+  "Opphavsrett": "© Fehn, Sverre",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66572.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66572.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66572.tif/full/full/0/default.jpg",
+      "filename": "NMK.2008.0734.034.001_66572.jpg",
+      "glb": "NMK.2008.0734.034.001_66572.glb"
+    }
+  ],
+  "model3d": "NMK.2008.0734.034.001_66572.glb"
+}

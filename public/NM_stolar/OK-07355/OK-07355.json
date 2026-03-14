@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-07355",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07355",
+  "title": "Stol",
+  "Datering": "Begynnelsen av 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mahognifiner med forgylte detaljer og bronsebeslag",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Forgylling",
+    "Beising",
+    "Lakkering",
+    "Finering",
+    "Høyt relieff",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Bjørk",
+    "Bøk",
+    "Furu",
+    "Bronse",
+    "Ibenholt",
+    "Syntetiske fibre, kunstsilke"
+  ],
+  "Mål": "H 81 x B 47,5 x D 52,2 cm Dybde: 42,5 cm Bredde: 47 cm Høyde: 46 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Ukjent",
+  "Inventarnr.": "OK-07355",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1904",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode/Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92592.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92592.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92592.tif/full/full/0/default.jpg",
+      "filename": "OK-07355_92592.jpg",
+      "glb": "OK-07355_92592.glb"
+    }
+  ],
+  "model3d": "OK-07355_92592.glb"
+}

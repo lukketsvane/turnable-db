@@ -1,0 +1,32 @@
+{
+  "objectId": "NMK.2018.0383",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2018.0383",
+  "title": "Tip Ton produsents tittel",
+  "Datering": "Design 2011",
+  "Andre titler": "Tip Ton (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Støpt farget polypropylen",
+  "Teknikk": "Støping",
+  "Materiale": "Polypropylen",
+  "Mål": "H 78,6 cm x B 50,9 cm x D 55,5 cm Vekt: 4,5 kg",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2018.0383",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2018",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0383.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0383.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0383.tif/full/full/0/default.jpg",
+      "filename": "NMK.2018.0383_NMK.2018.0383.jpg",
+      "glb": "NMK.2018.0383_NMK.2018.0383.glb"
+    }
+  ],
+  "model3d": "NMK.2018.0383_NMK.2018.0383.glb"
+}

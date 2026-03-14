@@ -1,0 +1,35 @@
+{
+  "objectId": "NMK.2018.0382",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2018.0382",
+  "title": "Ply-Chair",
+  "Datering": "2019 (Design 1988)",
+  "Andre titler": "Ply-Chair (ENG)Plywood Chair - Vitra Museum Edition no. 2 (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissering og skruing på Kryssfiner",
+  "Teknikk": [
+    "Fernissering",
+    "Skruing"
+  ],
+  "Materiale": "Kryssfiner",
+  "Mål": "H 83 cm x B 39,4 cm x D 47 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2018.0382",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2018",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0382.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0382.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0382.tif/full/full/0/default.jpg",
+      "filename": "NMK.2018.0382_NMK.2018.0382.jpg",
+      "glb": "NMK.2018.0382_NMK.2018.0382.glb"
+    }
+  ],
+  "model3d": "NMK.2018.0382_NMK.2018.0382.glb"
+}

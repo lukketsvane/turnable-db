@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-05406",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05406",
+  "title": "Stol",
+  "Datering": "Slutten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Profilert, skåret og fernissert bøk med hestehårstrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Profilering",
+    "Treskjæring",
+    "Fernissering",
+    "Beising"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Hestetagl",
+    "Messing"
+  ],
+  "Mål": "H 94 x B 48,5 x D 45 cm Dybde: 0,5 cm Bredde: 48,5 cm Høyde: 45,3 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Tyskland",
+  "Inventarnr.": "OK-05406",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1895",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94779.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94779.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94779.tif/full/full/0/default.jpg",
+      "filename": "OK-05406_94779.jpg",
+      "glb": "OK-05406_94779.glb"
+    }
+  ],
+  "model3d": "OK-05406_94779.glb"
+}

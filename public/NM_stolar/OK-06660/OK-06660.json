@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-06660",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06660",
+  "title": "Stol",
+  "Datering": "1775-1799",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Utskåret og lakkert bøk med polstret sete",
+  "Teknikk": [
+    "Fernissering",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Treskjæring",
+    "Profilering",
+    "Forgylling"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Tekstil"
+  ],
+  "Mål": "H 93,5 x B 48 x D 48,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Nyklassisisme",
+  "Produksjonssted": "Norge",
+  "Inventarnr.": "OK-06660",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1902",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-06660_66321.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66321.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66321.tif/full/512,/0/default.jpg",
+      "glb": "OK-06660_66321.glb"
+    }
+  ],
+  "model3d": "OK-06660_66321.glb"
+}

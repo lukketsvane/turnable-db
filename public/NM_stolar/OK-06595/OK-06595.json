@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-06595",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06595",
+  "title": "Stol",
+  "Datering": "Ca. 1780",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Profilert, skåret og fernissert mahogni med hestehårstrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering",
+    "Profilering",
+    "Lavt relieff"
+  ],
+  "Materiale": [
+    "Hestetagl",
+    "Mahogni",
+    "Alm",
+    "Bøk",
+    "Messing"
+  ],
+  "Mål": "H 92,5 x B 52 x D 51 cm Dybde: 39,5 cm Bredde: 52 cm Høyde: 46 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Hepplewhite",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-06595",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "1901",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94791.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94791.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94791.tif/full/full/0/default.jpg",
+      "filename": "OK-06595_94791.jpg",
+      "glb": "OK-06595_94791.glb"
+    }
+  ],
+  "model3d": "OK-06595_94791.glb"
+}

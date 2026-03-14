@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-06939",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06939",
+  "title": "Armstol",
+  "Datering": "Mellom 1730 og 1760",
+  "Betegnelse": "Armstol",
+  "Materiale og teknikk": "Stol utført i mahogni med dekoratiove utskjæringer og profileringer, polstret sete trukket i fløyel",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Beising",
+    "Fernissering",
+    "Kannelyre",
+    "Finering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Tekstil",
+    "Ask",
+    "Messing"
+  ],
+  "Mål": "H 98 x B 69,8 x D 59 cm Dybde: 47 cm Bredde: 59,5 cm Høyde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322 - Trearbeid",
+    "322.4 - Møbelfagene",
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Chippendale",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-06939",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1903",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/36214.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/36214.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/36214.tif/full/full/0/default.jpg",
+      "filename": "OK-06939_36214.jpg",
+      "glb": "OK-06939_36214.glb"
+    }
+  ],
+  "model3d": "OK-06939_36214.glb"
+}

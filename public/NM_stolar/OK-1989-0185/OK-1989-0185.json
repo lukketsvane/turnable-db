@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-1989-0185",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0185",
+  "title": "Ægget produsents tittel3316 Serietittel3316 Serietittel",
+  "Datering": "1958",
+  "Andre titler": "Ægget (DAN)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Skinntrukket og polstret formstøpt plast og aluminium",
+  "Teknikk": [
+    "Sveising",
+    "Polstring"
+  ],
+  "Materiale": [
+    "Skinn/lær/pergament",
+    "Aluminium",
+    "Gummi/plast"
+  ],
+  "Mål": "H 106,5 x B 86 x D 81 cm Tykkelse: 2,5 cm Dybde: 46,5 cm Bredde: 46,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Scandinavian Design",
+  "Produksjonssted": [
+    "København",
+    "Danmark"
+  ],
+  "Inventarnr.": "OK-1989-0185",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøp 1989",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140154.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140154.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/140154.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0185_140154.jpg",
+      "glb": "OK-1989-0185_140154.glb"
+    }
+  ],
+  "model3d": "OK-1989-0185_140154.glb"
+}

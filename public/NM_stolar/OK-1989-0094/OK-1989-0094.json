@@ -1,0 +1,41 @@
+{
+  "objectId": "OK-1989-0094",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0094",
+  "title": "Stol",
+  "Datering": "1988",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert og sortbeiset furu",
+  "Teknikk": "Plugging",
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering"
+  ],
+  "Materiale": "Furu",
+  "Mål": "H 111 x B 48 x D 43 cm Høyde: 111 cm Dybde: 43 cm Bredde: 48 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Postmodernisme",
+  "Produksjonssted": "Bergen",
+  "Inventarnr.": "OK-1989-0094",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1988",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Børre Høstland",
+  "Opphavsrett": "© Engen, Elisabeth",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07087.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07087.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07087.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0094_07087.jpg",
+      "glb": "OK-1989-0094_07087.glb"
+    }
+  ],
+  "model3d": "OK-1989-0094_07087.glb"
+}

@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-10141",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-10141",
+  "title": "Stol",
+  "Datering": "Antagelig 1500-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre med skåret og dreid dekor, polstret sete og rygg, fløyelstrekk med skåret mønster i relieff, agramanbånd i ull",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Ornamentskjæring",
+    "Treskjæring",
+    "Dreiing",
+    "Skåret fløyel"
+  ],
+  "Materiale": [
+    "Vegetabilske fibre",
+    "Nøttetre",
+    "Ull"
+  ],
+  "Mål": "103 x 60 x 45 cm Høyde: 54,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "286.3 - Veving",
+    "322 - Trearbeid",
+    "322.42 - Møbelsnekkerfaget",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Renessanse",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-10141",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1927",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07502.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07502.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07502.tif/full/full/0/default.jpg",
+      "filename": "OK-10141_07502.jpg",
+      "glb": "OK-10141_07502.glb"
+    }
+  ],
+  "model3d": "OK-10141_07502.glb"
+}

@@ -1,0 +1,37 @@
+{
+  "objectId": "OK-07061",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07061",
+  "title": "Stol",
+  "Datering": "første halvdel av 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Bjørk og furu med skåret dekor.",
+  "Teknikk": "Tapping",
+  "Dekorteknikk": [
+    "Treskurd",
+    "Karveskurd"
+  ],
+  "Materiale": [
+    "Furu",
+    "Bjørk"
+  ],
+  "Mål": "H 94 x B 49,5 x D 38,5 cm Rygglengde: 53 cm Høyde: 94 cm Bredde: 49,5 cm Dybde: 38,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Barokk",
+  "Produksjonssted": "Rauland",
+  "Inventarnr.": "OK-07061",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1903",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07423.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07423.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07423.tif/full/full/0/default.jpg",
+      "filename": "OK-07061_07423.jpg",
+      "glb": "OK-07061_07423.glb"
+    }
+  ],
+  "model3d": "OK-07061_07423.glb"
+}

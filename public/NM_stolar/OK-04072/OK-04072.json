@@ -1,0 +1,40 @@
+{
+  "objectId": "OK-04072",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-04072",
+  "title": "Stol",
+  "Datering": "1600-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert nøttetre med skåret og dreid dekor, preget svinelær og messingnagler",
+  "Teknikk": "Tapping",
+  "Dekorteknikk": [
+    "Dreiing",
+    "Voksboning",
+    "Treskjæring",
+    "Pregetrykk"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Furu",
+    "Messing",
+    "Lær"
+  ],
+  "Mål": "H 130,7 x B 52 x D 42 cm Høyde: 130,7 cm Dybde: 42 cm Bredde: 52 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Portugal",
+  "Inventarnr.": "OK-04072",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1892",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08271.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08271.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08271.tif/full/full/0/default.jpg",
+      "filename": "OK-04072_08271.jpg",
+      "glb": "OK-04072_08271.glb"
+    }
+  ],
+  "model3d": "OK-04072_08271.glb"
+}

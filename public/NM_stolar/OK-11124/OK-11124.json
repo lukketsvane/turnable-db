@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-11124",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-11124",
+  "title": "Stol",
+  "Datering": "Ca. 1900",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Profilert, dreiet og beiset eik, fløyelstrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Fløyel"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Lakkering",
+    "Beising",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Eik",
+    "Tekstil"
+  ],
+  "Mål": "H 91,3 x B 42,5 x D 49 cm Høyde: 45 cm Dybde: 40,3 cm Bredde: 42,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "OK-11124",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1940",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/30284.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/30284.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/30284.tif/full/full/0/default.jpg",
+      "filename": "OK-11124_30284.jpg",
+      "glb": "OK-11124_30284.glb"
+    }
+  ],
+  "model3d": "OK-11124_30284.glb"
+}

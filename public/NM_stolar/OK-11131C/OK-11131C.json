@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-11131C",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-11131C",
+  "title": "Stol",
+  "Datering": "Ca. 1830",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert mahognifiner, skåret og dreid dekor, setetrekk i ripsstoff",
+  "Teknikk": [
+    "Tapping",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Finering",
+    "Lakkering",
+    "Dreiing"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Eik",
+    "Furu",
+    "Bomull"
+  ],
+  "Mål": "H 86 x B 47,5 x D 55,5 cm Bredde: 41 cm Høyde: 47 cm Dybde: 36,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "OK-11131C",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 1941",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08326.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08326.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/08326.tif/full/full/0/default.jpg",
+      "filename": "OK-11131C_08326.jpg",
+      "glb": "OK-11131C_08326.glb"
+    }
+  ],
+  "model3d": "OK-11131C_08326.glb"
+}

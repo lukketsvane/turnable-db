@@ -1,0 +1,48 @@
+{
+  "objectId": "NMK.2008.0110",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2008.0110",
+  "title": "Medea produsents tittel",
+  "Datering": "1955",
+  "Andre titler": "Medea (IT)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sete i formbøyd, lakkert og laminert tre, understell av stålrørsben.",
+  "Teknikk": [
+    "Formbøying",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Lakkering",
+    "Laminering"
+  ],
+  "Materiale": [
+    "Kryssfiner",
+    "Stål",
+    "Plast"
+  ],
+  "Mål": "H 83 x B 47 x D 45 cm Høyde: 83 cm Dybde: 45 cm Bredde: 47 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352 - Møbler og gulvbekledning",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Etterkrigsmodernisme",
+  "Inventarnr.": "NMK.2008.0110",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøp 2008",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/32063.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/32063.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/32063.tif/full/full/0/default.jpg",
+      "filename": "NMK.2008.0110_32063.jpg",
+      "glb": "NMK.2008.0110_32063.glb"
+    }
+  ],
+  "model3d": "NMK.2008.0110_32063.glb"
+}

@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-09250",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09250",
+  "title": "Stol",
+  "Datering": "Ca. 1720",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Bøk med skåret og dreid dekor og flettet rotting.",
+  "Teknikk": [
+    "Fletting",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Profilering",
+    "Dreiing",
+    "Beising"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Palme"
+  ],
+  "Mål": "H 114 x B 47 x D 40 cm Høyde: 68 cm Bredde: 47 cm Dybde: 40 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Régence",
+  "Produksjonssted": "Nederland",
+  "Inventarnr.": "OK-09250",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1917",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07431.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07431.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07431.tif/full/full/0/default.jpg",
+      "filename": "OK-09250_07431.jpg",
+      "glb": "OK-09250_07431.glb"
+    }
+  ],
+  "model3d": "OK-09250_07431.glb"
+}

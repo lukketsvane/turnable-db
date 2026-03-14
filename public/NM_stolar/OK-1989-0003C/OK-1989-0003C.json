@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-1989-0003C",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0003C",
+  "title": "Stol",
+  "Datering": "ca. 1880",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert tre med dreid dekor, brodert trekk.",
+  "Teknikk": [
+    "Polstring",
+    "Innfelling"
+  ],
+  "Dekorteknikk": [
+    "Lakkering",
+    "Dreiing",
+    "Brodering"
+  ],
+  "Materiale": [
+    "Tre",
+    "Tekstil"
+  ],
+  "Mål": "H 102 x B 47 x D 69,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Tyskland",
+  "Inventarnr.": "OK-1989-0003C",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1989",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07615.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07615.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07615.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0003C_07615.jpg",
+      "glb": "OK-1989-0003C_07615.glb"
+    }
+  ],
+  "model3d": "OK-1989-0003C_07615.glb"
+}

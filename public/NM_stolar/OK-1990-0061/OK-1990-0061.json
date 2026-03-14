@@ -1,0 +1,34 @@
+{
+  "objectId": "OK-1990-0061",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1990-0061",
+  "title": "Ekstrem produsents tittelEkstrem produsents tittel",
+  "Datering": "1984",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stålrør trukket med skumplast og ulltrekk",
+  "Teknikk": "Polstring",
+  "Materiale": [
+    "Ull",
+    "Skumplast",
+    "Stål"
+  ],
+  "Mål": "H 79 x B 70 x D 71 cm Høyde: 43,5 cm Dybde: 46 cm Bredde: 47 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Postmodernisme",
+  "Inventarnr.": "OK-1990-0061",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1990",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-1990-0061_146576.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/146576.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/146576.tif/full/512,/0/default.jpg",
+      "glb": "OK-1990-0061_146576.glb"
+    }
+  ],
+  "model3d": "OK-1990-0061_146576.glb"
+}

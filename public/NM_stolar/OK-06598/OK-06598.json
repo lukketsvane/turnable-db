@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-06598",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06598",
+  "title": "Stol",
+  "Datering": "Ca. 1780",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert mahogni med skåret dekor, hestehårstrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering",
+    "Profilering",
+    "Lavt relieff",
+    "Finering"
+  ],
+  "Materiale": [
+    "Hestetagl",
+    "Mahogni",
+    "Messing",
+    "Alm",
+    "Bøk"
+  ],
+  "Mål": "H 92 x B 52,5 x D 52,7 cm Bredde: 52,5 cm Dybde: 39,5 cm Høyde: 46,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Hepplewhite",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-06598",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Design og mote. Norge 1814, 2014",
+  "Ervervelse": "Gave 1901",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/73650.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/73650.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/73650.tif/full/full/0/default.jpg",
+      "filename": "OK-06598_73650.jpg",
+      "glb": "OK-06598_73650.glb"
+    }
+  ],
+  "model3d": "OK-06598_73650.glb"
+}

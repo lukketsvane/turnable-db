@@ -1,0 +1,44 @@
+{
+  "objectId": "NMK.2023.0091",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2023.0091",
+  "title": "Hunter produsents tittel",
+  "Datering": "1960 (design 1959)",
+  "Andre titler": "Hunter (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sammensatt overflatebehandlet teak med sydd kjernelær og stål",
+  "Teknikk": [
+    "Tapping",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Teak",
+    "Lær"
+  ],
+  "Mål": "H 76 x B 62 x D 76 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Scandinavian Design",
+  "Inventarnr.": "NMK.2023.0091",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Veldig ulike tendenser. Et utvalg nye verk i samlingen, 2024",
+  "Ervervelse": "Stiftelsen Kunstindustrimuseet",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "Opphavsrett": "© Afdal, Torbjørn",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2023.0091.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2023.0091.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2023.0091.tif/full/full/0/default.jpg",
+      "filename": "NMK.2023.0091_NMK.2023.0091.jpg",
+      "glb": "NMK.2023.0091_NMK.2023.0091.glb"
+    }
+  ],
+  "model3d": "NMK.2023.0091_NMK.2023.0091.glb"
+}

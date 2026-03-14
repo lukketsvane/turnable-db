@@ -1,0 +1,36 @@
+{
+  "objectId": "OK-1989-0043",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0043",
+  "title": "Pat Conley II produsents tittel",
+  "Datering": "1986",
+  "Andre titler": "Pat Conley II (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fargelakkering, Formbøying og Sveising på Stål",
+  "Teknikk": [
+    "Formbøying",
+    "Sveising"
+  ],
+  "Materiale": "Stål",
+  "Mål": "H 74 x B 54,5 x D 76 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-1989-0043",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1989",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111615.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111615.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111615.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0043_111615.jpg",
+      "glb": "OK-1989-0043_111615.glb"
+    }
+  ],
+  "model3d": "OK-1989-0043_111615.glb"
+}

@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-1989-0140",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0140",
+  "title": "Trice produsents tittelTrice produsents tittel",
+  "Datering": "1989",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Støpt og sprøytelakkert plast med sete av seilduk",
+  "Teknikk": [
+    "Støping",
+    "Maskinsøm"
+  ],
+  "Dekorteknikk": "Sprøytelakkering",
+  "Materiale": [
+    "Dracon duk",
+    "Boron",
+    "Polyester"
+  ],
+  "Mål": "H 79 x B 60 x D 54 cm Dybde: 54 cm Høyde: 79 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": [
+    "Helsingfors",
+    "Finland"
+  ],
+  "Inventarnr.": "OK-1989-0140",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1989",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode/Frode Larsen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/91200.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/91200.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/91200.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0140_91200.jpg",
+      "glb": "OK-1989-0140_91200.glb"
+    }
+  ],
+  "model3d": "OK-1989-0140_91200.glb"
+}

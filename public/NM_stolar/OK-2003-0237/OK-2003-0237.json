@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-2003-0237",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2003-0237",
+  "title": "The Sceptre Chair",
+  "Datering": "Siste halvdel av 1950-tallet",
+  "Andre titler": "The Sceptre Chair (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Glassfiberarmert, lakkert polyester, stålrørsben.",
+  "Teknikk": [
+    "Støp",
+    "Formbøying"
+  ],
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Annet, glassfiber",
+    "Polyester",
+    "Stål"
+  ],
+  "Mål": "H 79 x B 58 x D 63 cm Dybde: 44 cm Bredde: 51 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Etterkrigsmodernisme",
+  "Produksjonssted": "Grimstad",
+  "Inventarnr.": "OK-2003-0237",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2003",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93152.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93152.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93152.tif/full/full/0/default.jpg",
+      "filename": "OK-2003-0237_93152.jpg",
+      "glb": "OK-2003-0237_93152.glb"
+    }
+  ],
+  "model3d": "OK-2003-0237_93152.glb"
+}

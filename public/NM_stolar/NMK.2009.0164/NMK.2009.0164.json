@@ -1,0 +1,37 @@
+{
+  "objectId": "NMK.2009.0164",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2009.0164",
+  "title": "105/4",
+  "Datering": "Ca. 1950",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert stol, dreide ben med metallhylser, polstret sete trukket med bomullsstoff.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": "Bemaling",
+  "Materiale": [
+    "Tre",
+    "Bomull",
+    "Messing"
+  ],
+  "Mål": "H 74 x B 48 x D 41 cm Høyde: 74 cm Dybde: 41 cm Bredde: 48 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Scandinavian Design",
+  "Inventarnr.": "NMK.2009.0164",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2009",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09020.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09020.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/09020.tif/full/full/0/default.jpg",
+      "filename": "NMK.2009.0164_09020.jpg",
+      "glb": "NMK.2009.0164_09020.glb"
+    }
+  ],
+  "model3d": "NMK.2009.0164_09020.glb"
+}

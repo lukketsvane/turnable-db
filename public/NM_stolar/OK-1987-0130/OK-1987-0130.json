@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-1987-0130",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1987-0130",
+  "title": "Parabel produsents tittelParabel produsents tittel",
+  "Datering": "1985 (design og produksjon)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Konstruksjon i stålrør, sete og rygg i laminert bøk med melamin som overflate.",
+  "Teknikk": [
+    "Laminering",
+    "Skruing",
+    "Hengsling",
+    "Formbøying"
+  ],
+  "Dekorteknikk": "Forkromming",
+  "Materiale": [
+    "Melamin",
+    "Stål",
+    "Kryssfiner",
+    "Bøk"
+  ],
+  "Mål": "H 70 x B 53 x D 46,5 cm Høyde: 46 cm Dybde: 38,5 cm Bredde: 47,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Ørsta",
+  "Inventarnr.": "OK-1987-0130",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Dysthe Design Swinging 60, 2013",
+  "Ervervelse": "Gave 1987",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/69443.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/69443.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/69443.tif/full/full/0/default.jpg",
+      "filename": "OK-1987-0130_69443.jpg",
+      "glb": "OK-1987-0130_69443.glb"
+    }
+  ],
+  "model3d": "OK-1987-0130_69443.glb"
+}

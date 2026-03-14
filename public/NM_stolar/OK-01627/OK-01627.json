@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-01627",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-01627",
+  "title": "Stol",
+  "Datering": "Mellom 1650 og 1675",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dreiet og svarvet bøk, sete og rygg trukket i lær, messingnagler",
+  "Teknikk": [
+    "Polstring",
+    "Plugging",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Fernissering",
+    "Beising"
+  ],
+  "Materiale": [
+    "Lær",
+    "Bøk",
+    "Messing"
+  ],
+  "Mål": "H 114,5 x B 49,5 x D 54,2 cm Bredde: 48,6 cm Dybde: 40,4 cm Høyde: 52,2 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "282 - Lærindustri",
+    "322.41 - Møbelsnekring",
+    "352.1 - Sittemøbler",
+    "353 - Innredning og interiørdekorasjon"
+  ],
+  "Produksjonssted": "Skandinavia",
+  "Inventarnr.": "OK-01627",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1879",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "Opphavsrett": "© Ukjent",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94777.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94777.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94777.tif/full/full/0/default.jpg",
+      "filename": "OK-01627_94777.jpg",
+      "glb": "OK-01627_94777.glb"
+    }
+  ],
+  "model3d": "OK-01627_94777.glb"
+}

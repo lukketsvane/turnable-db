@@ -1,0 +1,41 @@
+{
+  "objectId": "NMK.2021.0149",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2021.0149",
+  "title": "Delegatarmstol, Sikkerhetsrådets sal, FN-bygningen, New York",
+  "Datering": "1952; 1952; 1952",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Polstret ullstoff over mahogni og bjørk",
+  "Teknikk": [
+    "Polstring",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Tekstil",
+    "Bjørk"
+  ],
+  "Mål": "H 89 x B 66 x D 64 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352 - Møbler og gulvbekledning",
+  "Stilperiode": "Scandinavian Design",
+  "Inventarnr.": "NMK.2021.0149",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Scandinavian Design og USA, 2022",
+  "Ervervelse": "Kjøpt 2021",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "Opphavsrett": "© Wessel, Birgit",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2021.0149+02.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2021.0149+02.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2021.0149+02.tif/full/full/0/default.jpg",
+      "filename": "NMK.2021.0149_NMK.2021.0149+02.jpg",
+      "glb": "NMK.2021.0149_NMK.2021.0149+02.glb"
+    }
+  ],
+  "model3d": "NMK.2021.0149_NMK.2021.0149+02.glb"
+}

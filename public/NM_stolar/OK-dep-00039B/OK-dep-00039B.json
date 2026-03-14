@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-dep-00039B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-dep-00039B",
+  "title": "Stol",
+  "Datering": "1644",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Jakaranda, sammenføyd med tapper, dreid dekor og fløyelstrekk",
+  "Teknikk": [
+    "Tapping",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Jakaranda",
+    "Silke",
+    "Lær"
+  ],
+  "Mål": "H 97,2 x B 47 x D 44,5 cm Høyde: 44,3 cm Dybde: 41 cm Bredde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler",
+    "322.4 - Møbelfagene"
+  ],
+  "Stilperiode": "Renessanse",
+  "Produksjonssted": "Holland",
+  "Inventarnr.": "OK-dep-00039B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Deponert 1929",
+  "Eier og samling": "Norsk Folkemuseum, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07625.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07625.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07625.tif/full/full/0/default.jpg",
+      "filename": "OK-dep-00039B_07625.jpg",
+      "glb": "OK-dep-00039B_07625.glb"
+    }
+  ],
+  "model3d": "OK-dep-00039B_07625.glb"
+}

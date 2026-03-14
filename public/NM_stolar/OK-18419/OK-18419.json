@@ -1,0 +1,40 @@
+{
+  "objectId": "OK-18419",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-18419",
+  "title": "Stol",
+  "Datering": "Mellom 1867 og 1900",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dampbøyde deler i bøk, sete i kryssfinèr.",
+  "Teknikk": [
+    "Tapping",
+    "Plugging",
+    "Skruing",
+    "Formbøying",
+    "Laminering"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering",
+    "Pregetrykk",
+    "Formbøying"
+  ],
+  "Materiale": "Bøk",
+  "Mål": "H 92,5 x B 60 x D 56 cm Dybde: 46 cm Bredde: 42,5 cm Høyde: 46,9 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "OK-18419",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Ervervelsesår ukjent",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Anne Hansteen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/55355.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/55355.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/55355.tif/full/full/0/default.jpg",
+      "filename": "OK-18419_55355.jpg",
+      "glb": "OK-18419_55355.glb"
+    }
+  ],
+  "model3d": "OK-18419_55355.glb"
+}

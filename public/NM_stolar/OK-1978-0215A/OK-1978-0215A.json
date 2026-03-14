@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-1978-0215A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1978-0215A",
+  "title": "Shaker produsents tittelShaker produsents tittel",
+  "Datering": "Mellom 1948 og 1976",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert eik, sete av flettet papirtråd",
+  "Teknikk": [
+    "Tapping",
+    "Plugging",
+    "Fletting"
+  ],
+  "Dekorteknikk": "Lakkering",
+  "Materiale": [
+    "Eik",
+    "Papir"
+  ],
+  "Mål": "H 75,5 x B 48,5 x D 42,5 cm Høyde: 44 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": [
+    "Albertslund",
+    "Danmark"
+  ],
+  "Inventarnr.": "OK-1978-0215A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1976",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92660.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92660.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92660.tif/full/full/0/default.jpg",
+      "filename": "OK-1978-0215A_92660.jpg",
+      "glb": "OK-1978-0215A_92660.glb"
+    }
+  ],
+  "model3d": "OK-1978-0215A_92660.glb"
+}

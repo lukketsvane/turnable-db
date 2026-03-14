@@ -1,0 +1,49 @@
+{
+  "objectId": "OK-06434",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06434",
+  "title": "Stol",
+  "Datering": "Begynnelsen av 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og polert cubamahogni med skåret, gjennombrutt dekor polstret sete trukket med fløyelsstoff",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Finering",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Profilering",
+    "Petit point",
+    "Skjellakkpolering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Tre"
+  ],
+  "Mål": "H 79 x B 47,5 x D 49 cm Bredde: 40 cm Dybde: 38 cm Høyde: 42 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322.4 - Møbelfagene"
+  ],
+  "Stilperiode": "Empire",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-06434",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1900",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37583.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37583.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37583.tif/full/full/0/default.jpg",
+      "filename": "OK-06434_37583.jpg",
+      "glb": "OK-06434_37583.glb"
+    }
+  ],
+  "model3d": "OK-06434_37583.glb"
+}

@@ -1,0 +1,50 @@
+{
+  "objectId": "OK-1978-0217B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1978-0217B",
+  "title": "CH 24 produsents tittel",
+  "Datering": "Design 1949; Produsert Første halvdel av 1970-tallet",
+  "Andre titler": "CH 24 (DAN)Y-stol (DAN)",
+  "Betegnelse": "Armstol",
+  "Materiale og teknikk": "Lakkert bøk med flettet papirsnøre",
+  "Teknikk": [
+    "Fletting",
+    "Tapping",
+    "Plugging",
+    "Formbøying"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Fargelakkering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Papir"
+  ],
+  "Mål": "H 72,5 x B 54,5 x D 52,5 cm Dybde: 43 cm Høyde: 42,5 cm Bredde: 49,5 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": [
+    "Odense",
+    "Fyn",
+    "Danmark"
+  ],
+  "Inventarnr.": "OK-1978-0217B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1976",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-1978-0217B_157774.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157774.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157774.tif/full/512,/0/default.jpg",
+      "glb": "OK-1978-0217B_157774.glb"
+    }
+  ],
+  "model3d": "OK-1978-0217B_157774.glb"
+}

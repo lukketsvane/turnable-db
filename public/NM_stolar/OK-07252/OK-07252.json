@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-07252",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07252",
+  "title": "Stol",
+  "Datering": "Midten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert mahogni med skåret dekor, setetrekk i silkeatlask.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Profilering",
+    "Beising",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Silke"
+  ],
+  "Mål": "H 100 x B 53 x D 55 cm Høyde: 47,5 cm Dybde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Rokokko",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-07252",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1911",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07424.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07424.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07424.tif/full/full/0/default.jpg",
+      "filename": "OK-07252_07424.jpg",
+      "glb": "OK-07252_07424.glb"
+    }
+  ],
+  "model3d": "OK-07252_07424.glb"
+}

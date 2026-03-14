@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-06213A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06213A",
+  "title": "Stol",
+  "Datering": "Begynnelsen av 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert og finert mahogni, marketeri i buksbom, hestehårstrekk.",
+  "Teknikk": [
+    "Innfelling",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Marketeri",
+    "Lakkering",
+    "Finering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Hestetagl",
+    "Buksbom"
+  ],
+  "Mål": "H 83 x B 46,5 x D 42 cm Bredde: 46,5 cm Dybde: 42 cm Høyde: 83 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Empire",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-06213A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1899",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07505.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07505.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07505.tif/full/full/0/default.jpg",
+      "filename": "OK-06213A_07505.jpg",
+      "glb": "OK-06213A_07505.glb"
+    }
+  ],
+  "model3d": "OK-06213A_07505.glb"
+}

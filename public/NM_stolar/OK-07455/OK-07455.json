@@ -1,0 +1,40 @@
+{
+  "objectId": "OK-07455",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07455",
+  "title": "Stol",
+  "Datering": "midten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset nøttetre med skåret dekor, flettet rotting.",
+  "Teknikk": [
+    "Innfelling",
+    "Fletting"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Relieffskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Palme"
+  ],
+  "Mål": "H 84,7 x B 47 x D 45 cm Høyde: 84,7 cm Dybde: 45 cm Bredde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Tyskland",
+  "Inventarnr.": "OK-07455",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1906",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07517.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07517.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07517.tif/full/full/0/default.jpg",
+      "filename": "OK-07455_07517.jpg",
+      "glb": "OK-07455_07517.glb"
+    }
+  ],
+  "model3d": "OK-07455_07517.glb"
+}

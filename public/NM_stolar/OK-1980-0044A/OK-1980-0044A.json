@@ -1,0 +1,49 @@
+{
+  "objectId": "OK-1980-0044A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1980-0044A",
+  "title": "Balans Activ produsents tittelBalans Activ produsents tittel",
+  "Datering": "1980",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd, forkrommet stål, kryssfiner med polstring av skumplast og trekk av ull.",
+  "Teknikk": [
+    "Polstring",
+    "Skruing",
+    "Formbøying"
+  ],
+  "Dekorteknikk": [
+    "Forkromming",
+    "Beising"
+  ],
+  "Materiale": [
+    "Ull",
+    "Stål",
+    "Plast",
+    "Skumplast",
+    "Kryssfiner"
+  ],
+  "Mål": "H 71,5 x B 50 x D 71 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "OK-1980-0044A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1980",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94866.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94866.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94866.tif/full/full/0/default.jpg",
+      "filename": "OK-1980-0044A_94866.jpg",
+      "glb": "OK-1980-0044A_94866.glb"
+    }
+  ],
+  "model3d": "OK-1980-0044A_94866.glb"
+}

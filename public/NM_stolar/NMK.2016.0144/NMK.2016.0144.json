@@ -1,0 +1,46 @@
+{
+  "objectId": "NMK.2016.0144",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2016.0144",
+  "title": "Ekstrem-elevpult og stol",
+  "Datering": "1997",
+  "Betegnelse": "Skrivebord",
+  "Materiale og teknikk": "Sete og bordplate i laminert finer, festet i stativ av lakkerte stålrør",
+  "Teknikk": [
+    "Saging",
+    "Sveising"
+  ],
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Finer",
+    "Stålrør"
+  ],
+  "Mål": "H 91 x B 69 x D 112 cm",
+  "Emneord": [
+    "Prototyp",
+    "Møbel",
+    "Industridesign"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler",
+    "872 - Skoleundervisning"
+  ],
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "NMK.2016.0144",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Ekstrem Ekstrøm, 2016",
+  "Ervervelse": "Gave 2016",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "Opphavsrett": "© Ekstrøm, Terje/Ekstrøm",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/142484.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/142484.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/142484.tif/full/full/0/default.jpg",
+      "filename": "NMK.2016.0144_142484.jpg",
+      "glb": "NMK.2016.0144_142484.glb"
+    }
+  ],
+  "model3d": "NMK.2016.0144_142484.glb"
+}

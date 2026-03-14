@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-14609E",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-14609E",
+  "title": "Stol",
+  "Datering": "1900",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert mahognistol med skåret dekor og trekk av silkefløyel.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Relieffskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Silke"
+  ],
+  "Mål": "H 93 x B 46 x D 47,5 cm Dybde: 38,5 cm Bredde: 46 cm Høyde: 44,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": [
+    "Art Nouveau",
+    "Jugend"
+  ],
+  "Produksjonssted": [
+    "Paris",
+    "Frankrike"
+  ],
+  "Inventarnr.": "OK-14609E",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1957",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94835.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94835.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94835.tif/full/full/0/default.jpg",
+      "filename": "OK-14609E_94835.jpg",
+      "glb": "OK-14609E_94835.glb"
+    }
+  ],
+  "model3d": "OK-14609E_94835.glb"
+}

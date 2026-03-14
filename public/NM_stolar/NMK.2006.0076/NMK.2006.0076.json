@@ -1,0 +1,41 @@
+{
+  "objectId": "NMK.2006.0076",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2006.0076",
+  "title": "Diamond Chair produsents tittel",
+  "Datering": "1952",
+  "Andre titler": "Diamond Chair (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Bøyd metall og sveiset stål ramme.",
+  "Teknikk": [
+    "Formbøying",
+    "Sveising"
+  ],
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": "Metall",
+  "Mål": "H 73 x B 85 x D 72 cm Høyde: 73 cm Dybde: 72 cm Bredde: 85 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352 - Møbler og gulvbekledning",
+    "352.1 - Sittemøbler"
+  ],
+  "Inventarnr.": "NMK.2006.0076",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "2006",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "Opphavsrett": "© Bertoia, Harry",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23014.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23014.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23014.tif/full/full/0/default.jpg",
+      "filename": "NMK.2006.0076_23014.jpg",
+      "glb": "NMK.2006.0076_23014.glb"
+    }
+  ],
+  "model3d": "NMK.2006.0076_23014.glb"
+}

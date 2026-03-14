@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-09309",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09309",
+  "title": "Stol",
+  "Datering": "1780-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Bemalt bøk med skåret og dreid dekor, flettet rotting og silketrekk.",
+  "Teknikk": [
+    "Fletting",
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Bemaling",
+    "Profilering",
+    "Relieffskjæring",
+    "Dreiing",
+    "Kannelyre"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Silke",
+    "Palme"
+  ],
+  "Mål": "H 91 x D 56,5 x B 48 cm Høyde: 43 cm Diameter: 48 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Louis XVI",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-09309",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1917",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-09309.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-09309.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-09309.tif/full/full/0/default.jpg",
+      "filename": "OK-09309_OK-09309.jpg",
+      "glb": "OK-09309_OK-09309.glb"
+    }
+  ],
+  "model3d": "OK-09309_OK-09309.glb"
+}

@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-05237",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05237",
+  "title": "Armstol",
+  "Datering": "Mellom 1800 og 1829",
+  "Betegnelse": "Armstol",
+  "Materiale og teknikk": "Stol av mahogni med utskjæringer og bronsbeslag. Rygg og sete trukket i silkedamask.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Støp",
+    "Plugging",
+    "Spikring"
+  ],
+  "Dekorteknikk": [
+    "Finering",
+    "Lakkering",
+    "Relieffskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Silke",
+    "Bronse",
+    "Bøk"
+  ],
+  "Mål": "H 80,3 x B 52 x D 53 cm Høyde: 42 cm Bredde: 44 cm Dybde: 37,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Empire",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-05237",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1896",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37565.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37565.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37565.tif/full/full/0/default.jpg",
+      "filename": "OK-05237_37565.jpg",
+      "glb": "OK-05237_37565.glb"
+    }
+  ],
+  "model3d": "OK-05237_37565.glb"
+}

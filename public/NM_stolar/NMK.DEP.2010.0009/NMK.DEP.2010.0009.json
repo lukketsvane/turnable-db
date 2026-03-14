@@ -1,0 +1,37 @@
+{
+  "objectId": "NMK.DEP.2010.0009",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.DEP.2010.0009",
+  "title": "Celle VIII",
+  "Datering": "1998",
+  "Andre titler": "Cell VIII (ENG)",
+  "Betegnelse": "Installasjon",
+  "Materiale og teknikk": "metallnetting, metall, tekstiler, gobelin, jernskulptur, marmorskulptur, velourtekstil, tildekket bearbeidet stol",
+  "Materiale": [
+    "Metall",
+    "Tekstil",
+    "Marmor"
+  ],
+  "Mål": "274,3 x 335,3 x 254 cm",
+  "Emneord": "Bildende kunst",
+  "Klassifikasjon": "532 - Bildende kunst",
+  "Inventarnr.": "NMK.DEP.2010.0009",
+  "Registreringsnivå": "Komplekst objekt",
+  "Del av utstilling": [
+    "Louise Bourgeois: Imaginære Samtaler, 2023",
+    "Absolutt installasjon, 2011 - 2012"
+  ],
+  "Ervervelse": "Deponert av Sparebankstiftelsen DNB 2012",
+  "Eier og samling": "Sparebankstiftelsen, Billedkunstsamlingene",
+  "Foto": "Bjørgli, Annar/Harvik, Andreas",
+  "Opphavsrett": "BONO",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/141358.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/141358.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/141358.tif/full/full/0/default.jpg",
+      "filename": "NMK.DEP.2010.0009_141358.jpg",
+      "glb": "NMK.DEP.2010.0009_141358.glb"
+    }
+  ],
+  "model3d": "NMK.DEP.2010.0009_141358.glb"
+}

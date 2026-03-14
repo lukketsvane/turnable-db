@@ -1,0 +1,36 @@
+{
+  "objectId": "OK-08489",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-08489",
+  "title": "Stol",
+  "Datering": "Midten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert bøk med skåret dekor",
+  "Teknikk": "Innfelling",
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Treskjæring",
+    "Relieffskjæring"
+  ],
+  "Materiale": "Bøk",
+  "Mål": "H 99 x B 49,5 x D 42,5 cm Høyde: 99 cm Dybde: 42,5 cm Bredde: 49,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Queen Anne",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-08489",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1910",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07485.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07485.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07485.tif/full/full/0/default.jpg",
+      "filename": "OK-08489_07485.jpg",
+      "glb": "OK-08489_07485.glb"
+    }
+  ],
+  "model3d": "OK-08489_07485.glb"
+}

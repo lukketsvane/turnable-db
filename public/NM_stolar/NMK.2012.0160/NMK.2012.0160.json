@@ -1,0 +1,46 @@
+{
+  "objectId": "NMK.2012.0160",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2012.0160",
+  "title": "Stol",
+  "Datering": "Ca. 1890",
+  "Betegnelse": "Spisestuestol",
+  "Materiale og teknikk": "Svartlakkert stol med dreide ben, spross og dekorelementer med figurskjæring og utskjæring i relief, brodert sete.",
+  "Teknikk": [
+    "Dreiing",
+    "Tapping",
+    "Lakkert"
+  ],
+  "Dekorteknikk": [
+    "Figurskjæring",
+    "Relieffskjæring",
+    "Profilering"
+  ],
+  "Materiale": "Tre",
+  "Mål": "H 95 x B 48 x D 43 cm Høyde: 45 cm Bredde: 45 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.4 - Møbelfagene",
+    "352.1 - Sittemøbler",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Tyskland",
+  "Inventarnr.": "NMK.2012.0160",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2012",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Frode Larsen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/65503.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/65503.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/65503.tif/full/full/0/default.jpg",
+      "filename": "NMK.2012.0160_65503.jpg",
+      "glb": "NMK.2012.0160_65503.glb"
+    }
+  ],
+  "model3d": "NMK.2012.0160_65503.glb"
+}

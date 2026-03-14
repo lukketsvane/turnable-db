@@ -1,0 +1,50 @@
+{
+  "objectId": "OK-1978-0220B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1978-0220B",
+  "title": "Eva (mod. 41) produsents tittelEva (mod. 41) produsents tittel",
+  "Datering": "1978 (design 1933-36)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Lakkert bøk (både massiv og kryssfiner), sadelgjord",
+  "Teknikk": [
+    "Skruing",
+    "Formbøying",
+    "Laminering"
+  ],
+  "Dekorteknikk": [
+    "Lakkering",
+    "Fletting",
+    "Formbøying",
+    "Laminering"
+  ],
+  "Materiale": [
+    "Kryssfiner",
+    "Sadelgjord",
+    "Bøk"
+  ],
+  "Mål": "H 83 x B 60 x D 71 cm Bredde: 49,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": [
+    "Modernisme",
+    "Scandinavian Design"
+  ],
+  "Produksjonssted": "Sverige",
+  "Inventarnr.": "OK-1978-0220B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1978",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode/Frode Larsen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104406.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104406.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104406.tif/full/full/0/default.jpg",
+      "filename": "OK-1978-0220B_104406.jpg",
+      "glb": "OK-1978-0220B_104406.glb"
+    }
+  ],
+  "model3d": "OK-1978-0220B_104406.glb"
+}

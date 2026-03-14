@@ -1,0 +1,47 @@
+{
+  "objectId": "NMK.2010.0162",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2010.0162",
+  "title": "Sussex chair",
+  "Datering": "1877",
+  "Andre titler": "Sussex chair (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sortmalt, dreid ask med stråflettet sete.",
+  "Teknikk": [
+    "Plugging",
+    "Fletting"
+  ],
+  "Dekorteknikk": [
+    "Fargelakkering",
+    "Dreiing"
+  ],
+  "Materiale": [
+    "Vegetabilske fibre",
+    "Ask"
+  ],
+  "Mål": "H 69 x B 39,5 x D 39,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "NMK.2010.0162",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2010",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Annar Bjørgli/Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2010.0162.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2010.0162.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2010.0162.tif/full/full/0/default.jpg",
+      "filename": "NMK.2010.0162_NMK.2010.0162.jpg",
+      "glb": "NMK.2010.0162_NMK.2010.0162.glb"
+    }
+  ],
+  "model3d": "NMK.2010.0162_NMK.2010.0162.glb"
+}

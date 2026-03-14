@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-1990-0073B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1990-0073B",
+  "title": "Stol",
+  "Datering": "1850-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Tre med sortlakkert pappmasjé, dekorbemalt og med inleggninger i perlemor, sete av flettet rotting",
+  "Teknikk": [
+    "Tapping",
+    "Fletting"
+  ],
+  "Dekorteknikk": [
+    "Fargelakkering",
+    "Dekorbemaling"
+  ],
+  "Materiale": [
+    "Tre",
+    "Perlemor",
+    "Pappmasjé",
+    "Palme"
+  ],
+  "Mål": "H 86,5 x B 41,5 x D 45,5 cm Dybde: 38,5 cm Høyde: 44 cm Bredde: 40 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322 - Trearbeid",
+    "322.4 - Møbelfagene",
+    "322.41 - Møbelsnekring",
+    "322.48 - Møbeldesign",
+    "352 - Møbler og gulvbekledning"
+  ],
+  "Stilperiode": "Nyrokokko",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-1990-0073B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1990",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/110975.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/110975.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/110975.tif/full/full/0/default.jpg",
+      "filename": "OK-1990-0073B_110975.jpg",
+      "glb": "OK-1990-0073B_110975.glb"
+    }
+  ],
+  "model3d": "OK-1990-0073B_110975.glb"
+}

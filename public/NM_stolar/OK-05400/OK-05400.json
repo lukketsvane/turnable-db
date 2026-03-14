@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-05400",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05400",
+  "title": "Fauteuil Causeuse",
+  "Datering": "1775-1780",
+  "Andre titler": "Fauteuil Causeuse (FRE)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Forgylt bøk med skåret dekor, damasktrekk.",
+  "Teknikk": [
+    "Damask",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Forgylling",
+    "Relieffskjæring",
+    "Dreiing",
+    "Krittgrundering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Silke"
+  ],
+  "Mål": "H 97 x B 95 x D 58 cm Bredde: 95 cm Høyde: 97 cm Dybde: 58 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Louis XVI",
+  "Produksjonssted": "Ukjent",
+  "Inventarnr.": "OK-05400",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1896",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07696.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07696.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07696.tif/full/full/0/default.jpg",
+      "filename": "OK-05400_07696.jpg",
+      "glb": "OK-05400_07696.glb"
+    }
+  ],
+  "model3d": "OK-05400_07696.glb"
+}

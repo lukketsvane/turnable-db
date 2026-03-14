@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-1978-0220A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1978-0220A",
+  "title": "Pernilla 69 produsents tittel",
+  "Datering": "1978 (design 1969)",
+  "Andre titler": "Pernilla 69 (SWE)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Laminert formbøyet bøk, lakkert, polstring med ull og polyester trekk, lær forsterkninger",
+  "Teknikk": [
+    "Polstring",
+    "Laminering",
+    "Formbøying",
+    "Tapping"
+  ],
+  "Dekorteknikk": "Lakkering",
+  "Materiale": [
+    "Ull",
+    "Polyester",
+    "Bøk",
+    "Lær",
+    "Kryssfiner"
+  ],
+  "Mål": "H 100 x B 70 x D 90 cm Bredde: 51 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Sverige",
+  "Inventarnr.": "OK-1978-0220A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1978",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-1978-0220A_104406.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104406.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104406.tif/full/512,/0/default.jpg",
+      "glb": "OK-1978-0220A_104406.glb"
+    }
+  ],
+  "model3d": "OK-1978-0220A_104406.glb"
+}

@@ -1,0 +1,40 @@
+{
+  "objectId": "OK-2002-0155",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2002-0155",
+  "title": "Stol",
+  "Datering": "Siste halvdel av 1950-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sitteskall av formstøpt plast, stålfot",
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Stål",
+    "Plast",
+    "Metall"
+  ],
+  "Mål": "H 79 x B 63 x D 62 cm",
+  "Emneord": [
+    "Industridesign",
+    "Møbel"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "384 - Syntetvareindustri",
+    "322.48 - Møbeldesign"
+  ],
+  "Produksjonssted": "Europa",
+  "Inventarnr.": "OK-2002-0155",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2002",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli/Nasjonalmuseet",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-2002-0155+20240216.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-2002-0155+20240216.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-2002-0155+20240216.tif/full/full/0/default.jpg",
+      "filename": "OK-2002-0155_OK-2002-0155+20240216.jpg",
+      "glb": "OK-2002-0155_OK-2002-0155+20240216.glb"
+    }
+  ],
+  "model3d": "OK-2002-0155_OK-2002-0155+20240216.glb"
+}

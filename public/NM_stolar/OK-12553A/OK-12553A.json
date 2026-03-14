@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-12553A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-12553A",
+  "title": "Armstol",
+  "Datering": "1770-tallet (stol) / ca. 1850 (stoff)",
+  "Betegnelse": "Armstol",
+  "Materiale og teknikk": "Forgylt nøttetre med skåret dekor og trekk i silkedamask",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Forgylling",
+    "Figurskjæring",
+    "Relieffskjæring",
+    "Profilering",
+    "Ornamentskjæring",
+    "Krittgrundering"
+  ],
+  "Materiale": [
+    "Silke",
+    "Nøttetre"
+  ],
+  "Mål": "H 96,5 x B 61,5 x D 62 cm Dybde: 54 cm Bredde: 61,5 cm Høyde: 42 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Louis XVI",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-12553A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1952",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07453.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07453.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07453.tif/full/full/0/default.jpg",
+      "filename": "OK-12553A_07453.jpg",
+      "glb": "OK-12553A_07453.glb"
+    }
+  ],
+  "model3d": "OK-12553A_07453.glb"
+}

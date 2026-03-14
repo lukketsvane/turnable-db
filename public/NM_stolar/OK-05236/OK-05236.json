@@ -1,0 +1,41 @@
+{
+  "objectId": "OK-05236",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05236",
+  "title": "Stol",
+  "Datering": "Slutten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Skåret og fernissert mahogni, polstret sete trukket med hestetagl",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Profilering",
+    "Treskjæring",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Hestetagl",
+    "Mahogni",
+    "Messing"
+  ],
+  "Mål": "H 93,6 x B 54,5 x D 53,6 cm Dybde: 38,5 cm Bredde: 51 cm Høyde: 46,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-05236",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1896",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92591.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92591.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92591.tif/full/full/0/default.jpg",
+      "filename": "OK-05236_92591.jpg",
+      "glb": "OK-05236_92591.glb"
+    }
+  ],
+  "model3d": "OK-05236_92591.glb"
+}

@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-10161",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-10161",
+  "title": "Stol",
+  "Datering": "Ca. 1600",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert pæretre med skåret dekor.",
+  "Teknikk": [
+    "Tapping",
+    "Spikring"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Ornamentskjæring",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring",
+    "Fernissering"
+  ],
+  "Materiale": "Pæretre",
+  "Mål": "H 121 x B 47 x D 48 cm Bredde: 47 cm Dybde: 33 cm Høyde: 51,7 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Produksjonssted": [
+    "Lombardia",
+    "Italia"
+  ],
+  "Inventarnr.": "OK-10161",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1927",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07272.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07272.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07272.tif/full/full/0/default.jpg",
+      "filename": "OK-10161_07272.jpg",
+      "glb": "OK-10161_07272.glb"
+    }
+  ],
+  "model3d": "OK-10161_07272.glb"
+}

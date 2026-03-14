@@ -1,0 +1,34 @@
+{
+  "objectId": "OK-19554",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-19554",
+  "title": "Pantonic Chair 5010 produsents tittel",
+  "Datering": "1992 (design)",
+  "Andre titler": "Pantonic Chair 5010 (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd kryssfinér, fargelakkert",
+  "Teknikk": "Formbøying",
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": "Kryssfiner",
+  "Mål": "H 89,5 x B 45 x D 57,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "531.1 - Formgiving"
+  ],
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-19554",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Innlemmet i samlingene 2021",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Ina Wesenberg",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-19554.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-19554.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-19554.tif/full/full/0/default.jpg",
+      "filename": "OK-19554_OK-19554.jpg",
+      "glb": "OK-19554_OK-19554.glb"
+    }
+  ],
+  "model3d": "OK-19554_OK-19554.glb"
+}

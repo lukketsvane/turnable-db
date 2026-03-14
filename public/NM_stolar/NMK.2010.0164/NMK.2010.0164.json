@@ -1,0 +1,42 @@
+{
+  "objectId": "NMK.2010.0164",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2010.0164",
+  "title": "Thebes stool",
+  "Datering": "1883",
+  "Andre titler": "Thebes stool (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert ask",
+  "Teknikk": "Tapping",
+  "Dekorteknikk": [
+    "Beising",
+    "Lakkering"
+  ],
+  "Materiale": "Ask",
+  "Mål": "H 36,5 x B 41,5 x D 42 cm Dybde: 27,5 cm Bredde: 35 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "NMK.2010.0164",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Owen Jones og den islamske inspirasjonen, 2011",
+  "Ervervelse": "Kjøpt 2010",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37574.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37574.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37574.tif/full/full/0/default.jpg",
+      "filename": "NMK.2010.0164_37574.jpg",
+      "glb": "NMK.2010.0164_37574.glb"
+    }
+  ],
+  "model3d": "NMK.2010.0164_37574.glb"
+}

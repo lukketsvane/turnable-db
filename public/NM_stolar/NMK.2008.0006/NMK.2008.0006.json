@@ -1,0 +1,41 @@
+{
+  "objectId": "NMK.2008.0006",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2008.0006",
+  "title": "Kiss produsents tittel",
+  "Datering": "1998",
+  "Andre titler": "Kiss (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Identiske, formpresset PU (polyuretan) sete og rygg på understell av mattede stålrør.",
+  "Dekorteknikk": "Matting av stålrør",
+  "Materiale": [
+    "Plast",
+    "Stål"
+  ],
+  "Mål": "H 83 x B 39 x D 59 cm Høyde: 83 cm Bredde: 39 cm Dybde: 59 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352 - Møbler og gulvbekledning",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Postmodernisme",
+  "Inventarnr.": "NMK.2008.0006",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Scandinavian Design ved Milleniumskiftet, 2008 - 2010",
+  "Ervervelse": "Gave 2008",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Børre Høstland",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/52206.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/52206.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/52206.tif/full/full/0/default.jpg",
+      "filename": "NMK.2008.0006_52206.jpg",
+      "glb": "NMK.2008.0006_52206.glb"
+    }
+  ],
+  "model3d": "NMK.2008.0006_52206.glb"
+}

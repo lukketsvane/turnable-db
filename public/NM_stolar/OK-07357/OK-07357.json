@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-07357",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07357",
+  "title": "Stol",
+  "Datering": "Begynnelsen av 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og lakkert cubamahognifiner med ibenholt, relieffskjæring og forgylt bronsedekor, trekk i kunstsilke",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Forgylling",
+    "Beising",
+    "Lakkering",
+    "Finering",
+    "Høyt relieff"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Bjørk",
+    "Bøk",
+    "Ibenholt",
+    "Furu",
+    "Bronse",
+    "Syntetiske fibre, kunstsilke"
+  ],
+  "Mål": "H 81,3 x B 47,3 x D 53 cm Høyde: 46 cm Dybde: 42 cm Bredde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Europa",
+  "Inventarnr.": "OK-07357",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1904",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92596.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92596.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92596.tif/full/full/0/default.jpg",
+      "filename": "OK-07357_92596.jpg",
+      "glb": "OK-07357_92596.glb"
+    }
+  ],
+  "model3d": "OK-07357_92596.glb"
+}

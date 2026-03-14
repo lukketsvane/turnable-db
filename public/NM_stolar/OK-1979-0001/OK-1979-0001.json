@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-1979-0001",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1979-0001",
+  "title": "Stol",
+  "Datering": "Ca. 1780",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og lakkert mahogni med utskåret dekor, lerretstrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Treskjæring",
+    "Beising",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Lerret",
+    "Bøk"
+  ],
+  "Mål": "H 92 x B 51,5 x D 48 cm Bredde: 51,5 cm Dybde: 40 cm Høyde: 46 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Hepplewhite",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-1979-0001",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1979",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94861.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94861.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94861.tif/full/full/0/default.jpg",
+      "filename": "OK-1979-0001_94861.jpg",
+      "glb": "OK-1979-0001_94861.glb"
+    }
+  ],
+  "model3d": "OK-1979-0001_94861.glb"
+}

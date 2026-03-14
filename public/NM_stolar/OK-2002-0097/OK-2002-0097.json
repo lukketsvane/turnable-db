@@ -1,0 +1,39 @@
+{
+  "objectId": "OK-2002-0097",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2002-0097",
+  "title": "Mademoiselle produsents tittelMademoiselle produsents tittel",
+  "Datering": "1956",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sortlakkert bjørk.",
+  "Teknikk": "Plugging",
+  "Dekorteknikk": "Fargelakkering",
+  "Materiale": [
+    "Bjørk",
+    "Sponplate",
+    "Kryssfiner"
+  ],
+  "Mål": "H 90,7 x B 52 x D 58 cm Dybde: 43,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Inventarnr.": "OK-2002-0097",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Ervervet 2002",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157058.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157058.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157058.tif/full/full/0/default.jpg",
+      "filename": "OK-2002-0097_157058.jpg",
+      "glb": "OK-2002-0097_157058.glb"
+    }
+  ],
+  "model3d": "OK-2002-0097_157058.glb"
+}

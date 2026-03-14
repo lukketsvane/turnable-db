@@ -1,0 +1,39 @@
+{
+  "objectId": "OK-17299",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-17299",
+  "title": "Lenestol",
+  "Datering": "Siste halvdel av 1800-tallet",
+  "Betegnelse": "Lenestol",
+  "Materiale og teknikk": "Stol med dreide ben av bøk og polstret sete og rygg trukket med maskinvevdfløyelsstoff, snordekor og knyttede frynser",
+  "Teknikk": [
+    "Tapping",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Beising",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Silke",
+    "Messing",
+    "Bøk"
+  ],
+  "Mål": "H 80 x B 82 x D 65 cm Dybde: 48 cm Bredde: 50 cm Høyde: 41,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Europa",
+  "Inventarnr.": "OK-17299",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Ervervelsesopplysninger under arbeid",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-17299_66321.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66321.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66321.tif/full/512,/0/default.jpg",
+      "glb": "OK-17299_66321.glb"
+    }
+  ],
+  "model3d": "OK-17299_66321.glb"
+}

@@ -1,0 +1,49 @@
+{
+  "objectId": "OK-06495",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06495",
+  "title": "Stol",
+  "Datering": "1900",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Eik med utskjæringer og marketeri. Sete trukket med silkefløyel med applikasjoner i lin.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Finering",
+    "Marketeri",
+    "Fernissering",
+    "Relieffskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Eik",
+    "Silke",
+    "Bomull",
+    "Lønn",
+    "Eik"
+  ],
+  "Mål": "H 93 x B 47 x D 47 cm Høyde: 48 cm Dybde: 42 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": [
+    "Art Nouveau",
+    "Jugend"
+  ],
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-06495",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1900",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37582.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37582.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37582.tif/full/full/0/default.jpg",
+      "filename": "OK-06495_37582.jpg",
+      "glb": "OK-06495_37582.glb"
+    }
+  ],
+  "model3d": "OK-06495_37582.glb"
+}

@@ -1,0 +1,53 @@
+{
+  "objectId": "OK-05399",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05399",
+  "title": "Stol",
+  "Datering": "Mellom 1540 og 1560",
+  "Betegnelse": "Armstol",
+  "Materiale og teknikk": "Nøttetre med skåret, dreid og innlagt dekor",
+  "Teknikk": [
+    "Tapping",
+    "Plugging",
+    "Innfelling, rammeverk med fylling"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Relieffskjæring",
+    "Ornamentskjæring",
+    "Intarsia",
+    "Profilering",
+    "Beising",
+    "Fernissering"
+  ],
+  "Materiale": "Nøttetre",
+  "Mål": "H 146 x B 67 x D 46 cm Dybde: 36 cm Bredde: 67 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322 - Trearbeid",
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Renessanse",
+  "Produksjonssted": [
+    "Ile-de France",
+    "Frankrike"
+  ],
+  "Inventarnr.": "OK-05399",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1897",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07248.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07248.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07248.tif/full/full/0/default.jpg",
+      "filename": "OK-05399_07248.jpg",
+      "glb": "OK-05399_07248.glb"
+    }
+  ],
+  "model3d": "OK-05399_07248.glb"
+}

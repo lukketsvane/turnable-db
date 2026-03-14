@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-02880",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-02880",
+  "title": "Stol",
+  "Datering": "1887",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset nøttetre med dreid og skåret dekor, lærtrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Dreiing",
+    "Karveskurd",
+    "Fernissering",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Skinn/lær/pergament",
+    "Nøttetre",
+    "Messing"
+  ],
+  "Mål": "H 105,4 cm x B 47 cm x D 55 cm Bredde: 47 cm Høyde: 48 cm Dybde: 46 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Historisme",
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "OK-02880",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1888",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07482.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07482.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07482.tif/full/full/0/default.jpg",
+      "filename": "OK-02880_07482.jpg",
+      "glb": "OK-02880_07482.glb"
+    }
+  ],
+  "model3d": "OK-02880_07482.glb"
+}

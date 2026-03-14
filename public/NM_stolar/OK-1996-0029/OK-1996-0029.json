@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-1996-0029",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1996-0029",
+  "title": "Stol",
+  "Datering": "1870",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol med reliefskjæringer i sete og rygg av bjerk, dreide ben av bøk.",
+  "Teknikk": [
+    "Grading",
+    "Plugging",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Fernissering",
+    "Dreiing",
+    "Profilering",
+    "Lasering"
+  ],
+  "Materiale": [
+    "Bjørk",
+    "Bøk"
+  ],
+  "Mål": "H 97 x B 43,5 x D 47 cm Dybde: 37,8 cm Høyde: 43 cm Bredde: 39 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Historisme",
+  "Produksjonssted": [
+    "Edinburgh",
+    "Skottland"
+  ],
+  "Inventarnr.": "OK-1996-0029",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1975",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37078.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37078.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37078.tif/full/full/0/default.jpg",
+      "filename": "OK-1996-0029_37078.jpg",
+      "glb": "OK-1996-0029_37078.glb"
+    }
+  ],
+  "model3d": "OK-1996-0029_37078.glb"
+}

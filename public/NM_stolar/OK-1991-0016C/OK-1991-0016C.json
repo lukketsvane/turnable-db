@@ -1,0 +1,39 @@
+{
+  "objectId": "OK-1991-0016C",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1991-0016C",
+  "title": "Mod. 414",
+  "Datering": "Ca. 1970",
+  "Andre titler": "Mod. 414 (FIN)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Glassfiberarmert nylonplast med skai (kunstlær) trekk",
+  "Teknikk": [
+    "Skruing",
+    "Polstring"
+  ],
+  "Materiale": [
+    "Gummi/plast",
+    "Annet, kunstlær"
+  ],
+  "Mål": "H 83 x B 60 x D 68 cm Dybde: 47,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Finland",
+  "Inventarnr.": "OK-1991-0016C",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1991",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92680.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92680.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92680.tif/full/full/0/default.jpg",
+      "filename": "OK-1991-0016C_92680.jpg",
+      "glb": "OK-1991-0016C_92680.glb"
+    }
+  ],
+  "model3d": "OK-1991-0016C_92680.glb"
+}

@@ -1,0 +1,38 @@
+{
+  "objectId": "NMK.2016.0137.004",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2016.0137.004",
+  "title": "Ekstrem Maestro originaltittel",
+  "Datering": "Mellom 1980 og 2013",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd kryssfinér",
+  "Teknikk": "Formbøying",
+  "Materiale": "Kryssfiner",
+  "Mål": "H 102 x B 11 x D 43 cm",
+  "Emneord": [
+    "Industridesign",
+    "Møbel",
+    "Prototyp"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "NMK.2016.0137.004",
+  "Registreringsnivå": "Del av objekt",
+  "Del av utstilling": "Ekstrem Ekstrøm, 2016",
+  "Ervervelse": "Gave 2016",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "Opphavsrett": "© Ekstrøm, Terje/Ekstrøm",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/144128.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/144128.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/144128.tif/full/full/0/default.jpg",
+      "filename": "NMK.2016.0137.004_144128.jpg",
+      "glb": "NMK.2016.0137.004_144128.glb"
+    }
+  ],
+  "model3d": "NMK.2016.0137.004_144128.glb"
+}

@@ -1,0 +1,50 @@
+{
+  "objectId": "OK-09267A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09267A",
+  "title": "Stol",
+  "Datering": "ca. 1785",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert og delvis forgylt nøttetre med skåret dekor, silketrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Forgylling",
+    "Lakkering",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Profilering",
+    "Kannelyre"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Silke"
+  ],
+  "Mål": "H 95 x B 50,5 x D 44,5 cm Høyde: 95 cm Bredde: 50,5 cm Dybde: 44,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Louis XVI",
+  "Produksjonssted": "Tyskland",
+  "Inventarnr.": "OK-09267A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1917",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07168.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07168.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07168.tif/full/full/0/default.jpg",
+      "filename": "OK-09267A_07168.jpg",
+      "glb": "OK-09267A_07168.glb"
+    }
+  ],
+  "model3d": "OK-09267A_07168.glb"
+}

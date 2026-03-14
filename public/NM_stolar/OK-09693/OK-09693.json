@@ -1,0 +1,58 @@
+{
+  "objectId": "OK-09693",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09693",
+  "title": "Stol",
+  "Datering": "1690-tallet",
+  "Betegnelse": "Møblement",
+  "Materiale og teknikk": "Stol i nøttetre og bøk, sarg av eik, relieffskåret og dels gjennombrutte utskjæringer, tettflettet rygg i rotting, polstret sete trukket med plysj",
+  "Teknikk": [
+    "Plugging",
+    "Fletting",
+    "Tapping",
+    "Polstring",
+    "Spikring"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Utskjæring",
+    "Profilering",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Voksboning",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Messing",
+    "Bøk",
+    "Eik",
+    "Plysj",
+    "Palme"
+  ],
+  "Mål": "H 128,5 x B 50,5 x D 45 cm Høyde: 82 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "285 - Flette- og kurvarbeid",
+    "322 - Trearbeid",
+    "322.4 - Møbelfagene",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-09693",
+  "Registreringsnivå": "Gruppering",
+  "Ervervelse": "Testamentarisk gave, innkommet 1923",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37746.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37746.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37746.tif/full/full/0/default.jpg",
+      "filename": "OK-09693_37746.jpg",
+      "glb": "OK-09693_37746.glb"
+    }
+  ],
+  "model3d": "OK-09693_37746.glb"
+}

@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-08491",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-08491",
+  "title": "Stol",
+  "Datering": "Slutten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og fernissert mahogni med skåret dekor, hestehårstrekk.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Profilering",
+    "Gjennombrutt utskjæring",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Bjørk",
+    "Furu",
+    "Hestetagl"
+  ],
+  "Mål": "H 93,5 x B 51 x D 42 cm Høyde: 93,5 cm Dybde: 42 cm Bredde: 51 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Hepplewhite",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-08491",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1910",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07162.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07162.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07162.tif/full/full/0/default.jpg",
+      "filename": "OK-08491_07162.jpg",
+      "glb": "OK-08491_07162.glb"
+    }
+  ],
+  "model3d": "OK-08491_07162.glb"
+}

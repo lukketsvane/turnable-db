@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-1989-0002B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0002B",
+  "title": "Stol",
+  "Datering": "1860-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Profilert og relieffskåret mahogni med brodert ulltrekk i korssting",
+  "Teknikk": [
+    "Tapping",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Profilering",
+    "Lavt relieff",
+    "Lakkering",
+    "Korssting"
+  ],
+  "Materiale": [
+    "Ull",
+    "Mahogni"
+  ],
+  "Mål": "H 88 x B 44 x D 53,5 cm Høyde: 47 cm Dybde: 43,2 cm Bredde: 44 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Nyrokokko",
+  "Produksjonssted": [
+    "Edinburgh",
+    "Skottland"
+  ],
+  "Inventarnr.": "OK-1989-0002B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1975",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93095.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93095.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/93095.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0002B_93095.jpg",
+      "glb": "OK-1989-0002B_93095.glb"
+    }
+  ],
+  "model3d": "OK-1989-0002B_93095.glb"
+}

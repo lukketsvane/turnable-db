@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-1993-0159",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1993-0159",
+  "title": "Tele produsents tittelTele produsents tittel",
+  "Datering": "1963",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol utført i eik, sete og ryggfelt i sort plast-hud.",
+  "Teknikk": [
+    "Polstring",
+    "Skruing",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Eik",
+    "Kryssfiner",
+    "Annet, kunstlær"
+  ],
+  "Mål": "H 70 x B 70 x D 58 cm Dybde: 46 cm Høyde: 45,5 cm Bredde: 54,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Sarpsborg",
+  "Inventarnr.": "OK-1993-0159",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1993",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-1993-0159_92597.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92597.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/92597.tif/full/512,/0/default.jpg",
+      "glb": "OK-1993-0159_92597.glb"
+    }
+  ],
+  "model3d": "OK-1993-0159_92597.glb"
+}

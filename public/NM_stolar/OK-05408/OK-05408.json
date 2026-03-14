@@ -1,0 +1,48 @@
+{
+  "objectId": "OK-05408",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05408",
+  "title": "Stol",
+  "Datering": "1897",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mahogni med skåret dekor, brodert silketrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Gjennombrutt utskjæring",
+    "Profilering",
+    "Relieffskjæring",
+    "Kannelyre",
+    "Brodering",
+    "Lakkering",
+    "Beising"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Silke"
+  ],
+  "Mål": "H 92 x B 43,5 x D 52 cm Høyde: 48 cm Dybde: 42 cm Bredde: 43 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Jugend",
+  "Produksjonssted": "Sverige",
+  "Inventarnr.": "OK-05408",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "kjøpt 1897",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07237.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07237.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07237.tif/full/full/0/default.jpg",
+      "filename": "OK-05408_07237.jpg",
+      "glb": "OK-05408_07237.glb"
+    }
+  ],
+  "model3d": "OK-05408_07237.glb"
+}

@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-07243",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07243",
+  "title": "Stol",
+  "Datering": "Slutten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mahogni med skåret og dreid dekor, silketrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Profilering",
+    "Dreiing",
+    "Kannelyre",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Silke"
+  ],
+  "Mål": "H 94,5 x B 48 x D 52 cm Dybde: 39 cm Høyde: 47 cm Bredde: 46 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Hepplewhite",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-07243",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1911",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07260.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07260.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07260.tif/full/full/0/default.jpg",
+      "filename": "OK-07243_07260.jpg",
+      "glb": "OK-07243_07260.glb"
+    }
+  ],
+  "model3d": "OK-07243_07260.glb"
+}

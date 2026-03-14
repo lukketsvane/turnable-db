@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-09417",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09417",
+  "title": "Stol",
+  "Datering": "1780-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset bøk med skåret dekor, polstret sete med silketrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Profilering",
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Kannelyre",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Silke"
+  ],
+  "Mål": "H 92 x B 43 x D 37,5 cm Høyde: 50 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Hepplewhite",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-09417",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 1919",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07172.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07172.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07172.tif/full/full/0/default.jpg",
+      "filename": "OK-09417_07172.jpg",
+      "glb": "OK-09417_07172.glb"
+    }
+  ],
+  "model3d": "OK-09417_07172.glb"
+}

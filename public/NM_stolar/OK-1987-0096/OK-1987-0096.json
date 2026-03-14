@@ -1,0 +1,39 @@
+{
+  "objectId": "OK-1987-0096",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1987-0096",
+  "title": "Stol",
+  "Datering": "Mellom 1885 og 1895",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stolens deler utformet som bambusimitasjon og forgylt, setet trukket i grønt stoff.",
+  "Teknikk": [
+    "Tapping",
+    "Liming"
+  ],
+  "Dekorteknikk": [
+    "Forgylling",
+    "Dreiing"
+  ],
+  "Materiale": "Tre",
+  "Mål": "B 36,5 x H 83 x D 37 cm Høyde: 83 cm Dybde: 37 cm Bredde: 36,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Ukjent",
+  "Inventarnr.": "OK-1987-0096",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1987",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Frode Larsen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/65502.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/65502.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/65502.tif/full/full/0/default.jpg",
+      "filename": "OK-1987-0096_65502.jpg",
+      "glb": "OK-1987-0096_65502.glb"
+    }
+  ],
+  "model3d": "OK-1987-0096_65502.glb"
+}

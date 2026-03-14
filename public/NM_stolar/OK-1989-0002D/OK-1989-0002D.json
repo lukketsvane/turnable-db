@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-1989-0002D",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0002D",
+  "title": "Stol",
+  "Datering": "1860-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol i mahogni med åpen ballongrygg og utskårede detaljer. Sete trukket i brodert ull.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Profilering",
+    "Korssting",
+    "Lavt relieff",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Ull",
+    "Mahogni"
+  ],
+  "Mål": "H 87,5 x B 45 x D 53 cm Dybde: 43 cm Høyde: 48 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Nyrokokko",
+  "Produksjonssted": [
+    "Edinburgh",
+    "Skottland"
+  ],
+  "Inventarnr.": "OK-1989-0002D",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1975",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37632.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37632.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37632.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0002D_37632.jpg",
+      "glb": "OK-1989-0002D_37632.glb"
+    }
+  ],
+  "model3d": "OK-1989-0002D_37632.glb"
+}

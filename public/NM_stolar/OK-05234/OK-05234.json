@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-05234",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05234",
+  "title": "Stol",
+  "Datering": "Slutten av 1700-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mahogni med skåret dekor, fløyelstrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Gjennombrutt utskjæring",
+    "Figurskjæring",
+    "Relieffskjæring",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Tekstil, fløyel"
+  ],
+  "Mål": "H 96,5 x B 58,4 x D 56 cm Bredde: 53,5 cm Høyde: 54 cm Dybde: 33,7 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Chippendale",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-05234",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "kjøpt 1896",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Nasjonalmuseet",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07311.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07311.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07311.tif/full/full/0/default.jpg",
+      "filename": "OK-05234_07311.jpg",
+      "glb": "OK-05234_07311.glb"
+    }
+  ],
+  "model3d": "OK-05234_07311.glb"
+}

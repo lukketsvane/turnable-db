@@ -1,0 +1,40 @@
+{
+  "objectId": "NMK.2013.0359",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2013.0359",
+  "title": "Vang produsents tittel",
+  "Datering": "2013",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Formbøyd ubehandlet eik",
+  "Teknikk": [
+    "Plugging",
+    "Tapping",
+    "Grading",
+    "Skruing"
+  ],
+  "Dekorteknikk": "Formbøying",
+  "Materiale": "Eik",
+  "Mål": "H 46 x B 46,5 x D 42,9 cm Bredde: 46,5 cm Dybde: 42,9 cm Høyde: 46 cm",
+  "Emneord": [
+    "Møbel",
+    "Industridesign"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Inventarnr.": "NMK.2013.0359",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 2013",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/82632.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/82632.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/82632.tif/full/full/0/default.jpg",
+      "filename": "NMK.2013.0359_82632.jpg",
+      "glb": "NMK.2013.0359_82632.glb"
+    }
+  ],
+  "model3d": "NMK.2013.0359_82632.glb"
+}

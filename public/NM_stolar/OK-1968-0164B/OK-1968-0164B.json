@@ -1,0 +1,49 @@
+{
+  "objectId": "OK-1968-0164B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1968-0164B",
+  "title": "Stol",
+  "Datering": "1830-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset bøk og mahogni med dreid og skåret dekor, pyramidefinering og silkedamasktrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Damask",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Fernissering",
+    "Pyramidemahogni",
+    "Dreiing",
+    "Kannelyre",
+    "Relieffskjæring"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Bøk",
+    "Furu",
+    "Silke"
+  ],
+  "Mål": "H 87 x B 47 x D 53 cm Høyde: 43 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Biedermeier",
+  "Produksjonssted": "Skandinavia",
+  "Inventarnr.": "OK-1968-0164B",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Gave 1968",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07618.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07618.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07618.tif/full/full/0/default.jpg",
+      "filename": "OK-1968-0164B_07618.jpg",
+      "glb": "OK-1968-0164B_07618.glb"
+    }
+  ],
+  "model3d": "OK-1968-0164B_07618.glb"
+}

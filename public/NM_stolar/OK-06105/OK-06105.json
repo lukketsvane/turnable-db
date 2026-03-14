@@ -1,0 +1,49 @@
+{
+  "objectId": "OK-06105",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06105",
+  "title": "Stol",
+  "Datering": "Siste halvdel av 1600-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre med skåret og dreid dekor, plysjtrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Plugging",
+    "Falsing"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Relieffskjæring",
+    "Profilering",
+    "Gjennombrutt utskjæring",
+    "Fernissering",
+    "Voksboning"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Tekstil, plysj"
+  ],
+  "Mål": "H 117,5 x B 55 x D 57 cm Dybde: 45,5 cm Høyde: 46 cm Bredde: 52 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Barokk",
+  "Produksjonssted": "Frankrike",
+  "Inventarnr.": "OK-06105",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1899",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07155.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07155.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07155.tif/full/full/0/default.jpg",
+      "filename": "OK-06105_07155.jpg",
+      "glb": "OK-06105_07155.glb"
+    }
+  ],
+  "model3d": "OK-06105_07155.glb"
+}

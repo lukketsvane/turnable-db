@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-1989-0001B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1989-0001B",
+  "title": "Stol",
+  "Datering": "Ca. 1800",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dreiet, relieffskåret og beiset bjørk og furu med bomullstrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Innfelling, trenagler"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Lavt relieff",
+    "Fernissering",
+    "Beising"
+  ],
+  "Materiale": [
+    "Furu",
+    "Bjørk",
+    "Bomull"
+  ],
+  "Mål": "H 88 x B 47 x D 47,5 cm Bredde: 46,5 cm Dybde: 42 cm Høyde: 49 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Ukjent",
+  "Inventarnr.": "OK-1989-0001B",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1989",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94878.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94878.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94878.tif/full/full/0/default.jpg",
+      "filename": "OK-1989-0001B_94878.jpg",
+      "glb": "OK-1989-0001B_94878.glb"
+    }
+  ],
+  "model3d": "OK-1989-0001B_94878.glb"
+}

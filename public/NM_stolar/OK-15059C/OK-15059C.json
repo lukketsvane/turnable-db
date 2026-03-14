@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-15059C",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-15059C",
+  "title": "No. 14 produsents tittelNo. 14 produsents tittel",
+  "Datering": "1870-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert og beiset bøk, formbøyd, kryssfiner",
+  "Teknikk": [
+    "Laminering",
+    "Skruing",
+    "Formbøying",
+    "Liming"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Finering",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Kryssfiner"
+  ],
+  "Mål": "H 90 x B 42 x D 54,5 cm Høyde: 47 cm Diameter: 42 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Østerrike",
+  "Inventarnr.": "OK-15059C",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1958",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-15059C_104384.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104384.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/104384.tif/full/512,/0/default.jpg",
+      "glb": "OK-15059C_104384.glb"
+    }
+  ],
+  "model3d": "OK-15059C_104384.glb"
+}

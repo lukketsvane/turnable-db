@@ -1,0 +1,38 @@
+{
+  "objectId": "OK-1996-0001",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1996-0001",
+  "title": "Mod. 69 (sete/seat mod. 68)Mod. 69 (sete/seat mod. 68)",
+  "Datering": "1935 (design)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Laminert bjørk og strie",
+  "Teknikk": "Laminering",
+  "Dekorteknikk": "Lakkering",
+  "Materiale": "Bjørk",
+  "Mål": "H 73,7 x B 43 x D 43 cm Diameter: 37,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Funksjonalisme",
+  "Produksjonssted": [
+    "Oslo",
+    "Finland"
+  ],
+  "Inventarnr.": "OK-1996-0001",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1996",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Larsen, Frode",
+  "Opphavsrett": "© Aalto, Alvar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/107683.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/107683.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/107683.tif/full/full/0/default.jpg",
+      "filename": "OK-1996-0001_107683.jpg",
+      "glb": "OK-1996-0001_107683.glb"
+    }
+  ],
+  "model3d": "OK-1996-0001_107683.glb"
+}

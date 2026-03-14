@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-1996-0132",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1996-0132",
+  "title": "Stol",
+  "Datering": "Ca. 1922",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Furu med skåret dekor, bemalt",
+  "Teknikk": "Innfelling",
+  "Dekorteknikk": [
+    "Bemaling",
+    "Treskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Furu",
+    "Bjørk"
+  ],
+  "Mål": "H 97 x B 44 x D 41 cm Dybde: 41 cm Bredde: 44 cm Høyde: 97 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Nybarokk",
+  "Produksjonssted": "Lillehammer",
+  "Inventarnr.": "OK-1996-0132",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1996",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07285.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07285.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07285.tif/full/full/0/default.jpg",
+      "filename": "OK-1996-0132_07285.jpg",
+      "glb": "OK-1996-0132_07285.glb"
+    }
+  ],
+  "model3d": "OK-1996-0132_07285.glb"
+}

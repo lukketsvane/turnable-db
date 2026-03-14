@@ -1,0 +1,47 @@
+{
+  "objectId": "NMK.2008.0111",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2008.0111",
+  "title": "Superleggera produsents tittel",
+  "Datering": "1957 (design 1951)",
+  "Andre titler": "Superleggera (ITA)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stolpestol med flettet rottingsete",
+  "Teknikk": [
+    "Fletting",
+    "Sammenføyning"
+  ],
+  "Dekorteknikk": [
+    "Fernissering",
+    "Fargelakkering"
+  ],
+  "Materiale": [
+    "Palme",
+    "Ask"
+  ],
+  "Mål": "H 83 cm x B 40 cm x D 45 cm Vekt: 1,7 kg",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352 - Møbler og gulvbekledning",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Modernisme",
+  "Inventarnr.": "NMK.2008.0111",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøp 2008",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23018.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23018.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/23018.tif/full/full/0/default.jpg",
+      "filename": "NMK.2008.0111_23018.jpg",
+      "glb": "NMK.2008.0111_23018.glb"
+    }
+  ],
+  "model3d": "NMK.2008.0111_23018.glb"
+}

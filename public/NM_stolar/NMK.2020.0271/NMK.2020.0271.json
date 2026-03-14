@@ -1,0 +1,37 @@
+{
+  "objectId": "NMK.2020.0271",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2020.0271",
+  "title": "Strata",
+  "Datering": "2020",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Skåret, uthullet og pigmentert betong",
+  "Teknikk": [
+    "Støping",
+    "Sliping",
+    "Skjæring"
+  ],
+  "Dekorteknikk": [
+    "Polering",
+    "Boring"
+  ],
+  "Materiale": [
+    "Betong",
+    "Natursten"
+  ],
+  "Mål": "H 38 x L 38 x B 37 cm Vekt: 95 kg",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "531 - Kunsthåndverk og formgiving",
+  "Inventarnr.": "NMK.2020.0271",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøp, Tron Meyer, 1983",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "images": [
+    {
+      "filename": "NMK.2020.0271_94861.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94861.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94861.tif/full/512,/0/default.jpg",
+      "glb": "NMK.2020.0271_94861.glb"
+    }
+  ],
+  "model3d": "NMK.2020.0271_94861.glb"
+}

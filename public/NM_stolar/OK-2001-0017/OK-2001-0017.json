@@ -1,0 +1,33 @@
+{
+  "objectId": "OK-2001-0017",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2001-0017",
+  "title": "Chip produsents tittelChip produsents tittel",
+  "Datering": "1996",
+  "Betegnelse": "Stol",
+  "Teknikk": [
+    "Laminering",
+    "Formbøying"
+  ],
+  "Dekorteknikk": "Bemaling",
+  "Materiale": "Tre",
+  "Mål": "Lengde: 140 cm Høyde: 37 cm Bredde: 60 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Finland",
+  "Inventarnr.": "OK-2001-0017",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2001",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-2001-0017_111628.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111628.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/111628.tif/full/512,/0/default.jpg",
+      "glb": "OK-2001-0017_111628.glb"
+    }
+  ],
+  "model3d": "OK-2001-0017_111628.glb"
+}

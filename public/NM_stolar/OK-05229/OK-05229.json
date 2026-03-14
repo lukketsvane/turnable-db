@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-05229",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05229",
+  "title": "Stol",
+  "Datering": "1790-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mahogni med skåret dekor, hestehårstrekk.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Gjennombrutt utskjæring",
+    "Profilering",
+    "Relieffskjæring",
+    "Fernissering"
+  ],
+  "Materiale": [
+    "Hestetagl",
+    "Mahogni",
+    "Messing"
+  ],
+  "Mål": "H 89 x B 51,5 x D 47,5 cm Høyde: 46,5 cm Dybde: 40 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Sheraton",
+  "Produksjonssted": [
+    "Hamburg",
+    "Tyskland"
+  ],
+  "Inventarnr.": "OK-05229",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1896",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, A./ Jensen, H.L.",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07483.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07483.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07483.tif/full/full/0/default.jpg",
+      "filename": "OK-05229_07483.jpg",
+      "glb": "OK-05229_07483.glb"
+    }
+  ],
+  "model3d": "OK-05229_07483.glb"
+}

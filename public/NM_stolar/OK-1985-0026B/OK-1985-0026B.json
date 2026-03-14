@@ -1,0 +1,51 @@
+{
+  "objectId": "OK-1985-0026B",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1985-0026B",
+  "title": "Stol",
+  "Datering": "1730",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Nøttetre med skåret og dreid dekor.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Relieffskjæring",
+    "Dreiing",
+    "Lakkering",
+    "Lasering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Furu",
+    "Tekstil"
+  ],
+  "Mål": "H 98 x B 46 x D 47 cm Høyde: 6 cm Bredde: 43 cm Dybde: 39 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Régence",
+  "Produksjonssted": "Ukjent",
+  "Inventarnr.": "OK-1985-0026B",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1985",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07219.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07219.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07219.tif/full/full/0/default.jpg",
+      "filename": "OK-1985-0026B_07219.jpg",
+      "glb": "OK-1985-0026B_07219.glb"
+    }
+  ],
+  "model3d": "OK-1985-0026B_07219.glb"
+}

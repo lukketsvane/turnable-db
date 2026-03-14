@@ -1,0 +1,34 @@
+{
+  "objectId": "NMK.2018.0430",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2018.0430",
+  "title": "Oaki produsents tittel",
+  "Datering": "2018",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Oljet eik og kryssfiner",
+  "Dekorteknikk": "Olje",
+  "Materiale": [
+    "Eik",
+    "Kryssfiner"
+  ],
+  "Mål": "H 75,5 x B 57 x D 52,2 cm Vekt: 3,7 kg Bredde: 40,5 cm Dybde: 37,5 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2018.0430",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave, 2018",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Frode Larsen",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0430.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0430.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NMK.2018.0430.tif/full/full/0/default.jpg",
+      "filename": "NMK.2018.0430_NMK.2018.0430.jpg",
+      "glb": "NMK.2018.0430_NMK.2018.0430.glb"
+    }
+  ],
+  "model3d": "NMK.2018.0430_NMK.2018.0430.glb"
+}

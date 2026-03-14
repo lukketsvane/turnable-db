@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-09692",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-09692",
+  "title": "Stol",
+  "Datering": "Mellom 1660 og 1680",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol i nøttetre med rotting i sete og rygg, samt utskjæringer og svarvet stolpekonstruksjon.",
+  "Teknikk": [
+    "Fletting",
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Gjennombrutt utskjæring",
+    "Dreiing",
+    "Voksboning",
+    "Lasering"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Palme"
+  ],
+  "Mål": "H 123,5 x B 50 x D 52 cm Bredde: 49,5 cm Dybde: 40,5 cm Høyde: 44,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Barokk",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-09692",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Testamentarisk gave, innkommet 1923",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35740.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35740.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35740.tif/full/full/0/default.jpg",
+      "filename": "OK-09692_35740.jpg",
+      "glb": "OK-09692_35740.glb"
+    }
+  ],
+  "model3d": "OK-09692_35740.glb"
+}

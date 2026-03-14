@@ -1,0 +1,41 @@
+{
+  "objectId": "NMK.2011.0004",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2011.0004",
+  "title": "Nestor produsents tittel",
+  "Datering": "1958",
+  "Betegnelse": "Karmstol",
+  "Materiale og teknikk": "Stol i oljet teak, med sete trukket i ull.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Fernissering",
+    "Oljing"
+  ],
+  "Materiale": [
+    "Ull",
+    "Teak",
+    "Eik",
+    "Kryssfiner"
+  ],
+  "Mål": "H 75 x B 52,5 x D 55 cm Bredde: 45 cm Dybde: 44 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2011.0004",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2011",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37575.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37575.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37575.tif/full/full/0/default.jpg",
+      "filename": "NMK.2011.0004_37575.jpg",
+      "glb": "NMK.2011.0004_37575.glb"
+    }
+  ],
+  "model3d": "NMK.2011.0004_37575.glb"
+}

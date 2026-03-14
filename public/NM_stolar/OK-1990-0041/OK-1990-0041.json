@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-1990-0041",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1990-0041",
+  "title": "Stol",
+  "Datering": "1964",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Sveiset stålrør med polstret kryssfiner trukket med lær",
+  "Teknikk": [
+    "Skruing",
+    "Laminering",
+    "Sveising",
+    "Polstring",
+    "Formbøying"
+  ],
+  "Materiale": [
+    "Annet, kunstlær",
+    "Stål",
+    "Kryssfiner",
+    "Nøttetre"
+  ],
+  "Mål": "H 78,5 cm x B 48,5 cm x D 45 cm Høyde: 48,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "OK-1990-0041",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1990",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94881.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94881.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94881.tif/full/full/0/default.jpg",
+      "filename": "OK-1990-0041_94881.jpg",
+      "glb": "OK-1990-0041_94881.glb"
+    }
+  ],
+  "model3d": "OK-1990-0041_94881.glb"
+}

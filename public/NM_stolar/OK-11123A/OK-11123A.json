@@ -1,0 +1,41 @@
+{
+  "objectId": "OK-11123A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-11123A",
+  "title": "Stol",
+  "Datering": "Mellom 1895 og 1905",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "profilert, dreiet og fernissert eik, fløyelstrekk",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Fløyel"
+  ],
+  "Dekorteknikk": [
+    "Fernissering",
+    "Dreiing",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Eik",
+    "Tekstil"
+  ],
+  "Mål": "H 91 x 42,5 x D 49,5 cm Bredde: 42,5 cm Dybde: 40,5 cm Høyde: 45,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Oslo",
+  "Inventarnr.": "OK-11123A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave, år ukjent (mellom 1900 og 1940)",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94801.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94801.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94801.tif/full/full/0/default.jpg",
+      "filename": "OK-11123A_94801.jpg",
+      "glb": "OK-11123A_94801.glb"
+    }
+  ],
+  "model3d": "OK-11123A_94801.glb"
+}

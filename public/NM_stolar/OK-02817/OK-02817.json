@@ -1,0 +1,43 @@
+{
+  "objectId": "OK-02817",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-02817",
+  "title": "Stol",
+  "Datering": "Første halvdel av 1600-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Svarvede elementer og stolpekonstruksjon, utført i bøk, stoppet sete og rygg trukket med turkey-work",
+  "Teknikk": [
+    "Tapping",
+    "Plugging",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Beising",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Tekstil",
+    "Eik"
+  ],
+  "Mål": "H 99,5 x B 44,5 x D 47,5 cm Dybde: 39 cm Bredde: 44,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Renessanse",
+  "Produksjonssted": "Europa",
+  "Inventarnr.": "OK-02817",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1886",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas/Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35728.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35728.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35728.tif/full/full/0/default.jpg",
+      "filename": "OK-02817_35728.jpg",
+      "glb": "OK-02817_35728.glb"
+    }
+  ],
+  "model3d": "OK-02817_35728.glb"
+}

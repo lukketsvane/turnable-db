@@ -1,0 +1,40 @@
+{
+  "objectId": "OK-14890",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-14890",
+  "title": "Stol",
+  "Datering": "ca. 1860",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Beiset og polert mahogni med skåret dekor og plysjtrekk.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Beising",
+    "Fernissering",
+    "Relieffskjæring",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Tekstil, plysj",
+    "Mahogni"
+  ],
+  "Mål": "H 91 x B 51 x D 46 cm Høyde: 46 cm Bredde: 51 cm Dybde: 46 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Inventarnr.": "OK-14890",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1954",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07197.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07197.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07197.tif/full/full/0/default.jpg",
+      "filename": "OK-14890_07197.jpg",
+      "glb": "OK-14890_07197.glb"
+    }
+  ],
+  "model3d": "OK-14890_07197.glb"
+}

@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-06612",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-06612",
+  "title": "Nollstolen originaltittel",
+  "Datering": "1790-1820",
+  "Andre titler": "Nollstolen (SWE)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Hvitmalt bøk med skåret dekor, setetrekk i kunstsilke.",
+  "Teknikk": "Polstring",
+  "Dekorteknikk": [
+    "Ornamentskjæring",
+    "Gjennombrutt utskjæring",
+    "Lavt relieff",
+    "Bemaling",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Syntetiske fibre, kunstsilke"
+  ],
+  "Mål": "H 85,2 x B 47 x D 38 cm Høyde: 85,2 cm Dybde: 38 cm Bredde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Sheraton",
+  "Produksjonssted": [
+    "Lindome",
+    "Sverige"
+  ],
+  "Inventarnr.": "OK-06612",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1902",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07254.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07254.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07254.tif/full/full/0/default.jpg",
+      "filename": "OK-06612_07254.jpg",
+      "glb": "OK-06612_07254.glb"
+    }
+  ],
+  "model3d": "OK-06612_07254.glb"
+}

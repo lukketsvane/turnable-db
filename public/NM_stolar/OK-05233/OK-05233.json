@@ -1,0 +1,49 @@
+{
+  "objectId": "OK-05233",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05233",
+  "title": "Stol",
+  "Datering": "Mellom 1740 og 1775",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Mahogni med sterkt gjennombrutte utskjæringer i rygg, sete med fløyelstrekk.",
+  "Teknikk": [
+    "Tapping",
+    "Polstring"
+  ],
+  "Dekorteknikk": [
+    "Relieffskjæring",
+    "Beising",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Mahogni",
+    "Tekstil, fløyel",
+    "Bøk"
+  ],
+  "Mål": "H 96,5 x B 57 x D 55 cm Høyde: 7 cm Bredde: 49 cm Dybde: 39 cm Vekt: 8,5 kg",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322.41 - Møbelsnekring",
+    "531.46 - Møbelkunst"
+  ],
+  "Stilperiode": "Rokokko",
+  "Produksjonssted": "Storbritannia",
+  "Inventarnr.": "OK-05233",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1896",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35915.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35915.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35915.tif/full/full/0/default.jpg",
+      "filename": "OK-05233_35915.jpg",
+      "glb": "OK-05233_35915.glb"
+    }
+  ],
+  "model3d": "OK-05233_35915.glb"
+}

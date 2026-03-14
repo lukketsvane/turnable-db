@@ -1,0 +1,53 @@
+{
+  "objectId": "OK-1972-0006A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1972-0006A",
+  "title": "Stol",
+  "Datering": "1887",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dreid og beiset eik med relieffdekor, trukket med lær med ornament i gyllenlærsteknikk",
+  "Teknikk": [
+    "Tapping",
+    "Plugging",
+    "Spikring"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Fernissering",
+    "Forgylling",
+    "Beising",
+    "Lavt relieff",
+    "Preging",
+    "Dekorbemaling",
+    "Profilering"
+  ],
+  "Materiale": [
+    "Eik",
+    "Messing",
+    "Skinn/lær/pergament"
+  ],
+  "Mål": "H 101 x B 46 x D 55,7 cm Dybde: 47 cm Bredde: 46 cm Høyde: 46,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "322 - Trearbeid"
+  ],
+  "Produksjonssted": [
+    "Wien",
+    "Østerrike"
+  ],
+  "Inventarnr.": "OK-1972-0006A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1972",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94855.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94855.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94855.tif/full/full/0/default.jpg",
+      "filename": "OK-1972-0006A_94855.jpg",
+      "glb": "OK-1972-0006A_94855.glb"
+    }
+  ],
+  "model3d": "OK-1972-0006A_94855.glb"
+}

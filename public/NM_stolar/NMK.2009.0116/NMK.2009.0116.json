@@ -1,0 +1,47 @@
+{
+  "objectId": "NMK.2009.0116",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2009.0116",
+  "title": "Dock high produsents tittel",
+  "Datering": "2002",
+  "Andre titler": "Dock high (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stolskall i formpresset laminert eikefiner, med understell i stål.",
+  "Teknikk": [
+    "Laminering",
+    "Formbøying"
+  ],
+  "Dekorteknikk": "Laminering",
+  "Materiale": [
+    "Eik",
+    "Stål",
+    "Plast"
+  ],
+  "Mål": "B 58 x D 52 x H 79,5 cm Høyde: 79,5 cm Bredde: 58 cm Dybde: 52 cm",
+  "Emneord": [
+    "Møbel",
+    "Design",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Stilperiode": "Modernisme",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "NMK.2009.0116",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Norway Says 10, 2010 - 2012",
+  "Ervervelse": "Kjøpt 2009",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22866.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22866.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/22866.tif/full/full/0/default.jpg",
+      "filename": "NMK.2009.0116_22866.jpg",
+      "glb": "NMK.2009.0116_22866.glb"
+    }
+  ],
+  "model3d": "NMK.2009.0116_22866.glb"
+}

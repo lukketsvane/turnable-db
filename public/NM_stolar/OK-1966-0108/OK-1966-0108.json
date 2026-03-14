@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-1966-0108",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1966-0108",
+  "title": "Y-stolen produsents tittel",
+  "Datering": "1950",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert eik, flettet sete",
+  "Teknikk": [
+    "Fletting",
+    "Fernissering",
+    "Tapping"
+  ],
+  "Materiale": [
+    "Eik",
+    "Papirsnor"
+  ],
+  "Mål": "H 72,5 x B 56 x D 52 cm Dybde: 43 cm Bredde: 42 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler",
+    "531.1 - Formgiving"
+  ],
+  "Stilperiode": "Scandinavian Design",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-1966-0108",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1966",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-1966-0108++20240115.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-1966-0108++20240115.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/OK-1966-0108++20240115.tif/full/full/0/default.jpg",
+      "filename": "OK-1966-0108_OK-1966-0108++20240115.jpg",
+      "glb": "OK-1966-0108_OK-1966-0108++20240115.glb"
+    }
+  ],
+  "model3d": "OK-1966-0108_OK-1966-0108++20240115.glb"
+}

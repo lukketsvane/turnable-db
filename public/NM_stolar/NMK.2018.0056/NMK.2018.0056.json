@@ -1,0 +1,33 @@
+{
+  "objectId": "NMK.2018.0056",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2018.0056",
+  "title": "Stol, utkast",
+  "Datering": "Begynnelsen 1900-tallet",
+  "Andre titler": "Chair, sketch (ENG)",
+  "Betegnelse": "Tegning",
+  "Materiale og teknikk": "Penn og blyant på papir",
+  "Teknikk": [
+    "Penn",
+    "Blyant"
+  ],
+  "Materiale": "Papir",
+  "Mål": "93 x 174 mm",
+  "Emneord": "Bildende kunst",
+  "Klassifikasjon": "532 - Bildende kunst",
+  "Motiv": "Møbel",
+  "Inventarnr.": "NMK.2018.0056",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2018",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Billedkunstsamlingene",
+  "Foto": "Børre Høstland",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157540.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157540.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/157540.tif/full/full/0/default.jpg",
+      "filename": "NMK.2018.0056_157540.jpg",
+      "glb": "NMK.2018.0056_157540.glb"
+    }
+  ],
+  "model3d": "NMK.2018.0056_157540.glb"
+}

@@ -1,0 +1,54 @@
+{
+  "objectId": "OK-10700",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-10700",
+  "title": "Gårastolen",
+  "Datering": "Antagelig 1280-1350",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Kassestol i stolpekonstruksjon, bjerk og furu med utskåret dekor, fernissering",
+  "Teknikk": [
+    "Plugging",
+    "Tapping"
+  ],
+  "Dekorteknikk": [
+    "Flatskurd",
+    "Figurskjæring",
+    "Fernissering",
+    "Lasering"
+  ],
+  "Materiale": [
+    "Furu",
+    "Bjørk"
+  ],
+  "Mål": "H 94,7 x B 92,6 x D 71 cm Dybde: 47,5 cm Bredde: 59 cm Høyde: 55,5 cm",
+  "Emneord": [
+    "Møbel",
+    "Kunstindustri"
+  ],
+  "Klassifikasjon": [
+    "322 - Trearbeid",
+    "352.1 - Sittemøbler",
+    "531.41 - Treskjæring",
+    "771 - Religion i sin alminnelighet"
+  ],
+  "Stilperiode": "Middelalder",
+  "Produksjonssted": [
+    "Bø",
+    "Bø T"
+  ],
+  "Inventarnr.": "OK-10700",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Kunstaudiens. Nasjonalmuseet i Kunststallen, 2021",
+  "Ervervelse": "Gave 1936",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas/Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35775.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35775.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35775.tif/full/full/0/default.jpg",
+      "filename": "OK-10700_35775.jpg",
+      "glb": "OK-10700_35775.glb"
+    }
+  ],
+  "model3d": "OK-10700_35775.glb"
+}

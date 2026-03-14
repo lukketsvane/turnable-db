@@ -1,0 +1,50 @@
+{
+  "objectId": "OK-02615",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-02615",
+  "title": "Stol",
+  "Datering": "1886",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Stol med dreide elemente utført i eik. Stoppet sete og rygg trukket med lær.",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Fletting"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Beising",
+    "Voksboning",
+    "Profilering",
+    "Preging"
+  ],
+  "Materiale": [
+    "Eik",
+    "Palme",
+    "Bøk",
+    "Lær",
+    "Messing"
+  ],
+  "Mål": "H 103,5 x B 46 x D 51 cm Høyde: 46 cm Bredde: 46 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Nybarokk",
+  "Produksjonssted": [
+    "Hamburg",
+    "Tyskland"
+  ],
+  "Inventarnr.": "OK-02615",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1886",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37080.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37080.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/37080.tif/full/full/0/default.jpg",
+      "filename": "OK-02615_37080.jpg",
+      "glb": "OK-02615_37080.glb"
+    }
+  ],
+  "model3d": "OK-02615_37080.glb"
+}

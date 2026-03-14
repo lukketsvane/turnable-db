@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-2002-0175A",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-2002-0175A",
+  "title": "Penta produsents tittel",
+  "Datering": "1995",
+  "Andre titler": "Penta (DAN)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Laminert bøk og polstret skinn",
+  "Teknikk": [
+    "Laminering",
+    "Polstring",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Formbøying",
+    "Beising",
+    "Lakkering"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Kryssfiner",
+    "Skinn/lær/pergament"
+  ],
+  "Mål": "H 100 x B 70,5 x D 88 cm Dybde: 88 cm Høyde: 100 cm Bredde: 70,5 cm",
+  "Emneord": [
+    "Design",
+    "Møbel"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": [
+    "Møldrup",
+    "Danmark"
+  ],
+  "Inventarnr.": "OK-2002-0175A",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 2002",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-2002-0175A_120544.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/120544.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/120544.tif/full/512,/0/default.jpg",
+      "glb": "OK-2002-0175A_120544.glb"
+    }
+  ],
+  "model3d": "OK-2002-0175A_120544.glb"
+}

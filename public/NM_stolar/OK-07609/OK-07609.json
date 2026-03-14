@@ -1,0 +1,42 @@
+{
+  "objectId": "OK-07609",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-07609",
+  "title": "Stol",
+  "Datering": "første halvdel av 1800-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Brunmalt bjørk og furu med skåret dekor.",
+  "Teknikk": [
+    "Spikring",
+    "Innfelling"
+  ],
+  "Dekorteknikk": [
+    "Bemaling",
+    "Treskjæring"
+  ],
+  "Materiale": [
+    "Bjørk",
+    "Furu"
+  ],
+  "Mål": "H 68 x B 47 x D 36 cm Høyde: 68 cm Dybde: 36 cm Bredde: 47 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "322.48 - Møbeldesign",
+    "352.1 - Sittemøbler"
+  ],
+  "Produksjonssted": "Russland",
+  "Inventarnr.": "OK-07609",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1906",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Andreas Harvik",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07265.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07265.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07265.tif/full/full/0/default.jpg",
+      "filename": "OK-07609_07265.jpg",
+      "glb": "OK-07609_07265.glb"
+    }
+  ],
+  "model3d": "OK-07609_07265.glb"
+}

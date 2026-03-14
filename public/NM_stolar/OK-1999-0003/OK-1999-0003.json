@@ -1,0 +1,45 @@
+{
+  "objectId": "OK-1999-0003",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-1999-0003",
+  "title": "Stol",
+  "Datering": "1997",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fargelakkert formbøyd kryssfiner, forkrommet stål, polstring med trekk av semsket skinn",
+  "Teknikk": [
+    "Polstring",
+    "Laminering",
+    "Formbøying",
+    "Skruing"
+  ],
+  "Dekorteknikk": [
+    "Fargelakkering",
+    "Forkromming"
+  ],
+  "Materiale": [
+    "Skinn",
+    "Kryssfiner",
+    "Stål"
+  ],
+  "Mål": "H 94,5 x B 48 x D 57 cm Dybde: 40 cm Bredde: 41 cm",
+  "Emneord": [
+    "Møbel",
+    "Design"
+  ],
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-1999-0003",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Gave 1999",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Børre Høstland",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07089.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07089.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/07089.tif/full/full/0/default.jpg",
+      "filename": "OK-1999-0003_07089.jpg",
+      "glb": "OK-1999-0003_07089.glb"
+    }
+  ],
+  "model3d": "OK-1999-0003_07089.glb"
+}

@@ -1,0 +1,47 @@
+{
+  "objectId": "OK-05548",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-05548",
+  "title": "Stol",
+  "Datering": "Ca. 1810",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Skåret furu, beiset og fernissert, polstret sete trukket med hestehår",
+  "Teknikk": [
+    "Polstring",
+    "Tapping",
+    "Finering"
+  ],
+  "Dekorteknikk": [
+    "Profilering",
+    "Treskjæring",
+    "Fernissering",
+    "Beising",
+    "Intarsia"
+  ],
+  "Materiale": [
+    "Tre, furu (BI)",
+    "Hestetagl",
+    "Mahogni",
+    "Vegetabilske fibre",
+    "Lønn"
+  ],
+  "Mål": "H 85,5 x B 51,5 x D 50 cm Dybde: 38,5 cm Høyde: 43 cm Bredde: 51,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322 - Trearbeid"
+  ],
+  "Produksjonssted": "Norge",
+  "Inventarnr.": "OK-05548",
+  "Registreringsnivå": "Komplekst objekt",
+  "Ervervelse": "Kjøpt 1897",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "images": [
+    {
+      "filename": "OK-05548_66321.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66321.tif/full/1600,/0/default.jpg",
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/66321.tif/full/512,/0/default.jpg",
+      "glb": "OK-05548_66321.glb"
+    }
+  ],
+  "model3d": "OK-05548_66321.glb"
+}

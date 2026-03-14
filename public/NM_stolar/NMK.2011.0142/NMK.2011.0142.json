@@ -1,0 +1,45 @@
+{
+  "objectId": "NMK.2011.0142",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/NMK.2011.0142",
+  "title": "Bone produsents tittel",
+  "Datering": "2009",
+  "Andre titler": "Bone (ENG)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Fernissert eikefiner, lær og forkrommet stål.",
+  "Teknikk": [
+    "Polstring",
+    "Skruing",
+    "Formbøying",
+    "Laminering"
+  ],
+  "Dekorteknikk": [
+    "Finering",
+    "Fernissering",
+    "Forkromming"
+  ],
+  "Materiale": [
+    "Eik",
+    "Lær",
+    "Stål",
+    "Kryssfiner"
+  ],
+  "Mål": "H 74 x B 76 x D 68 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "NMK.2011.0142",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Del av utstilling": "Vær så god, sitt. Levende norsk møbeldesign, 2009 - 2010",
+  "Ervervelse": "Gave 2011",
+  "Eier og samling": "Nasjonalmuseet for kunst, arkitektur og design, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35976.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35976.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35976.tif/full/full/0/default.jpg",
+      "filename": "NMK.2011.0142_35976.jpg",
+      "glb": "NMK.2011.0142_35976.glb"
+    }
+  ],
+  "model3d": "NMK.2011.0142_35976.glb"
+}

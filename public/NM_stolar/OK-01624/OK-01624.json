@@ -1,0 +1,46 @@
+{
+  "objectId": "OK-01624",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-01624",
+  "title": "Stol",
+  "Datering": "Midten av 1600-tallet",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Dreiet og svarvet bøk, polstret sete trukket med lær, messingnagler",
+  "Teknikk": [
+    "Tapping",
+    "Plugging",
+    "Spikring"
+  ],
+  "Dekorteknikk": [
+    "Dreiing",
+    "Fernissering",
+    "Beising"
+  ],
+  "Materiale": [
+    "Bøk",
+    "Messing",
+    "Lær"
+  ],
+  "Mål": "H 96,4 x B 44,5 x D 45,5 cm Bredde: 44,5 cm Dybde: 39,3 cm Høyde: 53,8 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": [
+    "352.1 - Sittemøbler",
+    "322 - Trearbeid",
+    "322.5 - Tredreiing"
+  ],
+  "Produksjonssted": "Danmark",
+  "Inventarnr.": "OK-01624",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1876",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar/Annar Bjørgli",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94776.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94776.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94776.tif/full/full/0/default.jpg",
+      "filename": "OK-01624_94776.jpg",
+      "glb": "OK-01624_94776.glb"
+    }
+  ],
+  "model3d": "OK-01624_94776.glb"
+}

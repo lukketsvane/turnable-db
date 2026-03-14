@@ -1,0 +1,34 @@
+{
+  "objectId": "OK-18400",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-18400",
+  "title": "Fureka Element",
+  "Datering": "1976",
+  "Andre titler": "Fureka Element (NOB)",
+  "Betegnelse": "Stol",
+  "Materiale og teknikk": "Profilert furu.",
+  "Teknikk": [
+    "Tapping",
+    "Plugging"
+  ],
+  "Dekorteknikk": "Profilering",
+  "Materiale": "Furu",
+  "Mål": "H 93,5 x B 45 x D 47,5 cm Høyde: 46,7 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Inventarnr.": "OK-18400",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Ervervet mellom 1976 og 2011",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Bjørgli, Annar",
+  "Opphavsrett": "© Helseth, Edvin",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94847.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94847.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/94847.tif/full/full/0/default.jpg",
+      "filename": "OK-18400_94847.jpg",
+      "glb": "OK-18400_94847.glb"
+    }
+  ],
+  "model3d": "OK-18400_94847.glb"
+}

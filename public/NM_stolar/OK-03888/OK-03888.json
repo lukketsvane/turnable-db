@@ -1,0 +1,44 @@
+{
+  "objectId": "OK-03888",
+  "url": "https://www.nasjonalmuseet.no/samlingen/objekt/OK-03888",
+  "title": "Armstol",
+  "Datering": "Mellom 1685 og 1690",
+  "Betegnelse": "Armstol",
+  "Materiale og teknikk": "Stol i stolpekonstruksjon med dreide ben, sterkt gjennombrutte utskjæringer i rygg og benspross, sete med plysjtrekk.",
+  "Teknikk": [
+    "Tapping",
+    "Polstring",
+    "Plugging"
+  ],
+  "Dekorteknikk": [
+    "Beising",
+    "Gjennombrutt utskjæring",
+    "Dreiing",
+    "Fernissering",
+    "Gjennombrutt utskjæring"
+  ],
+  "Materiale": [
+    "Nøttetre",
+    "Tekstil, plysj"
+  ],
+  "Mål": "H 132 x B 65,2 x D 52,5 cm Bredde: 63,5 cm Høyde: 48,5 cm Dybde: 46,5 cm",
+  "Emneord": "Møbel",
+  "Klassifikasjon": "352.1 - Sittemøbler",
+  "Stilperiode": "Barokk",
+  "Produksjonssted": "Nederland",
+  "Inventarnr.": "OK-03888",
+  "Registreringsnivå": "Enkeltobjekt",
+  "Ervervelse": "Kjøpt 1892",
+  "Eier og samling": "Stiftelsen Kunstindustrimuseet, Designsamlingene",
+  "Foto": "Harvik, Andreas",
+  "images": [
+    {
+      "thumbnail": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35912.tif/full/512,/0/default.jpg",
+      "highRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35912.tif/full/1600,/0/default.jpg",
+      "fullRes": "https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/35912.tif/full/full/0/default.jpg",
+      "filename": "OK-03888_35912.jpg",
+      "glb": "OK-03888_35912.glb"
+    }
+  ],
+  "model3d": "OK-03888_35912.glb"
+}
