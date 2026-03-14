@@ -65,11 +65,27 @@ class Turntable {
     
     window.addEventListener("mouseup", this.handleEnd.bind(this))
     window.addEventListener("touchend", this.handleEnd.bind(this))
+    this.container.addEventListener("wheel", this.handleWheel.bind(this), { passive: false })
   }
 
   destroy() {
     if (this.animationFrameId) cancelAnimationFrame(this.animationFrameId)
     // Cleanup window listeners would be good here in a real React effect cleanup
+  }
+
+  handleWheel(e: WheelEvent) {
+    if (!this.video.duration) return
+    e.preventDefault() // Prevent page scroll
+    
+    // Choose the dominant scroll direction
+    const delta = Math.abs(e.deltaX) > Math.abs(e.deltaY) ? e.deltaX : e.deltaY
+    
+    // Add to target time (adjustable sensitivity)
+    this.targetTime += (delta / this.container.offsetWidth) * this.video.duration * 1.5
+    
+    // Reset velocity and history to avoid conflicts with drag momentum
+    this.velocity = 0
+    this.velocityHistory = []
   }
 
   handleStart(e: MouseEvent | TouchEvent) {
@@ -338,10 +354,13 @@ export default function Home() {
         </div>
 
         {/* Desktop Sidebar Info */}
-        <div className="hidden lg:flex flex-col fixed top-12 left-12 z-40 pointer-events-none">
-          <div className="font-mono font-black text-8xl leading-none tracking-tighter">{currentItem.symbol}</div>
-          <div className="font-mono font-black text-4xl mt-2 tracking-tighter">{currentItem.number}</div>
-          <div className="font-sans font-black text-xl mt-4 max-w-xs uppercase leading-tight">{formatName(currentItem.name)}</div>
+        <div 
+          onClick={() => router.push("/")}
+          className="hidden lg:flex flex-col fixed top-12 left-12 z-40 cursor-pointer hover:opacity-70 transition-opacity"
+        >
+          <div className="font-mono font-black text-8xl leading-none tracking-tighter pointer-events-none">{currentItem.symbol}</div>
+          <div className="font-mono font-black text-4xl mt-2 tracking-tighter pointer-events-none">{currentItem.number}</div>
+          <div className="font-sans font-black text-xl mt-4 max-w-xs uppercase leading-tight pointer-events-none">{formatName(currentItem.name)}</div>
         </div>
 
         <button 
