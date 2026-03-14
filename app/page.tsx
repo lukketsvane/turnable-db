@@ -202,8 +202,8 @@ function GridItem({ item, onClick }: { item: ChairItem; onClick: () => void }) {
           const centerY = rect.top + rect.height / 2
           const dist = Math.hypot(e.clientX - centerX, e.clientY - centerY)
           
-          // More subtle radial dropoff distance
-          const threshold = window.innerWidth > 1024 ? 300 : 200
+          // Tighter radial dropoff distance
+          const threshold = window.innerWidth > 1024 ? 180 : 120
           
           if (dist < threshold) {
             setIsActive(true)
